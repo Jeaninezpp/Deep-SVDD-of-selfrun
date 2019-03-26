@@ -1,0 +1,2250 @@
+2019-03-24 16:45:48,823 - root - INFO - Log file is ../log/mnist_test/log.txt.
+2019-03-24 16:45:48,823 - root - INFO - Data path is ../data.
+2019-03-24 16:45:48,823 - root - INFO - Export path is ../log/mnist_test.
+2019-03-24 16:45:48,823 - root - INFO - Dataset: mnist
+2019-03-24 16:45:48,823 - root - INFO - Normal class: 3
+2019-03-24 16:45:48,823 - root - INFO - Network: mnist_LeNet
+2019-03-24 16:45:48,823 - root - INFO - Deep SVDD objective: one-class
+2019-03-24 16:45:48,823 - root - INFO - Nu-paramerter: 0.10
+2019-03-24 16:45:48,842 - root - INFO - Computation device: cuda
+2019-03-24 16:45:48,842 - root - INFO - Number of dataloader workers: 0
+2019-03-24 17:01:50,296 - root - INFO - Log file is ../log/mnist_test/log.txt.
+2019-03-24 17:01:50,296 - root - INFO - Data path is ../data.
+2019-03-24 17:01:50,297 - root - INFO - Export path is ../log/mnist_test.
+2019-03-24 17:01:50,297 - root - INFO - Dataset: mnist
+2019-03-24 17:01:50,297 - root - INFO - Normal class: 3
+2019-03-24 17:01:50,297 - root - INFO - Network: mnist_LeNet
+2019-03-24 17:01:50,297 - root - INFO - Deep SVDD objective: one-class
+2019-03-24 17:01:50,297 - root - INFO - Nu-paramerter: 0.10
+2019-03-24 17:01:50,315 - root - INFO - Computation device: cuda
+2019-03-24 17:01:50,316 - root - INFO - Number of dataloader workers: 0
+2019-03-24 17:11:53,268 - root - INFO - Log file is ../log/mnist_test/log.txt.
+2019-03-24 17:11:53,268 - root - INFO - Data path is ../data.
+2019-03-24 17:11:53,269 - root - INFO - Export path is ../log/mnist_test.
+2019-03-24 17:11:53,269 - root - INFO - Dataset: mnist
+2019-03-24 17:11:53,269 - root - INFO - Normal class: 3
+2019-03-24 17:11:53,269 - root - INFO - Network: mnist_LeNet
+2019-03-24 17:11:53,269 - root - INFO - Deep SVDD objective: one-class
+2019-03-24 17:11:53,269 - root - INFO - Nu-paramerter: 0.10
+2019-03-24 17:11:53,288 - root - INFO - Computation device: cuda
+2019-03-24 17:11:53,288 - root - INFO - Number of dataloader workers: 0
+2019-03-24 17:15:12,730 - root - INFO - Log file is ../log/mnist_test/log.txt.
+2019-03-24 17:15:12,730 - root - INFO - Data path is ../data.
+2019-03-24 17:15:12,730 - root - INFO - Export path is ../log/mnist_test.
+2019-03-24 17:15:12,730 - root - INFO - Dataset: mnist
+2019-03-24 17:15:12,730 - root - INFO - Normal class: 3
+2019-03-24 17:15:12,730 - root - INFO - Network: mnist_LeNet
+2019-03-24 17:15:12,730 - root - INFO - Deep SVDD objective: one-class
+2019-03-24 17:15:12,730 - root - INFO - Nu-paramerter: 0.10
+2019-03-24 17:15:12,748 - root - INFO - Computation device: cuda
+2019-03-24 17:15:12,748 - root - INFO - Number of dataloader workers: 0
+2019-03-24 17:23:51,688 - root - INFO - Log file is ../log/mnist_test/log.txt.
+2019-03-24 17:23:51,689 - root - INFO - Data path is ../data.
+2019-03-24 17:23:51,689 - root - INFO - Export path is ../log/mnist_test.
+2019-03-24 17:23:51,689 - root - INFO - Dataset: mnist
+2019-03-24 17:23:51,689 - root - INFO - Normal class: 3
+2019-03-24 17:23:51,689 - root - INFO - Network: mnist_LeNet
+2019-03-24 17:23:51,689 - root - INFO - Deep SVDD objective: one-class
+2019-03-24 17:23:51,689 - root - INFO - Nu-paramerter: 0.10
+2019-03-24 17:23:51,707 - root - INFO - Computation device: cuda
+2019-03-24 17:23:51,707 - root - INFO - Number of dataloader workers: 0
+2019-03-24 17:31:02,516 - root - INFO - Log file is ../log/mnist_test/log.txt.
+2019-03-24 17:31:02,516 - root - INFO - Data path is ../data.
+2019-03-24 17:31:02,516 - root - INFO - Export path is ../log/mnist_test.
+2019-03-24 17:31:02,516 - root - INFO - Dataset: mnist
+2019-03-24 17:31:02,516 - root - INFO - Normal class: 3
+2019-03-24 17:31:02,516 - root - INFO - Network: mnist_LeNet
+2019-03-24 17:31:02,516 - root - INFO - Deep SVDD objective: one-class
+2019-03-24 17:31:02,516 - root - INFO - Nu-paramerter: 0.10
+2019-03-24 17:31:02,534 - root - INFO - Computation device: cuda
+2019-03-24 17:31:02,535 - root - INFO - Number of dataloader workers: 0
+2019-03-24 17:31:15,824 - root - INFO - Log file is ../log/mnist_test/log.txt.
+2019-03-24 17:31:15,824 - root - INFO - Data path is ../data.
+2019-03-24 17:31:15,824 - root - INFO - Export path is ../log/mnist_test.
+2019-03-24 17:31:15,824 - root - INFO - Dataset: mnist
+2019-03-24 17:31:15,824 - root - INFO - Normal class: 3
+2019-03-24 17:31:15,824 - root - INFO - Network: mnist_LeNet
+2019-03-24 17:31:15,824 - root - INFO - Deep SVDD objective: one-class
+2019-03-24 17:31:15,824 - root - INFO - Nu-paramerter: 0.10
+2019-03-24 17:31:15,842 - root - INFO - Computation device: cuda
+2019-03-24 17:31:15,842 - root - INFO - Number of dataloader workers: 1
+2019-03-24 17:33:24,160 - root - INFO - Log file is ../log/mnist_test/log.txt.
+2019-03-24 17:33:24,160 - root - INFO - Data path is ../data.
+2019-03-24 17:33:24,160 - root - INFO - Export path is ../log/mnist_test.
+2019-03-24 17:33:24,160 - root - INFO - Dataset: mnist
+2019-03-24 17:33:24,160 - root - INFO - Normal class: 3
+2019-03-24 17:33:24,160 - root - INFO - Network: mnist_LeNet
+2019-03-24 17:33:24,160 - root - INFO - Deep SVDD objective: one-class
+2019-03-24 17:33:24,160 - root - INFO - Nu-paramerter: 0.10
+2019-03-24 17:33:24,177 - root - INFO - Computation device: cuda
+2019-03-24 17:33:24,177 - root - INFO - Number of dataloader workers: 1
+2019-03-24 17:34:13,078 - root - INFO - Log file is ../log/mnist_test/log.txt.
+2019-03-24 17:34:13,078 - root - INFO - Data path is ../data.
+2019-03-24 17:34:13,078 - root - INFO - Export path is ../log/mnist_test.
+2019-03-24 17:34:13,078 - root - INFO - Dataset: mnist
+2019-03-24 17:34:13,078 - root - INFO - Normal class: 3
+2019-03-24 17:34:13,078 - root - INFO - Network: mnist_LeNet
+2019-03-24 17:34:13,078 - root - INFO - Deep SVDD objective: one-class
+2019-03-24 17:34:13,078 - root - INFO - Nu-paramerter: 0.10
+2019-03-24 17:34:13,096 - root - INFO - Computation device: cuda
+2019-03-24 17:34:13,096 - root - INFO - Number of dataloader workers: 1
+2019-03-24 17:36:50,026 - root - INFO - Log file is ../log/mnist_test/log.txt.
+2019-03-24 17:36:50,026 - root - INFO - Data path is ../data.
+2019-03-24 17:36:50,026 - root - INFO - Export path is ../log/mnist_test.
+2019-03-24 17:36:50,026 - root - INFO - Dataset: mnist
+2019-03-24 17:36:50,026 - root - INFO - Normal class: 3
+2019-03-24 17:36:50,026 - root - INFO - Network: mnist_LeNet
+2019-03-24 17:36:50,026 - root - INFO - Deep SVDD objective: one-class
+2019-03-24 17:36:50,026 - root - INFO - Nu-paramerter: 0.10
+2019-03-24 17:36:50,044 - root - INFO - Computation device: cuda
+2019-03-24 17:36:50,044 - root - INFO - Number of dataloader workers: 1
+2019-03-24 17:37:57,661 - root - INFO - Log file is ../log/mnist_test/log.txt.
+2019-03-24 17:37:57,661 - root - INFO - Data path is ../data.
+2019-03-24 17:37:57,661 - root - INFO - Export path is ../log/mnist_test.
+2019-03-24 17:37:57,661 - root - INFO - Dataset: mnist
+2019-03-24 17:37:57,661 - root - INFO - Normal class: 3
+2019-03-24 17:37:57,661 - root - INFO - Network: mnist_LeNet
+2019-03-24 17:37:57,661 - root - INFO - Deep SVDD objective: one-class
+2019-03-24 17:37:57,661 - root - INFO - Nu-paramerter: 0.10
+2019-03-24 17:37:57,679 - root - INFO - Computation device: cuda
+2019-03-24 17:37:57,679 - root - INFO - Number of dataloader workers: 1
+2019-03-24 17:39:43,479 - root - INFO - Log file is ../log/mnist_test/log.txt.
+2019-03-24 17:39:43,479 - root - INFO - Data path is ../data.
+2019-03-24 17:39:43,479 - root - INFO - Export path is ../log/mnist_test.
+2019-03-24 17:39:43,480 - root - INFO - Dataset: mnist
+2019-03-24 17:39:43,480 - root - INFO - Normal class: 3
+2019-03-24 17:39:43,480 - root - INFO - Network: mnist_LeNet
+2019-03-24 17:39:43,480 - root - INFO - Deep SVDD objective: one-class
+2019-03-24 17:39:43,480 - root - INFO - Nu-paramerter: 0.10
+2019-03-24 17:39:43,498 - root - INFO - Computation device: cuda
+2019-03-24 17:39:43,498 - root - INFO - Number of dataloader workers: 1
+2019-03-24 17:40:05,986 - root - INFO - Log file is ../log/mnist_test/log.txt.
+2019-03-24 17:40:05,986 - root - INFO - Data path is ../data.
+2019-03-24 17:40:05,986 - root - INFO - Export path is ../log/mnist_test.
+2019-03-24 17:40:05,986 - root - INFO - Dataset: mnist
+2019-03-24 17:40:05,986 - root - INFO - Normal class: 3
+2019-03-24 17:40:05,986 - root - INFO - Network: mnist_LeNet
+2019-03-24 17:40:05,986 - root - INFO - Deep SVDD objective: one-class
+2019-03-24 17:40:05,986 - root - INFO - Nu-paramerter: 0.10
+2019-03-24 17:40:06,004 - root - INFO - Computation device: cuda
+2019-03-24 17:40:06,004 - root - INFO - Number of dataloader workers: 1
+2019-03-24 17:57:54,870 - root - INFO - Log file is ../log/mnist_test/log.txt.
+2019-03-24 17:57:54,870 - root - INFO - Data path is ../data.
+2019-03-24 17:57:54,870 - root - INFO - Export path is ../log/mnist_test.
+2019-03-24 17:57:54,870 - root - INFO - Dataset: mnist
+2019-03-24 17:57:54,871 - root - INFO - Normal class: 3
+2019-03-24 17:57:54,871 - root - INFO - Network: mnist_LeNet
+2019-03-24 17:57:54,871 - root - INFO - Deep SVDD objective: one-class
+2019-03-24 17:57:54,871 - root - INFO - Nu-paramerter: 0.10
+2019-03-24 17:57:54,889 - root - INFO - Computation device: cuda
+2019-03-24 17:57:54,889 - root - INFO - Number of dataloader workers: 1
+2019-03-24 17:59:01,000 - root - INFO - Log file is ../log/mnist_test/log.txt.
+2019-03-24 17:59:01,000 - root - INFO - Data path is ../data.
+2019-03-24 17:59:01,000 - root - INFO - Export path is ../log/mnist_test.
+2019-03-24 17:59:01,000 - root - INFO - Dataset: mnist
+2019-03-24 17:59:01,000 - root - INFO - Normal class: 3
+2019-03-24 17:59:01,000 - root - INFO - Network: mnist_LeNet
+2019-03-24 17:59:01,000 - root - INFO - Deep SVDD objective: one-class
+2019-03-24 17:59:01,000 - root - INFO - Nu-paramerter: 0.10
+2019-03-24 17:59:01,019 - root - INFO - Computation device: cuda
+2019-03-24 17:59:01,019 - root - INFO - Number of dataloader workers: 1
+2019-03-24 18:00:52,481 - root - INFO - Log file is ../log/mnist_test/log.txt.
+2019-03-24 18:00:52,481 - root - INFO - Data path is ../data.
+2019-03-24 18:00:52,481 - root - INFO - Export path is ../log/mnist_test.
+2019-03-24 18:00:52,481 - root - INFO - Dataset: mnist
+2019-03-24 18:00:52,481 - root - INFO - Normal class: 3
+2019-03-24 18:00:52,481 - root - INFO - Network: mnist_LeNet
+2019-03-24 18:00:52,481 - root - INFO - Deep SVDD objective: one-class
+2019-03-24 18:00:52,481 - root - INFO - Nu-paramerter: 0.10
+2019-03-24 18:00:52,498 - root - INFO - Computation device: cuda
+2019-03-24 18:00:52,498 - root - INFO - Number of dataloader workers: 1
+2019-03-24 18:23:29,401 - root - INFO - Log file is ../log/mnist_test/log.txt.
+2019-03-24 18:23:29,401 - root - INFO - Data path is ../data.
+2019-03-24 18:23:29,401 - root - INFO - Export path is ../log/mnist_test.
+2019-03-24 18:23:29,401 - root - INFO - Dataset: mnist
+2019-03-24 18:23:29,401 - root - INFO - Normal class: 3
+2019-03-24 18:23:29,401 - root - INFO - Network: mnist_LeNet
+2019-03-24 18:23:29,401 - root - INFO - Deep SVDD objective: one-class
+2019-03-24 18:23:29,401 - root - INFO - Nu-paramerter: 0.10
+2019-03-24 18:23:29,415 - root - INFO - Computation device: cuda
+2019-03-24 18:23:29,415 - root - INFO - Number of dataloader workers: 0
+2019-03-24 18:30:10,312 - root - INFO - Log file is ../log/mnist_test/log.txt.
+2019-03-24 18:30:10,312 - root - INFO - Data path is ../data.
+2019-03-24 18:30:10,312 - root - INFO - Export path is ../log/mnist_test.
+2019-03-24 18:30:10,312 - root - INFO - Dataset: mnist
+2019-03-24 18:30:10,312 - root - INFO - Normal class: 3
+2019-03-24 18:30:10,312 - root - INFO - Network: mnist_LeNet
+2019-03-24 18:30:10,312 - root - INFO - Deep SVDD objective: one-class
+2019-03-24 18:30:10,312 - root - INFO - Nu-paramerter: 0.10
+2019-03-24 18:30:10,330 - root - INFO - Computation device: cuda
+2019-03-24 18:30:10,331 - root - INFO - Number of dataloader workers: 0
+2019-03-24 18:30:10,680 - root - INFO - Pretraining: True
+2019-03-24 18:30:10,681 - root - INFO - Pretraining optimizer: adam
+2019-03-24 18:30:10,681 - root - INFO - Pretraining learning rate: 0.0001
+2019-03-24 18:30:10,681 - root - INFO - Pretraining epochs: 150
+2019-03-24 18:30:10,681 - root - INFO - Pretraining learning rate scheduler milestones: (50,)
+2019-03-24 18:30:10,681 - root - INFO - Pretraining batch size: 200
+2019-03-24 18:30:10,681 - root - INFO - Pretraining weight decay: 0.0005
+2019-03-24 18:30:12,500 - root - INFO - Starting pretraining...
+2019-03-24 18:30:13,493 - root - INFO -   Epoch 1/150	 Time: 0.993	 Loss: 177.72975159
+2019-03-24 18:30:14,457 - root - INFO -   Epoch 2/150	 Time: 0.964	 Loss: 141.51106459
+2019-03-24 18:30:15,417 - root - INFO -   Epoch 3/150	 Time: 0.960	 Loss: 110.40421714
+2019-03-24 18:30:16,383 - root - INFO -   Epoch 4/150	 Time: 0.966	 Loss: 84.63040161
+2019-03-24 18:30:17,346 - root - INFO -   Epoch 5/150	 Time: 0.963	 Loss: 64.51572603
+2019-03-24 18:30:18,308 - root - INFO -   Epoch 6/150	 Time: 0.962	 Loss: 49.89636477
+2019-03-24 18:30:19,264 - root - INFO -   Epoch 7/150	 Time: 0.955	 Loss: 39.51188340
+2019-03-24 18:30:20,221 - root - INFO -   Epoch 8/150	 Time: 0.957	 Loss: 32.09643579
+2019-03-24 18:30:21,174 - root - INFO -   Epoch 9/150	 Time: 0.954	 Loss: 26.67990229
+2019-03-24 18:30:22,130 - root - INFO -   Epoch 10/150	 Time: 0.956	 Loss: 22.63582230
+2019-03-24 18:30:23,088 - root - INFO -   Epoch 11/150	 Time: 0.957	 Loss: 19.54936440
+2019-03-24 18:30:24,046 - root - INFO -   Epoch 12/150	 Time: 0.958	 Loss: 17.15972833
+2019-03-24 18:30:25,002 - root - INFO -   Epoch 13/150	 Time: 0.956	 Loss: 15.30118985
+2019-03-24 18:30:25,957 - root - INFO -   Epoch 14/150	 Time: 0.955	 Loss: 13.82810968
+2019-03-24 18:30:26,913 - root - INFO -   Epoch 15/150	 Time: 0.955	 Loss: 12.64609002
+2019-03-24 18:30:27,867 - root - INFO -   Epoch 16/150	 Time: 0.954	 Loss: 11.67179397
+2019-03-24 18:30:28,823 - root - INFO -   Epoch 17/150	 Time: 0.955	 Loss: 10.86202132
+2019-03-24 18:30:29,776 - root - INFO -   Epoch 18/150	 Time: 0.954	 Loss: 10.19186038
+2019-03-24 18:30:30,733 - root - INFO -   Epoch 19/150	 Time: 0.956	 Loss: 9.61496498
+2019-03-24 18:30:31,688 - root - INFO -   Epoch 20/150	 Time: 0.955	 Loss: 9.11935705
+2019-03-24 18:30:32,643 - root - INFO -   Epoch 21/150	 Time: 0.954	 Loss: 8.69126797
+2019-03-24 18:30:33,598 - root - INFO -   Epoch 22/150	 Time: 0.955	 Loss: 8.31800578
+2019-03-24 18:30:34,555 - root - INFO -   Epoch 23/150	 Time: 0.957	 Loss: 7.98401857
+2019-03-24 18:30:35,511 - root - INFO -   Epoch 24/150	 Time: 0.956	 Loss: 7.68394073
+2019-03-24 18:30:36,466 - root - INFO -   Epoch 25/150	 Time: 0.955	 Loss: 7.41815645
+2019-03-24 18:30:37,423 - root - INFO -   Epoch 26/150	 Time: 0.956	 Loss: 7.17720507
+2019-03-24 18:30:38,377 - root - INFO -   Epoch 27/150	 Time: 0.954	 Loss: 6.95752228
+2019-03-24 18:30:39,331 - root - INFO -   Epoch 28/150	 Time: 0.953	 Loss: 6.75548261
+2019-03-24 18:30:40,286 - root - INFO -   Epoch 29/150	 Time: 0.955	 Loss: 6.57614359
+2019-03-24 18:30:41,243 - root - INFO -   Epoch 30/150	 Time: 0.957	 Loss: 6.40772853
+2019-03-24 18:30:42,198 - root - INFO -   Epoch 31/150	 Time: 0.955	 Loss: 6.24893510
+2019-03-24 18:30:43,161 - root - INFO -   Epoch 32/150	 Time: 0.963	 Loss: 6.11044593
+2019-03-24 18:30:44,118 - root - INFO -   Epoch 33/150	 Time: 0.957	 Loss: 5.97853082
+2019-03-24 18:30:45,077 - root - INFO -   Epoch 34/150	 Time: 0.959	 Loss: 5.86373002
+2019-03-24 18:30:46,033 - root - INFO -   Epoch 35/150	 Time: 0.956	 Loss: 5.74305954
+2019-03-24 18:30:46,990 - root - INFO -   Epoch 36/150	 Time: 0.957	 Loss: 5.64285571
+2019-03-24 18:30:47,946 - root - INFO -   Epoch 37/150	 Time: 0.955	 Loss: 5.53978969
+2019-03-24 18:30:48,901 - root - INFO -   Epoch 38/150	 Time: 0.955	 Loss: 5.44955824
+2019-03-24 18:30:49,859 - root - INFO -   Epoch 39/150	 Time: 0.958	 Loss: 5.36189021
+2019-03-24 18:30:50,814 - root - INFO -   Epoch 40/150	 Time: 0.955	 Loss: 5.27580827
+2019-03-24 18:30:51,770 - root - INFO -   Epoch 41/150	 Time: 0.955	 Loss: 5.19665495
+2019-03-24 18:30:52,726 - root - INFO -   Epoch 42/150	 Time: 0.956	 Loss: 5.12415584
+2019-03-24 18:30:53,681 - root - INFO -   Epoch 43/150	 Time: 0.955	 Loss: 5.04854996
+2019-03-24 18:30:54,637 - root - INFO -   Epoch 44/150	 Time: 0.956	 Loss: 4.98147583
+2019-03-24 18:30:55,594 - root - INFO -   Epoch 45/150	 Time: 0.957	 Loss: 4.91438830
+2019-03-24 18:30:56,550 - root - INFO -   Epoch 46/150	 Time: 0.956	 Loss: 4.85243297
+2019-03-24 18:30:57,508 - root - INFO -   Epoch 47/150	 Time: 0.958	 Loss: 4.79215740
+2019-03-24 18:30:58,464 - root - INFO -   Epoch 48/150	 Time: 0.956	 Loss: 4.73175919
+2019-03-24 18:30:59,418 - root - INFO -   Epoch 49/150	 Time: 0.954	 Loss: 4.67598091
+2019-03-24 18:31:00,376 - root - INFO -   Epoch 50/150	 Time: 0.957	 Loss: 4.62321163
+2019-03-24 18:31:00,376 - root - INFO -   LR scheduler: new learning rate is 1e-05
+2019-03-24 18:31:01,332 - root - INFO -   Epoch 51/150	 Time: 0.956	 Loss: 4.59095784
+2019-03-24 18:31:02,287 - root - INFO -   Epoch 52/150	 Time: 0.955	 Loss: 4.58824771
+2019-03-24 18:31:03,243 - root - INFO -   Epoch 53/150	 Time: 0.956	 Loss: 4.58254999
+2019-03-24 18:31:04,199 - root - INFO -   Epoch 54/150	 Time: 0.955	 Loss: 4.57790339
+2019-03-24 18:31:05,156 - root - INFO -   Epoch 55/150	 Time: 0.957	 Loss: 4.57275966
+2019-03-24 18:31:06,115 - root - INFO -   Epoch 56/150	 Time: 0.959	 Loss: 4.56923968
+2019-03-24 18:31:07,073 - root - INFO -   Epoch 57/150	 Time: 0.958	 Loss: 4.56192030
+2019-03-24 18:31:08,032 - root - INFO -   Epoch 58/150	 Time: 0.959	 Loss: 4.55415060
+2019-03-24 18:31:08,989 - root - INFO -   Epoch 59/150	 Time: 0.956	 Loss: 4.54600102
+2019-03-24 18:31:09,943 - root - INFO -   Epoch 60/150	 Time: 0.954	 Loss: 4.54428413
+2019-03-24 18:31:10,900 - root - INFO -   Epoch 61/150	 Time: 0.957	 Loss: 4.53896544
+2019-03-24 18:31:11,856 - root - INFO -   Epoch 62/150	 Time: 0.956	 Loss: 4.53359279
+2019-03-24 18:31:12,815 - root - INFO -   Epoch 63/150	 Time: 0.958	 Loss: 4.52595108
+2019-03-24 18:31:13,773 - root - INFO -   Epoch 64/150	 Time: 0.958	 Loss: 4.51754461
+2019-03-24 18:31:14,732 - root - INFO -   Epoch 65/150	 Time: 0.959	 Loss: 4.51393943
+2019-03-24 18:31:15,687 - root - INFO -   Epoch 66/150	 Time: 0.955	 Loss: 4.50931929
+2019-03-24 18:31:16,644 - root - INFO -   Epoch 67/150	 Time: 0.957	 Loss: 4.49578630
+2019-03-24 18:31:17,600 - root - INFO -   Epoch 68/150	 Time: 0.956	 Loss: 4.49123847
+2019-03-24 18:31:18,556 - root - INFO -   Epoch 69/150	 Time: 0.955	 Loss: 4.48692506
+2019-03-24 18:31:19,515 - root - INFO -   Epoch 70/150	 Time: 0.959	 Loss: 4.47842032
+2019-03-24 18:31:20,471 - root - INFO -   Epoch 71/150	 Time: 0.956	 Loss: 4.47048975
+2019-03-24 18:31:21,428 - root - INFO -   Epoch 72/150	 Time: 0.957	 Loss: 4.46748064
+2019-03-24 18:31:22,387 - root - INFO -   Epoch 73/150	 Time: 0.959	 Loss: 4.45593352
+2019-03-24 18:31:23,344 - root - INFO -   Epoch 74/150	 Time: 0.956	 Loss: 4.44544628
+2019-03-24 18:31:24,302 - root - INFO -   Epoch 75/150	 Time: 0.958	 Loss: 4.44475762
+2019-03-24 18:31:25,259 - root - INFO -   Epoch 76/150	 Time: 0.957	 Loss: 4.43724435
+2019-03-24 18:31:26,216 - root - INFO -   Epoch 77/150	 Time: 0.957	 Loss: 4.42573477
+2019-03-24 18:31:27,172 - root - INFO -   Epoch 78/150	 Time: 0.956	 Loss: 4.41939117
+2019-03-24 18:31:28,127 - root - INFO -   Epoch 79/150	 Time: 0.955	 Loss: 4.41361489
+2019-03-24 18:31:29,086 - root - INFO -   Epoch 80/150	 Time: 0.959	 Loss: 4.40136668
+2019-03-24 18:31:30,040 - root - INFO -   Epoch 81/150	 Time: 0.954	 Loss: 4.39635238
+2019-03-24 18:31:30,998 - root - INFO -   Epoch 82/150	 Time: 0.958	 Loss: 4.39102333
+2019-03-24 18:31:31,962 - root - INFO -   Epoch 83/150	 Time: 0.964	 Loss: 4.38171011
+2019-03-24 18:31:32,930 - root - INFO -   Epoch 84/150	 Time: 0.968	 Loss: 4.37533865
+2019-03-24 18:31:33,897 - root - INFO -   Epoch 85/150	 Time: 0.967	 Loss: 4.36511141
+2019-03-24 18:31:34,863 - root - INFO -   Epoch 86/150	 Time: 0.965	 Loss: 4.35631501
+2019-03-24 18:31:35,828 - root - INFO -   Epoch 87/150	 Time: 0.965	 Loss: 4.35061438
+2019-03-24 18:31:36,794 - root - INFO -   Epoch 88/150	 Time: 0.966	 Loss: 4.34163817
+2019-03-24 18:31:37,760 - root - INFO -   Epoch 89/150	 Time: 0.966	 Loss: 4.33388784
+2019-03-24 18:31:38,730 - root - INFO -   Epoch 90/150	 Time: 0.970	 Loss: 4.32745466
+2019-03-24 18:31:39,700 - root - INFO -   Epoch 91/150	 Time: 0.969	 Loss: 4.31709700
+2019-03-24 18:31:40,670 - root - INFO -   Epoch 92/150	 Time: 0.970	 Loss: 4.30889806
+2019-03-24 18:31:41,644 - root - INFO -   Epoch 93/150	 Time: 0.974	 Loss: 4.30228284
+2019-03-24 18:31:42,609 - root - INFO -   Epoch 94/150	 Time: 0.965	 Loss: 4.29352531
+2019-03-24 18:31:43,574 - root - INFO -   Epoch 95/150	 Time: 0.965	 Loss: 4.28583268
+2019-03-24 18:31:44,546 - root - INFO -   Epoch 96/150	 Time: 0.971	 Loss: 4.27950122
+2019-03-24 18:31:45,511 - root - INFO -   Epoch 97/150	 Time: 0.965	 Loss: 4.26728046
+2019-03-24 18:31:46,479 - root - INFO -   Epoch 98/150	 Time: 0.968	 Loss: 4.26114133
+2019-03-24 18:31:47,444 - root - INFO -   Epoch 99/150	 Time: 0.965	 Loss: 4.25201470
+2019-03-24 18:31:48,414 - root - INFO -   Epoch 100/150	 Time: 0.969	 Loss: 4.24468877
+2019-03-24 18:31:49,378 - root - INFO -   Epoch 101/150	 Time: 0.964	 Loss: 4.23801556
+2019-03-24 18:31:50,344 - root - INFO -   Epoch 102/150	 Time: 0.966	 Loss: 4.22673931
+2019-03-24 18:31:51,309 - root - INFO -   Epoch 103/150	 Time: 0.965	 Loss: 4.22147705
+2019-03-24 18:31:52,274 - root - INFO -   Epoch 104/150	 Time: 0.965	 Loss: 4.20527198
+2019-03-24 18:31:53,236 - root - INFO -   Epoch 105/150	 Time: 0.962	 Loss: 4.20475774
+2019-03-24 18:31:54,202 - root - INFO -   Epoch 106/150	 Time: 0.966	 Loss: 4.18988454
+2019-03-24 18:31:55,166 - root - INFO -   Epoch 107/150	 Time: 0.963	 Loss: 4.18133647
+2019-03-24 18:31:56,132 - root - INFO -   Epoch 108/150	 Time: 0.966	 Loss: 4.17475800
+2019-03-24 18:31:57,101 - root - INFO -   Epoch 109/150	 Time: 0.969	 Loss: 4.16569764
+2019-03-24 18:31:58,064 - root - INFO -   Epoch 110/150	 Time: 0.963	 Loss: 4.15582451
+2019-03-24 18:31:59,025 - root - INFO -   Epoch 111/150	 Time: 0.961	 Loss: 4.14871401
+2019-03-24 18:31:59,986 - root - INFO -   Epoch 112/150	 Time: 0.961	 Loss: 4.13985349
+2019-03-24 18:32:00,950 - root - INFO -   Epoch 113/150	 Time: 0.964	 Loss: 4.12902414
+2019-03-24 18:32:01,921 - root - INFO -   Epoch 114/150	 Time: 0.970	 Loss: 4.11790929
+2019-03-24 18:32:02,884 - root - INFO -   Epoch 115/150	 Time: 0.963	 Loss: 4.11325282
+2019-03-24 18:32:03,845 - root - INFO -   Epoch 116/150	 Time: 0.961	 Loss: 4.10050048
+2019-03-24 18:32:04,806 - root - INFO -   Epoch 117/150	 Time: 0.961	 Loss: 4.09414487
+2019-03-24 18:32:05,795 - root - INFO -   Epoch 118/150	 Time: 0.989	 Loss: 4.08533325
+2019-03-24 18:32:06,767 - root - INFO -   Epoch 119/150	 Time: 0.971	 Loss: 4.07558059
+2019-03-24 18:32:07,740 - root - INFO -   Epoch 120/150	 Time: 0.973	 Loss: 4.06676351
+2019-03-24 18:32:08,717 - root - INFO -   Epoch 121/150	 Time: 0.977	 Loss: 4.05807812
+2019-03-24 18:32:09,684 - root - INFO -   Epoch 122/150	 Time: 0.967	 Loss: 4.04626041
+2019-03-24 18:32:10,653 - root - INFO -   Epoch 123/150	 Time: 0.968	 Loss: 4.04001960
+2019-03-24 18:32:11,623 - root - INFO -   Epoch 124/150	 Time: 0.970	 Loss: 4.03023466
+2019-03-24 18:32:12,595 - root - INFO -   Epoch 125/150	 Time: 0.972	 Loss: 4.02171119
+2019-03-24 18:32:13,563 - root - INFO -   Epoch 126/150	 Time: 0.968	 Loss: 4.00921977
+2019-03-24 18:32:14,529 - root - INFO -   Epoch 127/150	 Time: 0.966	 Loss: 3.99937321
+2019-03-24 18:32:15,497 - root - INFO -   Epoch 128/150	 Time: 0.968	 Loss: 3.99405268
+2019-03-24 18:32:16,464 - root - INFO -   Epoch 129/150	 Time: 0.966	 Loss: 3.98730316
+2019-03-24 18:32:17,427 - root - INFO -   Epoch 130/150	 Time: 0.963	 Loss: 3.97443824
+2019-03-24 18:32:18,388 - root - INFO -   Epoch 131/150	 Time: 0.961	 Loss: 3.96532338
+2019-03-24 18:32:19,353 - root - INFO -   Epoch 132/150	 Time: 0.965	 Loss: 3.95594501
+2019-03-24 18:32:20,320 - root - INFO -   Epoch 133/150	 Time: 0.966	 Loss: 3.94619936
+2019-03-24 18:32:21,286 - root - INFO -   Epoch 134/150	 Time: 0.966	 Loss: 3.93762519
+2019-03-24 18:32:22,244 - root - INFO -   Epoch 135/150	 Time: 0.957	 Loss: 3.92996244
+2019-03-24 18:32:23,210 - root - INFO -   Epoch 136/150	 Time: 0.967	 Loss: 3.91807482
+2019-03-24 18:32:24,167 - root - INFO -   Epoch 137/150	 Time: 0.957	 Loss: 3.91044097
+2019-03-24 18:32:25,126 - root - INFO -   Epoch 138/150	 Time: 0.958	 Loss: 3.89900134
+2019-03-24 18:32:26,084 - root - INFO -   Epoch 139/150	 Time: 0.958	 Loss: 3.89137654
+2019-03-24 18:32:27,040 - root - INFO -   Epoch 140/150	 Time: 0.955	 Loss: 3.88046319
+2019-03-24 18:32:27,996 - root - INFO -   Epoch 141/150	 Time: 0.956	 Loss: 3.87061687
+2019-03-24 18:32:28,951 - root - INFO -   Epoch 142/150	 Time: 0.955	 Loss: 3.86487612
+2019-03-24 18:32:29,908 - root - INFO -   Epoch 143/150	 Time: 0.957	 Loss: 3.85575135
+2019-03-24 18:32:30,863 - root - INFO -   Epoch 144/150	 Time: 0.955	 Loss: 3.84623202
+2019-03-24 18:32:31,820 - root - INFO -   Epoch 145/150	 Time: 0.956	 Loss: 3.83330953
+2019-03-24 18:32:32,777 - root - INFO -   Epoch 146/150	 Time: 0.957	 Loss: 3.82493450
+2019-03-24 18:32:33,734 - root - INFO -   Epoch 147/150	 Time: 0.957	 Loss: 3.81643633
+2019-03-24 18:32:34,691 - root - INFO -   Epoch 148/150	 Time: 0.957	 Loss: 3.80658843
+2019-03-24 18:32:35,648 - root - INFO -   Epoch 149/150	 Time: 0.957	 Loss: 3.80062935
+2019-03-24 18:32:36,605 - root - INFO -   Epoch 150/150	 Time: 0.956	 Loss: 3.79014936
+2019-03-24 18:32:36,605 - root - INFO - Pretraining time: 144.105
+2019-03-24 18:32:36,605 - root - INFO - Finished pretraining.
+2019-03-24 18:32:36,605 - root - INFO - Testing autoencoder...
+2019-03-24 18:32:37,797 - root - INFO - Test set Loss: 5.87407556
+2019-03-24 18:32:37,800 - root - INFO - Test set AUC: 85.63%
+2019-03-24 18:32:37,801 - root - INFO - Autoencoder testing time: 1.196
+2019-03-24 18:32:37,801 - root - INFO - Finished testing autoencoder.
+2019-03-24 18:32:37,801 - root - INFO - Training optimizer: adam
+2019-03-24 18:32:37,801 - root - INFO - Training learning rate: 0.0001
+2019-03-24 18:32:37,801 - root - INFO - Training epochs: 150
+2019-03-24 18:32:37,801 - root - INFO - Training learning rate scheduler milestones: (50,)
+2019-03-24 18:32:37,801 - root - INFO - Training batch size: 200
+2019-03-24 18:32:37,801 - root - INFO - Training weight decay: 5e-07
+2019-03-24 18:32:37,802 - root - INFO - Initializing center c...
+2019-03-24 18:32:38,509 - root - INFO - Center c initialized.
+2019-03-24 18:32:38,509 - root - INFO - Starting training...
+2019-03-24 18:32:39,311 - root - INFO -   Epoch 1/150	 Time: 0.802	 Loss: 1.19332908
+2019-03-24 18:32:40,114 - root - INFO -   Epoch 2/150	 Time: 0.803	 Loss: 0.77758915
+2019-03-24 18:32:40,916 - root - INFO -   Epoch 3/150	 Time: 0.802	 Loss: 0.54636026
+2019-03-24 18:32:41,717 - root - INFO -   Epoch 4/150	 Time: 0.801	 Loss: 0.40701623
+2019-03-24 18:32:42,519 - root - INFO -   Epoch 5/150	 Time: 0.802	 Loss: 0.31715933
+2019-03-24 18:32:43,320 - root - INFO -   Epoch 6/150	 Time: 0.801	 Loss: 0.25718443
+2019-03-24 18:32:44,123 - root - INFO -   Epoch 7/150	 Time: 0.803	 Loss: 0.21485277
+2019-03-24 18:32:44,927 - root - INFO -   Epoch 8/150	 Time: 0.803	 Loss: 0.18360937
+2019-03-24 18:32:45,728 - root - INFO -   Epoch 9/150	 Time: 0.801	 Loss: 0.15848955
+2019-03-24 18:32:46,529 - root - INFO -   Epoch 10/150	 Time: 0.800	 Loss: 0.13912648
+2019-03-24 18:32:47,331 - root - INFO -   Epoch 11/150	 Time: 0.802	 Loss: 0.12355270
+2019-03-24 18:32:48,134 - root - INFO -   Epoch 12/150	 Time: 0.803	 Loss: 0.11283001
+2019-03-24 18:32:48,934 - root - INFO -   Epoch 13/150	 Time: 0.800	 Loss: 0.10158063
+2019-03-24 18:32:49,738 - root - INFO -   Epoch 14/150	 Time: 0.804	 Loss: 0.09178351
+2019-03-24 18:32:50,549 - root - INFO -   Epoch 15/150	 Time: 0.810	 Loss: 0.08536018
+2019-03-24 18:32:51,361 - root - INFO -   Epoch 16/150	 Time: 0.812	 Loss: 0.08026466
+2019-03-24 18:32:52,177 - root - INFO -   Epoch 17/150	 Time: 0.815	 Loss: 0.07374705
+2019-03-24 18:32:52,994 - root - INFO -   Epoch 18/150	 Time: 0.817	 Loss: 0.06874702
+2019-03-24 18:32:53,808 - root - INFO -   Epoch 19/150	 Time: 0.814	 Loss: 0.06501596
+2019-03-24 18:32:54,623 - root - INFO -   Epoch 20/150	 Time: 0.814	 Loss: 0.06093916
+2019-03-24 18:32:55,437 - root - INFO -   Epoch 21/150	 Time: 0.814	 Loss: 0.05752591
+2019-03-24 18:32:56,259 - root - INFO -   Epoch 22/150	 Time: 0.821	 Loss: 0.05388015
+2019-03-24 18:32:57,081 - root - INFO -   Epoch 23/150	 Time: 0.822	 Loss: 0.05198247
+2019-03-24 18:32:57,903 - root - INFO -   Epoch 24/150	 Time: 0.822	 Loss: 0.04850153
+2019-03-24 18:32:58,708 - root - INFO -   Epoch 25/150	 Time: 0.805	 Loss: 0.04577752
+2019-03-24 18:32:59,518 - root - INFO -   Epoch 26/150	 Time: 0.809	 Loss: 0.04460670
+2019-03-24 18:33:00,332 - root - INFO -   Epoch 27/150	 Time: 0.814	 Loss: 0.04430746
+2019-03-24 18:33:01,145 - root - INFO -   Epoch 28/150	 Time: 0.813	 Loss: 0.04291877
+2019-03-24 18:33:01,960 - root - INFO -   Epoch 29/150	 Time: 0.815	 Loss: 0.04022232
+2019-03-24 18:33:02,790 - root - INFO -   Epoch 30/150	 Time: 0.829	 Loss: 0.03844843
+2019-03-24 18:33:03,602 - root - INFO -   Epoch 31/150	 Time: 0.813	 Loss: 0.03761833
+2019-03-24 18:33:04,415 - root - INFO -   Epoch 32/150	 Time: 0.812	 Loss: 0.03610902
+2019-03-24 18:33:05,227 - root - INFO -   Epoch 33/150	 Time: 0.812	 Loss: 0.03628560
+2019-03-24 18:33:06,039 - root - INFO -   Epoch 34/150	 Time: 0.812	 Loss: 0.03497766
+2019-03-24 18:33:06,849 - root - INFO -   Epoch 35/150	 Time: 0.810	 Loss: 0.03108315
+2019-03-24 18:33:07,658 - root - INFO -   Epoch 36/150	 Time: 0.809	 Loss: 0.03099851
+2019-03-24 18:33:08,468 - root - INFO -   Epoch 37/150	 Time: 0.810	 Loss: 0.02951841
+2019-03-24 18:33:09,280 - root - INFO -   Epoch 38/150	 Time: 0.812	 Loss: 0.02943508
+2019-03-24 18:33:10,093 - root - INFO -   Epoch 39/150	 Time: 0.812	 Loss: 0.02805865
+2019-03-24 18:33:10,899 - root - INFO -   Epoch 40/150	 Time: 0.806	 Loss: 0.02814179
+2019-03-24 18:33:11,712 - root - INFO -   Epoch 41/150	 Time: 0.813	 Loss: 0.02868059
+2019-03-24 18:33:12,540 - root - INFO -   Epoch 42/150	 Time: 0.827	 Loss: 0.02656842
+2019-03-24 18:33:13,367 - root - INFO -   Epoch 43/150	 Time: 0.827	 Loss: 0.02637480
+2019-03-24 18:33:14,191 - root - INFO -   Epoch 44/150	 Time: 0.824	 Loss: 0.02440531
+2019-03-24 18:33:15,013 - root - INFO -   Epoch 45/150	 Time: 0.822	 Loss: 0.02510950
+2019-03-24 18:33:15,833 - root - INFO -   Epoch 46/150	 Time: 0.819	 Loss: 0.02338318
+2019-03-24 18:33:16,655 - root - INFO -   Epoch 47/150	 Time: 0.822	 Loss: 0.02546118
+2019-03-24 18:33:17,471 - root - INFO -   Epoch 48/150	 Time: 0.816	 Loss: 0.02271241
+2019-03-24 18:33:18,294 - root - INFO -   Epoch 49/150	 Time: 0.822	 Loss: 0.02236704
+2019-03-24 18:33:19,139 - root - INFO -   Epoch 50/150	 Time: 0.845	 Loss: 0.02239852
+2019-03-24 18:33:19,139 - root - INFO -   LR scheduler: new learning rate is 1e-05
+2019-03-24 18:33:19,956 - root - INFO -   Epoch 51/150	 Time: 0.817	 Loss: 0.02106318
+2019-03-24 18:33:20,769 - root - INFO -   Epoch 52/150	 Time: 0.813	 Loss: 0.02098151
+2019-03-24 18:33:21,581 - root - INFO -   Epoch 53/150	 Time: 0.811	 Loss: 0.02092326
+2019-03-24 18:33:22,392 - root - INFO -   Epoch 54/150	 Time: 0.812	 Loss: 0.02039755
+2019-03-24 18:33:23,209 - root - INFO -   Epoch 55/150	 Time: 0.817	 Loss: 0.02087173
+2019-03-24 18:33:24,022 - root - INFO -   Epoch 56/150	 Time: 0.812	 Loss: 0.02019152
+2019-03-24 18:33:24,834 - root - INFO -   Epoch 57/150	 Time: 0.812	 Loss: 0.02123051
+2019-03-24 18:33:25,648 - root - INFO -   Epoch 58/150	 Time: 0.814	 Loss: 0.02042399
+2019-03-24 18:33:26,465 - root - INFO -   Epoch 59/150	 Time: 0.818	 Loss: 0.02027749
+2019-03-24 18:33:27,277 - root - INFO -   Epoch 60/150	 Time: 0.811	 Loss: 0.02066972
+2019-03-24 18:33:28,091 - root - INFO -   Epoch 61/150	 Time: 0.814	 Loss: 0.02105306
+2019-03-24 18:33:28,905 - root - INFO -   Epoch 62/150	 Time: 0.813	 Loss: 0.01980241
+2019-03-24 18:33:29,708 - root - INFO -   Epoch 63/150	 Time: 0.804	 Loss: 0.02068829
+2019-03-24 18:33:30,508 - root - INFO -   Epoch 64/150	 Time: 0.800	 Loss: 0.02047400
+2019-03-24 18:33:31,309 - root - INFO -   Epoch 65/150	 Time: 0.801	 Loss: 0.01946172
+2019-03-24 18:33:32,111 - root - INFO -   Epoch 66/150	 Time: 0.801	 Loss: 0.02057128
+2019-03-24 18:33:32,911 - root - INFO -   Epoch 67/150	 Time: 0.800	 Loss: 0.02080694
+2019-03-24 18:33:33,711 - root - INFO -   Epoch 68/150	 Time: 0.800	 Loss: 0.01978618
+2019-03-24 18:33:34,513 - root - INFO -   Epoch 69/150	 Time: 0.802	 Loss: 0.02051237
+2019-03-24 18:33:35,316 - root - INFO -   Epoch 70/150	 Time: 0.802	 Loss: 0.02005755
+2019-03-24 18:33:36,116 - root - INFO -   Epoch 71/150	 Time: 0.800	 Loss: 0.01973072
+2019-03-24 18:33:36,918 - root - INFO -   Epoch 72/150	 Time: 0.802	 Loss: 0.02056277
+2019-03-24 18:33:37,719 - root - INFO -   Epoch 73/150	 Time: 0.801	 Loss: 0.02000159
+2019-03-24 18:33:38,521 - root - INFO -   Epoch 74/150	 Time: 0.802	 Loss: 0.02024590
+2019-03-24 18:33:39,322 - root - INFO -   Epoch 75/150	 Time: 0.801	 Loss: 0.01937660
+2019-03-24 18:33:40,125 - root - INFO -   Epoch 76/150	 Time: 0.803	 Loss: 0.01978517
+2019-03-24 18:33:40,926 - root - INFO -   Epoch 77/150	 Time: 0.801	 Loss: 0.01947595
+2019-03-24 18:33:41,725 - root - INFO -   Epoch 78/150	 Time: 0.799	 Loss: 0.01943676
+2019-03-24 18:33:42,526 - root - INFO -   Epoch 79/150	 Time: 0.801	 Loss: 0.01969218
+2019-03-24 18:33:43,329 - root - INFO -   Epoch 80/150	 Time: 0.802	 Loss: 0.02076000
+2019-03-24 18:33:44,173 - root - INFO -   Epoch 81/150	 Time: 0.844	 Loss: 0.02021686
+2019-03-24 18:33:44,997 - root - INFO -   Epoch 82/150	 Time: 0.824	 Loss: 0.01924979
+2019-03-24 18:33:45,814 - root - INFO -   Epoch 83/150	 Time: 0.817	 Loss: 0.01936858
+2019-03-24 18:33:46,650 - root - INFO -   Epoch 84/150	 Time: 0.836	 Loss: 0.01953770
+2019-03-24 18:33:47,502 - root - INFO -   Epoch 85/150	 Time: 0.851	 Loss: 0.01918539
+2019-03-24 18:33:48,349 - root - INFO -   Epoch 86/150	 Time: 0.847	 Loss: 0.01848332
+2019-03-24 18:33:49,197 - root - INFO -   Epoch 87/150	 Time: 0.847	 Loss: 0.01962585
+2019-03-24 18:33:50,042 - root - INFO -   Epoch 88/150	 Time: 0.845	 Loss: 0.01879244
+2019-03-24 18:33:50,891 - root - INFO -   Epoch 89/150	 Time: 0.849	 Loss: 0.01917606
+2019-03-24 18:33:51,740 - root - INFO -   Epoch 90/150	 Time: 0.849	 Loss: 0.01921742
+2019-03-24 18:33:52,565 - root - INFO -   Epoch 91/150	 Time: 0.824	 Loss: 0.01952504
+2019-03-24 18:33:53,382 - root - INFO -   Epoch 92/150	 Time: 0.817	 Loss: 0.01932962
+2019-03-24 18:33:54,197 - root - INFO -   Epoch 93/150	 Time: 0.815	 Loss: 0.01959061
+2019-03-24 18:33:55,011 - root - INFO -   Epoch 94/150	 Time: 0.814	 Loss: 0.01847952
+2019-03-24 18:33:55,827 - root - INFO -   Epoch 95/150	 Time: 0.816	 Loss: 0.01959355
+2019-03-24 18:33:56,644 - root - INFO -   Epoch 96/150	 Time: 0.817	 Loss: 0.01864509
+2019-03-24 18:33:57,458 - root - INFO -   Epoch 97/150	 Time: 0.814	 Loss: 0.01858789
+2019-03-24 18:33:58,275 - root - INFO -   Epoch 98/150	 Time: 0.817	 Loss: 0.01857440
+2019-03-24 18:33:59,090 - root - INFO -   Epoch 99/150	 Time: 0.815	 Loss: 0.01849997
+2019-03-24 18:33:59,908 - root - INFO -   Epoch 100/150	 Time: 0.818	 Loss: 0.01771727
+2019-03-24 18:34:00,727 - root - INFO -   Epoch 101/150	 Time: 0.818	 Loss: 0.01808422
+2019-03-24 18:34:01,543 - root - INFO -   Epoch 102/150	 Time: 0.816	 Loss: 0.01823711
+2019-03-24 18:34:02,369 - root - INFO -   Epoch 103/150	 Time: 0.826	 Loss: 0.01928695
+2019-03-24 18:34:03,188 - root - INFO -   Epoch 104/150	 Time: 0.819	 Loss: 0.01867567
+2019-03-24 18:34:04,008 - root - INFO -   Epoch 105/150	 Time: 0.820	 Loss: 0.01882004
+2019-03-24 18:34:04,828 - root - INFO -   Epoch 106/150	 Time: 0.819	 Loss: 0.01807198
+2019-03-24 18:34:05,649 - root - INFO -   Epoch 107/150	 Time: 0.821	 Loss: 0.01856373
+2019-03-24 18:34:06,463 - root - INFO -   Epoch 108/150	 Time: 0.814	 Loss: 0.01764248
+2019-03-24 18:34:07,276 - root - INFO -   Epoch 109/150	 Time: 0.813	 Loss: 0.01777964
+2019-03-24 18:34:08,090 - root - INFO -   Epoch 110/150	 Time: 0.814	 Loss: 0.01790972
+2019-03-24 18:34:08,916 - root - INFO -   Epoch 111/150	 Time: 0.826	 Loss: 0.01794006
+2019-03-24 18:34:09,733 - root - INFO -   Epoch 112/150	 Time: 0.817	 Loss: 0.01733322
+2019-03-24 18:34:10,548 - root - INFO -   Epoch 113/150	 Time: 0.815	 Loss: 0.01786615
+2019-03-24 18:34:11,364 - root - INFO -   Epoch 114/150	 Time: 0.815	 Loss: 0.01774055
+2019-03-24 18:34:12,185 - root - INFO -   Epoch 115/150	 Time: 0.821	 Loss: 0.01812955
+2019-03-24 18:34:13,003 - root - INFO -   Epoch 116/150	 Time: 0.818	 Loss: 0.01849065
+2019-03-24 18:34:13,818 - root - INFO -   Epoch 117/150	 Time: 0.815	 Loss: 0.01819089
+2019-03-24 18:34:14,631 - root - INFO -   Epoch 118/150	 Time: 0.813	 Loss: 0.01737255
+2019-03-24 18:34:15,445 - root - INFO -   Epoch 119/150	 Time: 0.814	 Loss: 0.01744744
+2019-03-24 18:34:16,249 - root - INFO -   Epoch 120/150	 Time: 0.804	 Loss: 0.01767679
+2019-03-24 18:34:17,060 - root - INFO -   Epoch 121/150	 Time: 0.810	 Loss: 0.01677455
+2019-03-24 18:34:17,862 - root - INFO -   Epoch 122/150	 Time: 0.803	 Loss: 0.01851571
+2019-03-24 18:34:18,664 - root - INFO -   Epoch 123/150	 Time: 0.802	 Loss: 0.01706759
+2019-03-24 18:34:19,465 - root - INFO -   Epoch 124/150	 Time: 0.800	 Loss: 0.01753681
+2019-03-24 18:34:20,266 - root - INFO -   Epoch 125/150	 Time: 0.801	 Loss: 0.01689546
+2019-03-24 18:34:21,067 - root - INFO -   Epoch 126/150	 Time: 0.801	 Loss: 0.01695464
+2019-03-24 18:34:21,867 - root - INFO -   Epoch 127/150	 Time: 0.800	 Loss: 0.01660872
+2019-03-24 18:34:22,668 - root - INFO -   Epoch 128/150	 Time: 0.800	 Loss: 0.01694514
+2019-03-24 18:34:23,467 - root - INFO -   Epoch 129/150	 Time: 0.799	 Loss: 0.01730834
+2019-03-24 18:34:24,266 - root - INFO -   Epoch 130/150	 Time: 0.799	 Loss: 0.01758015
+2019-03-24 18:34:25,066 - root - INFO -   Epoch 131/150	 Time: 0.800	 Loss: 0.01660632
+2019-03-24 18:34:25,867 - root - INFO -   Epoch 132/150	 Time: 0.801	 Loss: 0.01662667
+2019-03-24 18:34:26,666 - root - INFO -   Epoch 133/150	 Time: 0.799	 Loss: 0.01656881
+2019-03-24 18:34:27,466 - root - INFO -   Epoch 134/150	 Time: 0.800	 Loss: 0.01695389
+2019-03-24 18:34:28,265 - root - INFO -   Epoch 135/150	 Time: 0.799	 Loss: 0.01666710
+2019-03-24 18:34:29,065 - root - INFO -   Epoch 136/150	 Time: 0.799	 Loss: 0.01698910
+2019-03-24 18:34:29,865 - root - INFO -   Epoch 137/150	 Time: 0.800	 Loss: 0.01659423
+2019-03-24 18:34:30,666 - root - INFO -   Epoch 138/150	 Time: 0.801	 Loss: 0.01692462
+2019-03-24 18:34:31,467 - root - INFO -   Epoch 139/150	 Time: 0.801	 Loss: 0.01652116
+2019-03-24 18:34:32,268 - root - INFO -   Epoch 140/150	 Time: 0.800	 Loss: 0.01653295
+2019-03-24 18:34:33,068 - root - INFO -   Epoch 141/150	 Time: 0.800	 Loss: 0.01630197
+2019-03-24 18:34:33,868 - root - INFO -   Epoch 142/150	 Time: 0.800	 Loss: 0.01603376
+2019-03-24 18:34:34,669 - root - INFO -   Epoch 143/150	 Time: 0.801	 Loss: 0.01644363
+2019-03-24 18:34:35,469 - root - INFO -   Epoch 144/150	 Time: 0.801	 Loss: 0.01651500
+2019-03-24 18:34:36,270 - root - INFO -   Epoch 145/150	 Time: 0.801	 Loss: 0.01582163
+2019-03-24 18:34:37,071 - root - INFO -   Epoch 146/150	 Time: 0.800	 Loss: 0.01628861
+2019-03-24 18:34:37,871 - root - INFO -   Epoch 147/150	 Time: 0.800	 Loss: 0.01670115
+2019-03-24 18:34:38,672 - root - INFO -   Epoch 148/150	 Time: 0.801	 Loss: 0.01603479
+2019-03-24 18:34:39,472 - root - INFO -   Epoch 149/150	 Time: 0.800	 Loss: 0.01537863
+2019-03-24 18:34:40,276 - root - INFO -   Epoch 150/150	 Time: 0.804	 Loss: 0.01689608
+2019-03-24 18:34:40,276 - root - INFO - Training time: 121.767
+2019-03-24 18:34:40,276 - root - INFO - Finished training.
+2019-03-24 18:34:40,277 - root - INFO - Starting testing...
+2019-03-24 18:34:41,382 - root - INFO - Testing time: 1.105
+2019-03-24 18:34:41,385 - root - INFO - Test set AUC: 91.08%
+2019-03-24 18:34:41,385 - root - INFO - Finished testing.
+2019-03-24 18:54:20,325 - root - INFO - Log file is ../log/mnist_test/log.txt.
+2019-03-24 18:54:20,325 - root - INFO - Data path is ../data.
+2019-03-24 18:54:20,325 - root - INFO - Export path is ../log/mnist_test.
+2019-03-24 18:54:20,325 - root - INFO - Dataset: mnist
+2019-03-24 18:54:20,325 - root - INFO - Normal class: 3
+2019-03-24 18:54:20,326 - root - INFO - Network: mnist_LeNet
+2019-03-24 18:54:20,326 - root - INFO - Deep SVDD objective: one-class
+2019-03-24 18:54:20,326 - root - INFO - Nu-paramerter: 0.10
+2019-03-24 18:54:20,340 - root - INFO - Computation device: cuda
+2019-03-24 18:54:20,340 - root - INFO - Number of dataloader workers: 0
+2019-03-24 18:54:20,363 - root - INFO - Pretraining: True
+2019-03-24 18:54:20,363 - root - INFO - Pretraining optimizer: adam
+2019-03-24 18:54:20,363 - root - INFO - Pretraining learning rate: 0.0001
+2019-03-24 18:54:20,363 - root - INFO - Pretraining epochs: 150
+2019-03-24 18:54:20,363 - root - INFO - Pretraining learning rate scheduler milestones: (50,)
+2019-03-24 18:54:20,363 - root - INFO - Pretraining batch size: 200
+2019-03-24 18:54:20,363 - root - INFO - Pretraining weight decay: 0.0005
+2019-03-24 18:54:21,985 - root - INFO - Starting pretraining...
+2019-03-24 18:54:22,944 - root - INFO -   Epoch 1/150	 Time: 0.959	 Loss: 172.62462591
+2019-03-24 18:54:23,875 - root - INFO -   Epoch 2/150	 Time: 0.931	 Loss: 132.25597480
+2019-03-24 18:54:24,806 - root - INFO -   Epoch 3/150	 Time: 0.931	 Loss: 98.99411774
+2019-03-24 18:54:25,739 - root - INFO -   Epoch 4/150	 Time: 0.933	 Loss: 74.14935795
+2019-03-24 18:54:26,696 - root - INFO -   Epoch 5/150	 Time: 0.957	 Loss: 56.63056060
+2019-03-24 18:54:27,745 - root - INFO -   Epoch 6/150	 Time: 1.049	 Loss: 44.36235735
+2019-03-24 18:54:28,652 - root - INFO -   Epoch 7/150	 Time: 0.908	 Loss: 35.70385804
+2019-03-24 18:54:29,550 - root - INFO -   Epoch 8/150	 Time: 0.897	 Loss: 29.49996179
+2019-03-24 18:54:30,447 - root - INFO -   Epoch 9/150	 Time: 0.897	 Loss: 24.93622706
+2019-03-24 18:54:31,352 - root - INFO -   Epoch 10/150	 Time: 0.904	 Loss: 21.49509098
+2019-03-24 18:54:32,250 - root - INFO -   Epoch 11/150	 Time: 0.898	 Loss: 18.84029272
+2019-03-24 18:54:33,148 - root - INFO -   Epoch 12/150	 Time: 0.898	 Loss: 16.74817654
+2019-03-24 18:54:34,043 - root - INFO -   Epoch 13/150	 Time: 0.896	 Loss: 15.08671050
+2019-03-24 18:54:34,952 - root - INFO -   Epoch 14/150	 Time: 0.909	 Loss: 13.74378235
+2019-03-24 18:54:35,865 - root - INFO -   Epoch 15/150	 Time: 0.913	 Loss: 12.63895964
+2019-03-24 18:54:36,763 - root - INFO -   Epoch 16/150	 Time: 0.897	 Loss: 11.72057626
+2019-03-24 18:54:37,666 - root - INFO -   Epoch 17/150	 Time: 0.903	 Loss: 10.94322454
+2019-03-24 18:54:38,590 - root - INFO -   Epoch 18/150	 Time: 0.924	 Loss: 10.28747349
+2019-03-24 18:54:39,496 - root - INFO -   Epoch 19/150	 Time: 0.906	 Loss: 9.72434905
+2019-03-24 18:54:40,396 - root - INFO -   Epoch 20/150	 Time: 0.899	 Loss: 9.24340725
+2019-03-24 18:54:41,296 - root - INFO -   Epoch 21/150	 Time: 0.900	 Loss: 8.81781040
+2019-03-24 18:54:42,228 - root - INFO -   Epoch 22/150	 Time: 0.932	 Loss: 8.44513862
+2019-03-24 18:54:43,173 - root - INFO -   Epoch 23/150	 Time: 0.945	 Loss: 8.11699812
+2019-03-24 18:54:44,113 - root - INFO -   Epoch 24/150	 Time: 0.940	 Loss: 7.82573092
+2019-03-24 18:54:45,048 - root - INFO -   Epoch 25/150	 Time: 0.935	 Loss: 7.56577913
+2019-03-24 18:54:45,985 - root - INFO -   Epoch 26/150	 Time: 0.937	 Loss: 7.32630259
+2019-03-24 18:54:46,916 - root - INFO -   Epoch 27/150	 Time: 0.930	 Loss: 7.10934634
+2019-03-24 18:54:47,848 - root - INFO -   Epoch 28/150	 Time: 0.932	 Loss: 6.91325431
+2019-03-24 18:54:48,783 - root - INFO -   Epoch 29/150	 Time: 0.935	 Loss: 6.73713090
+2019-03-24 18:54:49,714 - root - INFO -   Epoch 30/150	 Time: 0.930	 Loss: 6.57602249
+2019-03-24 18:54:50,640 - root - INFO -   Epoch 31/150	 Time: 0.926	 Loss: 6.42561522
+2019-03-24 18:54:51,562 - root - INFO -   Epoch 32/150	 Time: 0.922	 Loss: 6.28694720
+2019-03-24 18:54:52,493 - root - INFO -   Epoch 33/150	 Time: 0.930	 Loss: 6.15801636
+2019-03-24 18:54:53,419 - root - INFO -   Epoch 34/150	 Time: 0.926	 Loss: 6.03345896
+2019-03-24 18:54:54,350 - root - INFO -   Epoch 35/150	 Time: 0.931	 Loss: 5.92115475
+2019-03-24 18:54:55,284 - root - INFO -   Epoch 36/150	 Time: 0.934	 Loss: 5.81671809
+2019-03-24 18:54:56,220 - root - INFO -   Epoch 37/150	 Time: 0.936	 Loss: 5.71538528
+2019-03-24 18:54:57,153 - root - INFO -   Epoch 38/150	 Time: 0.933	 Loss: 5.62094252
+2019-03-24 18:54:58,089 - root - INFO -   Epoch 39/150	 Time: 0.936	 Loss: 5.53129707
+2019-03-24 18:54:59,021 - root - INFO -   Epoch 40/150	 Time: 0.931	 Loss: 5.44385473
+2019-03-24 18:54:59,955 - root - INFO -   Epoch 41/150	 Time: 0.934	 Loss: 5.36276619
+2019-03-24 18:55:00,892 - root - INFO -   Epoch 42/150	 Time: 0.938	 Loss: 5.28963074
+2019-03-24 18:55:01,823 - root - INFO -   Epoch 43/150	 Time: 0.930	 Loss: 5.21637004
+2019-03-24 18:55:02,749 - root - INFO -   Epoch 44/150	 Time: 0.926	 Loss: 5.14680369
+2019-03-24 18:55:03,671 - root - INFO -   Epoch 45/150	 Time: 0.922	 Loss: 5.07961119
+2019-03-24 18:55:04,598 - root - INFO -   Epoch 46/150	 Time: 0.927	 Loss: 5.01491196
+2019-03-24 18:55:05,525 - root - INFO -   Epoch 47/150	 Time: 0.926	 Loss: 4.95454390
+2019-03-24 18:55:06,452 - root - INFO -   Epoch 48/150	 Time: 0.927	 Loss: 4.89546702
+2019-03-24 18:55:07,378 - root - INFO -   Epoch 49/150	 Time: 0.925	 Loss: 4.84098551
+2019-03-24 18:55:08,304 - root - INFO -   Epoch 50/150	 Time: 0.927	 Loss: 4.78512158
+2019-03-24 18:55:08,305 - root - INFO -   LR scheduler: new learning rate is 1e-05
+2019-03-24 18:55:09,231 - root - INFO -   Epoch 51/150	 Time: 0.924	 Loss: 4.75877454
+2019-03-24 18:55:10,157 - root - INFO -   Epoch 52/150	 Time: 0.926	 Loss: 4.75223098
+2019-03-24 18:55:11,083 - root - INFO -   Epoch 53/150	 Time: 0.925	 Loss: 4.74593813
+2019-03-24 18:55:12,008 - root - INFO -   Epoch 54/150	 Time: 0.926	 Loss: 4.74004801
+2019-03-24 18:55:12,937 - root - INFO -   Epoch 55/150	 Time: 0.928	 Loss: 4.73581999
+2019-03-24 18:55:13,860 - root - INFO -   Epoch 56/150	 Time: 0.923	 Loss: 4.72852881
+2019-03-24 18:55:14,785 - root - INFO -   Epoch 57/150	 Time: 0.925	 Loss: 4.71872528
+2019-03-24 18:55:15,709 - root - INFO -   Epoch 58/150	 Time: 0.924	 Loss: 4.71963641
+2019-03-24 18:55:16,635 - root - INFO -   Epoch 59/150	 Time: 0.926	 Loss: 4.71301083
+2019-03-24 18:55:17,558 - root - INFO -   Epoch 60/150	 Time: 0.922	 Loss: 4.70643225
+2019-03-24 18:55:18,476 - root - INFO -   Epoch 61/150	 Time: 0.918	 Loss: 4.70167115
+2019-03-24 18:55:19,394 - root - INFO -   Epoch 62/150	 Time: 0.918	 Loss: 4.69379304
+2019-03-24 18:55:20,314 - root - INFO -   Epoch 63/150	 Time: 0.919	 Loss: 4.68970143
+2019-03-24 18:55:21,233 - root - INFO -   Epoch 64/150	 Time: 0.920	 Loss: 4.68114979
+2019-03-24 18:55:22,159 - root - INFO -   Epoch 65/150	 Time: 0.926	 Loss: 4.67363448
+2019-03-24 18:55:23,087 - root - INFO -   Epoch 66/150	 Time: 0.927	 Loss: 4.67141130
+2019-03-24 18:55:24,012 - root - INFO -   Epoch 67/150	 Time: 0.926	 Loss: 4.66512405
+2019-03-24 18:55:24,940 - root - INFO -   Epoch 68/150	 Time: 0.928	 Loss: 4.66196179
+2019-03-24 18:55:25,866 - root - INFO -   Epoch 69/150	 Time: 0.925	 Loss: 4.65282412
+2019-03-24 18:55:26,792 - root - INFO -   Epoch 70/150	 Time: 0.926	 Loss: 4.64633826
+2019-03-24 18:55:27,721 - root - INFO -   Epoch 71/150	 Time: 0.928	 Loss: 4.64205319
+2019-03-24 18:55:28,644 - root - INFO -   Epoch 72/150	 Time: 0.923	 Loss: 4.63241031
+2019-03-24 18:55:29,568 - root - INFO -   Epoch 73/150	 Time: 0.924	 Loss: 4.62663766
+2019-03-24 18:55:30,493 - root - INFO -   Epoch 74/150	 Time: 0.925	 Loss: 4.62078530
+2019-03-24 18:55:31,420 - root - INFO -   Epoch 75/150	 Time: 0.927	 Loss: 4.61361839
+2019-03-24 18:55:32,345 - root - INFO -   Epoch 76/150	 Time: 0.924	 Loss: 4.60606340
+2019-03-24 18:55:33,267 - root - INFO -   Epoch 77/150	 Time: 0.921	 Loss: 4.60212203
+2019-03-24 18:55:34,189 - root - INFO -   Epoch 78/150	 Time: 0.922	 Loss: 4.59364989
+2019-03-24 18:55:35,109 - root - INFO -   Epoch 79/150	 Time: 0.920	 Loss: 4.58614980
+2019-03-24 18:55:36,035 - root - INFO -   Epoch 80/150	 Time: 0.926	 Loss: 4.58027703
+2019-03-24 18:55:36,961 - root - INFO -   Epoch 81/150	 Time: 0.926	 Loss: 4.57818274
+2019-03-24 18:55:37,889 - root - INFO -   Epoch 82/150	 Time: 0.928	 Loss: 4.56988212
+2019-03-24 18:55:38,816 - root - INFO -   Epoch 83/150	 Time: 0.927	 Loss: 4.56060062
+2019-03-24 18:55:39,745 - root - INFO -   Epoch 84/150	 Time: 0.929	 Loss: 4.55174005
+2019-03-24 18:55:40,670 - root - INFO -   Epoch 85/150	 Time: 0.925	 Loss: 4.54626342
+2019-03-24 18:55:41,600 - root - INFO -   Epoch 86/150	 Time: 0.929	 Loss: 4.54029839
+2019-03-24 18:55:42,523 - root - INFO -   Epoch 87/150	 Time: 0.923	 Loss: 4.53390852
+2019-03-24 18:55:43,449 - root - INFO -   Epoch 88/150	 Time: 0.927	 Loss: 4.52911820
+2019-03-24 18:55:44,374 - root - INFO -   Epoch 89/150	 Time: 0.925	 Loss: 4.51783296
+2019-03-24 18:55:45,300 - root - INFO -   Epoch 90/150	 Time: 0.925	 Loss: 4.50912442
+2019-03-24 18:55:46,227 - root - INFO -   Epoch 91/150	 Time: 0.927	 Loss: 4.50459751
+2019-03-24 18:55:47,155 - root - INFO -   Epoch 92/150	 Time: 0.928	 Loss: 4.49728266
+2019-03-24 18:55:48,080 - root - INFO -   Epoch 93/150	 Time: 0.924	 Loss: 4.48875283
+2019-03-24 18:55:49,008 - root - INFO -   Epoch 94/150	 Time: 0.928	 Loss: 4.48185072
+2019-03-24 18:55:49,933 - root - INFO -   Epoch 95/150	 Time: 0.924	 Loss: 4.47751733
+2019-03-24 18:55:50,858 - root - INFO -   Epoch 96/150	 Time: 0.925	 Loss: 4.46558732
+2019-03-24 18:55:51,784 - root - INFO -   Epoch 97/150	 Time: 0.926	 Loss: 4.46004077
+2019-03-24 18:55:52,710 - root - INFO -   Epoch 98/150	 Time: 0.926	 Loss: 4.45284193
+2019-03-24 18:55:53,636 - root - INFO -   Epoch 99/150	 Time: 0.926	 Loss: 4.44522732
+2019-03-24 18:55:54,564 - root - INFO -   Epoch 100/150	 Time: 0.928	 Loss: 4.43650336
+2019-03-24 18:55:55,492 - root - INFO -   Epoch 101/150	 Time: 0.928	 Loss: 4.42946702
+2019-03-24 18:55:56,419 - root - INFO -   Epoch 102/150	 Time: 0.927	 Loss: 4.42304168
+2019-03-24 18:55:57,344 - root - INFO -   Epoch 103/150	 Time: 0.925	 Loss: 4.41402074
+2019-03-24 18:55:58,271 - root - INFO -   Epoch 104/150	 Time: 0.926	 Loss: 4.40719448
+2019-03-24 18:55:59,197 - root - INFO -   Epoch 105/150	 Time: 0.927	 Loss: 4.39728328
+2019-03-24 18:56:00,124 - root - INFO -   Epoch 106/150	 Time: 0.927	 Loss: 4.38911675
+2019-03-24 18:56:01,053 - root - INFO -   Epoch 107/150	 Time: 0.929	 Loss: 4.38240865
+2019-03-24 18:56:01,977 - root - INFO -   Epoch 108/150	 Time: 0.924	 Loss: 4.37958230
+2019-03-24 18:56:02,902 - root - INFO -   Epoch 109/150	 Time: 0.925	 Loss: 4.36700887
+2019-03-24 18:56:03,829 - root - INFO -   Epoch 110/150	 Time: 0.926	 Loss: 4.35787147
+2019-03-24 18:56:04,753 - root - INFO -   Epoch 111/150	 Time: 0.924	 Loss: 4.35200740
+2019-03-24 18:56:05,680 - root - INFO -   Epoch 112/150	 Time: 0.926	 Loss: 4.34393311
+2019-03-24 18:56:06,606 - root - INFO -   Epoch 113/150	 Time: 0.926	 Loss: 4.33239821
+2019-03-24 18:56:07,539 - root - INFO -   Epoch 114/150	 Time: 0.933	 Loss: 4.32880340
+2019-03-24 18:56:08,468 - root - INFO -   Epoch 115/150	 Time: 0.930	 Loss: 4.32001152
+2019-03-24 18:56:09,400 - root - INFO -   Epoch 116/150	 Time: 0.931	 Loss: 4.31196088
+2019-03-24 18:56:10,329 - root - INFO -   Epoch 117/150	 Time: 0.929	 Loss: 4.30393465
+2019-03-24 18:56:11,261 - root - INFO -   Epoch 118/150	 Time: 0.932	 Loss: 4.29426809
+2019-03-24 18:56:12,193 - root - INFO -   Epoch 119/150	 Time: 0.931	 Loss: 4.28975233
+2019-03-24 18:56:13,123 - root - INFO -   Epoch 120/150	 Time: 0.930	 Loss: 4.27872270
+2019-03-24 18:56:14,058 - root - INFO -   Epoch 121/150	 Time: 0.935	 Loss: 4.27069193
+2019-03-24 18:56:14,992 - root - INFO -   Epoch 122/150	 Time: 0.934	 Loss: 4.26150156
+2019-03-24 18:56:15,921 - root - INFO -   Epoch 123/150	 Time: 0.929	 Loss: 4.25553471
+2019-03-24 18:56:16,850 - root - INFO -   Epoch 124/150	 Time: 0.928	 Loss: 4.24546373
+2019-03-24 18:56:17,777 - root - INFO -   Epoch 125/150	 Time: 0.927	 Loss: 4.23773890
+2019-03-24 18:56:18,707 - root - INFO -   Epoch 126/150	 Time: 0.929	 Loss: 4.22965198
+2019-03-24 18:56:19,646 - root - INFO -   Epoch 127/150	 Time: 0.939	 Loss: 4.21777275
+2019-03-24 18:56:20,576 - root - INFO -   Epoch 128/150	 Time: 0.930	 Loss: 4.21155107
+2019-03-24 18:56:21,513 - root - INFO -   Epoch 129/150	 Time: 0.937	 Loss: 4.20291490
+2019-03-24 18:56:22,449 - root - INFO -   Epoch 130/150	 Time: 0.936	 Loss: 4.19538379
+2019-03-24 18:56:23,381 - root - INFO -   Epoch 131/150	 Time: 0.932	 Loss: 4.18719327
+2019-03-24 18:56:24,314 - root - INFO -   Epoch 132/150	 Time: 0.933	 Loss: 4.17831095
+2019-03-24 18:56:25,245 - root - INFO -   Epoch 133/150	 Time: 0.931	 Loss: 4.17186316
+2019-03-24 18:56:26,177 - root - INFO -   Epoch 134/150	 Time: 0.932	 Loss: 4.16051599
+2019-03-24 18:56:27,114 - root - INFO -   Epoch 135/150	 Time: 0.937	 Loss: 4.15321135
+2019-03-24 18:56:28,045 - root - INFO -   Epoch 136/150	 Time: 0.931	 Loss: 4.14409506
+2019-03-24 18:56:28,976 - root - INFO -   Epoch 137/150	 Time: 0.931	 Loss: 4.13616466
+2019-03-24 18:56:29,930 - root - INFO -   Epoch 138/150	 Time: 0.954	 Loss: 4.12815725
+2019-03-24 18:56:30,870 - root - INFO -   Epoch 139/150	 Time: 0.939	 Loss: 4.12385759
+2019-03-24 18:56:31,899 - root - INFO -   Epoch 140/150	 Time: 1.029	 Loss: 4.11471968
+2019-03-24 18:56:32,854 - root - INFO -   Epoch 141/150	 Time: 0.955	 Loss: 4.10692898
+2019-03-24 18:56:33,826 - root - INFO -   Epoch 142/150	 Time: 0.972	 Loss: 4.09929647
+2019-03-24 18:56:34,723 - root - INFO -   Epoch 143/150	 Time: 0.897	 Loss: 4.08659424
+2019-03-24 18:56:35,623 - root - INFO -   Epoch 144/150	 Time: 0.899	 Loss: 4.08087704
+2019-03-24 18:56:36,543 - root - INFO -   Epoch 145/150	 Time: 0.920	 Loss: 4.07403635
+2019-03-24 18:56:37,537 - root - INFO -   Epoch 146/150	 Time: 0.994	 Loss: 4.06128130
+2019-03-24 18:56:38,529 - root - INFO -   Epoch 147/150	 Time: 0.991	 Loss: 4.05603603
+2019-03-24 18:56:39,464 - root - INFO -   Epoch 148/150	 Time: 0.934	 Loss: 4.04552508
+2019-03-24 18:56:40,358 - root - INFO -   Epoch 149/150	 Time: 0.894	 Loss: 4.03877165
+2019-03-24 18:56:41,260 - root - INFO -   Epoch 150/150	 Time: 0.902	 Loss: 4.02748536
+2019-03-24 18:56:41,260 - root - INFO - Pretraining time: 139.275
+2019-03-24 18:56:41,260 - root - INFO - Finished pretraining.
+2019-03-24 18:56:41,261 - root - INFO - Testing autoencoder...
+2019-03-24 18:56:42,418 - root - INFO - Test set Loss: 6.11235178
+2019-03-24 18:56:42,422 - root - INFO - Test set AUC: 83.61%
+2019-03-24 18:56:42,422 - root - INFO - Autoencoder testing time: 1.161
+2019-03-24 18:56:42,422 - root - INFO - Finished testing autoencoder.
+2019-03-24 18:56:42,422 - root - INFO - Training optimizer: adam
+2019-03-24 18:56:42,423 - root - INFO - Training learning rate: 0.0001
+2019-03-24 18:56:42,423 - root - INFO - Training epochs: 150
+2019-03-24 18:56:42,423 - root - INFO - Training learning rate scheduler milestones: (50,)
+2019-03-24 18:56:42,423 - root - INFO - Training batch size: 200
+2019-03-24 18:56:42,423 - root - INFO - Training weight decay: 5e-07
+2019-03-24 18:56:42,423 - root - INFO - Initializing center c...
+2019-03-24 18:56:43,120 - root - INFO - Center c initialized.
+2019-03-24 18:56:43,120 - root - INFO - Starting training...
+2019-03-24 18:56:43,890 - root - INFO -   Epoch 1/150	 Time: 0.770	 Loss: 1.09509696
+2019-03-24 18:56:44,658 - root - INFO -   Epoch 2/150	 Time: 0.768	 Loss: 0.71129493
+2019-03-24 18:56:45,425 - root - INFO -   Epoch 3/150	 Time: 0.767	 Loss: 0.49130429
+2019-03-24 18:56:46,195 - root - INFO -   Epoch 4/150	 Time: 0.769	 Loss: 0.35841455
+2019-03-24 18:56:46,965 - root - INFO -   Epoch 5/150	 Time: 0.771	 Loss: 0.27427938
+2019-03-24 18:56:47,817 - root - INFO -   Epoch 6/150	 Time: 0.852	 Loss: 0.21755048
+2019-03-24 18:56:48,606 - root - INFO -   Epoch 7/150	 Time: 0.788	 Loss: 0.17908520
+2019-03-24 18:56:49,385 - root - INFO -   Epoch 8/150	 Time: 0.780	 Loss: 0.15270150
+2019-03-24 18:56:50,159 - root - INFO -   Epoch 9/150	 Time: 0.773	 Loss: 0.13152384
+2019-03-24 18:56:50,937 - root - INFO -   Epoch 10/150	 Time: 0.778	 Loss: 0.11692523
+2019-03-24 18:56:51,715 - root - INFO -   Epoch 11/150	 Time: 0.778	 Loss: 0.10439978
+2019-03-24 18:56:52,510 - root - INFO -   Epoch 12/150	 Time: 0.795	 Loss: 0.09408111
+2019-03-24 18:56:53,294 - root - INFO -   Epoch 13/150	 Time: 0.784	 Loss: 0.08407251
+2019-03-24 18:56:54,082 - root - INFO -   Epoch 14/150	 Time: 0.788	 Loss: 0.07621109
+2019-03-24 18:56:54,861 - root - INFO -   Epoch 15/150	 Time: 0.778	 Loss: 0.07067692
+2019-03-24 18:56:55,626 - root - INFO -   Epoch 16/150	 Time: 0.764	 Loss: 0.06670687
+2019-03-24 18:56:56,412 - root - INFO -   Epoch 17/150	 Time: 0.786	 Loss: 0.06242854
+2019-03-24 18:56:57,188 - root - INFO -   Epoch 18/150	 Time: 0.776	 Loss: 0.05733823
+2019-03-24 18:56:57,972 - root - INFO -   Epoch 19/150	 Time: 0.783	 Loss: 0.05486681
+2019-03-24 18:56:58,741 - root - INFO -   Epoch 20/150	 Time: 0.770	 Loss: 0.05103585
+2019-03-24 18:56:59,522 - root - INFO -   Epoch 21/150	 Time: 0.780	 Loss: 0.04810089
+2019-03-24 18:57:00,301 - root - INFO -   Epoch 22/150	 Time: 0.779	 Loss: 0.04576333
+2019-03-24 18:57:01,082 - root - INFO -   Epoch 23/150	 Time: 0.781	 Loss: 0.04374154
+2019-03-24 18:57:01,864 - root - INFO -   Epoch 24/150	 Time: 0.782	 Loss: 0.04133190
+2019-03-24 18:57:02,634 - root - INFO -   Epoch 25/150	 Time: 0.769	 Loss: 0.03952563
+2019-03-24 18:57:03,403 - root - INFO -   Epoch 26/150	 Time: 0.769	 Loss: 0.03756777
+2019-03-24 18:57:04,175 - root - INFO -   Epoch 27/150	 Time: 0.772	 Loss: 0.03716324
+2019-03-24 18:57:04,946 - root - INFO -   Epoch 28/150	 Time: 0.771	 Loss: 0.03449033
+2019-03-24 18:57:05,718 - root - INFO -   Epoch 29/150	 Time: 0.772	 Loss: 0.03441556
+2019-03-24 18:57:06,489 - root - INFO -   Epoch 30/150	 Time: 0.770	 Loss: 0.03234140
+2019-03-24 18:57:07,257 - root - INFO -   Epoch 31/150	 Time: 0.768	 Loss: 0.03131769
+2019-03-24 18:57:08,027 - root - INFO -   Epoch 32/150	 Time: 0.770	 Loss: 0.03418873
+2019-03-24 18:57:08,798 - root - INFO -   Epoch 33/150	 Time: 0.771	 Loss: 0.02939746
+2019-03-24 18:57:09,570 - root - INFO -   Epoch 34/150	 Time: 0.772	 Loss: 0.02772058
+2019-03-24 18:57:10,340 - root - INFO -   Epoch 35/150	 Time: 0.770	 Loss: 0.02835267
+2019-03-24 18:57:11,112 - root - INFO -   Epoch 36/150	 Time: 0.771	 Loss: 0.02793590
+2019-03-24 18:57:11,883 - root - INFO -   Epoch 37/150	 Time: 0.772	 Loss: 0.02627589
+2019-03-24 18:57:12,656 - root - INFO -   Epoch 38/150	 Time: 0.772	 Loss: 0.02576032
+2019-03-24 18:57:13,427 - root - INFO -   Epoch 39/150	 Time: 0.771	 Loss: 0.02484189
+2019-03-24 18:57:14,198 - root - INFO -   Epoch 40/150	 Time: 0.770	 Loss: 0.02328589
+2019-03-24 18:57:14,968 - root - INFO -   Epoch 41/150	 Time: 0.770	 Loss: 0.02306084
+2019-03-24 18:57:15,741 - root - INFO -   Epoch 42/150	 Time: 0.773	 Loss: 0.02591036
+2019-03-24 18:57:16,514 - root - INFO -   Epoch 43/150	 Time: 0.773	 Loss: 0.02290969
+2019-03-24 18:57:17,288 - root - INFO -   Epoch 44/150	 Time: 0.774	 Loss: 0.02124846
+2019-03-24 18:57:18,061 - root - INFO -   Epoch 45/150	 Time: 0.773	 Loss: 0.02159252
+2019-03-24 18:57:18,833 - root - INFO -   Epoch 46/150	 Time: 0.771	 Loss: 0.02254941
+2019-03-24 18:57:19,602 - root - INFO -   Epoch 47/150	 Time: 0.769	 Loss: 0.02131315
+2019-03-24 18:57:20,371 - root - INFO -   Epoch 48/150	 Time: 0.768	 Loss: 0.01932080
+2019-03-24 18:57:21,142 - root - INFO -   Epoch 49/150	 Time: 0.771	 Loss: 0.01945076
+2019-03-24 18:57:21,912 - root - INFO -   Epoch 50/150	 Time: 0.770	 Loss: 0.02006326
+2019-03-24 18:57:21,912 - root - INFO -   LR scheduler: new learning rate is 1e-05
+2019-03-24 18:57:22,682 - root - INFO -   Epoch 51/150	 Time: 0.770	 Loss: 0.01895051
+2019-03-24 18:57:23,468 - root - INFO -   Epoch 52/150	 Time: 0.786	 Loss: 0.01952983
+2019-03-24 18:57:24,251 - root - INFO -   Epoch 53/150	 Time: 0.783	 Loss: 0.01784563
+2019-03-24 18:57:25,034 - root - INFO -   Epoch 54/150	 Time: 0.782	 Loss: 0.01776921
+2019-03-24 18:57:25,821 - root - INFO -   Epoch 55/150	 Time: 0.787	 Loss: 0.01793172
+2019-03-24 18:57:26,604 - root - INFO -   Epoch 56/150	 Time: 0.782	 Loss: 0.01785561
+2019-03-24 18:57:27,391 - root - INFO -   Epoch 57/150	 Time: 0.787	 Loss: 0.01834270
+2019-03-24 18:57:28,177 - root - INFO -   Epoch 58/150	 Time: 0.786	 Loss: 0.01749822
+2019-03-24 18:57:28,965 - root - INFO -   Epoch 59/150	 Time: 0.788	 Loss: 0.01744646
+2019-03-24 18:57:29,751 - root - INFO -   Epoch 60/150	 Time: 0.786	 Loss: 0.01824487
+2019-03-24 18:57:30,536 - root - INFO -   Epoch 61/150	 Time: 0.785	 Loss: 0.01776874
+2019-03-24 18:57:31,321 - root - INFO -   Epoch 62/150	 Time: 0.784	 Loss: 0.01756898
+2019-03-24 18:57:32,103 - root - INFO -   Epoch 63/150	 Time: 0.782	 Loss: 0.01790003
+2019-03-24 18:57:32,887 - root - INFO -   Epoch 64/150	 Time: 0.784	 Loss: 0.01819564
+2019-03-24 18:57:33,668 - root - INFO -   Epoch 65/150	 Time: 0.781	 Loss: 0.01693875
+2019-03-24 18:57:34,453 - root - INFO -   Epoch 66/150	 Time: 0.785	 Loss: 0.01755525
+2019-03-24 18:57:35,238 - root - INFO -   Epoch 67/150	 Time: 0.785	 Loss: 0.01753753
+2019-03-24 18:57:36,028 - root - INFO -   Epoch 68/150	 Time: 0.789	 Loss: 0.01794385
+2019-03-24 18:57:36,814 - root - INFO -   Epoch 69/150	 Time: 0.787	 Loss: 0.01707354
+2019-03-24 18:57:37,597 - root - INFO -   Epoch 70/150	 Time: 0.782	 Loss: 0.01767679
+2019-03-24 18:57:38,383 - root - INFO -   Epoch 71/150	 Time: 0.786	 Loss: 0.01807696
+2019-03-24 18:57:39,177 - root - INFO -   Epoch 72/150	 Time: 0.794	 Loss: 0.01698486
+2019-03-24 18:57:39,966 - root - INFO -   Epoch 73/150	 Time: 0.788	 Loss: 0.01703938
+2019-03-24 18:57:40,750 - root - INFO -   Epoch 74/150	 Time: 0.784	 Loss: 0.01702798
+2019-03-24 18:57:41,536 - root - INFO -   Epoch 75/150	 Time: 0.786	 Loss: 0.01701116
+2019-03-24 18:57:42,320 - root - INFO -   Epoch 76/150	 Time: 0.784	 Loss: 0.01704542
+2019-03-24 18:57:43,105 - root - INFO -   Epoch 77/150	 Time: 0.785	 Loss: 0.01682418
+2019-03-24 18:57:43,890 - root - INFO -   Epoch 78/150	 Time: 0.784	 Loss: 0.01748444
+2019-03-24 18:57:44,676 - root - INFO -   Epoch 79/150	 Time: 0.786	 Loss: 0.01625884
+2019-03-24 18:57:45,459 - root - INFO -   Epoch 80/150	 Time: 0.784	 Loss: 0.01688980
+2019-03-24 18:57:46,245 - root - INFO -   Epoch 81/150	 Time: 0.785	 Loss: 0.01650229
+2019-03-24 18:57:47,030 - root - INFO -   Epoch 82/150	 Time: 0.785	 Loss: 0.01715192
+2019-03-24 18:57:47,814 - root - INFO -   Epoch 83/150	 Time: 0.784	 Loss: 0.01709542
+2019-03-24 18:57:48,595 - root - INFO -   Epoch 84/150	 Time: 0.780	 Loss: 0.01608985
+2019-03-24 18:57:49,378 - root - INFO -   Epoch 85/150	 Time: 0.783	 Loss: 0.01753131
+2019-03-24 18:57:50,162 - root - INFO -   Epoch 86/150	 Time: 0.785	 Loss: 0.01609521
+2019-03-24 18:57:50,946 - root - INFO -   Epoch 87/150	 Time: 0.784	 Loss: 0.01609613
+2019-03-24 18:57:51,725 - root - INFO -   Epoch 88/150	 Time: 0.779	 Loss: 0.01585806
+2019-03-24 18:57:52,504 - root - INFO -   Epoch 89/150	 Time: 0.778	 Loss: 0.01667119
+2019-03-24 18:57:53,283 - root - INFO -   Epoch 90/150	 Time: 0.779	 Loss: 0.01630561
+2019-03-24 18:57:54,066 - root - INFO -   Epoch 91/150	 Time: 0.783	 Loss: 0.01610972
+2019-03-24 18:57:54,844 - root - INFO -   Epoch 92/150	 Time: 0.778	 Loss: 0.01624088
+2019-03-24 18:57:55,623 - root - INFO -   Epoch 93/150	 Time: 0.778	 Loss: 0.01601798
+2019-03-24 18:57:56,422 - root - INFO -   Epoch 94/150	 Time: 0.799	 Loss: 0.01708047
+2019-03-24 18:57:57,218 - root - INFO -   Epoch 95/150	 Time: 0.796	 Loss: 0.01707465
+2019-03-24 18:57:58,020 - root - INFO -   Epoch 96/150	 Time: 0.802	 Loss: 0.01664470
+2019-03-24 18:57:58,813 - root - INFO -   Epoch 97/150	 Time: 0.793	 Loss: 0.01651375
+2019-03-24 18:57:59,603 - root - INFO -   Epoch 98/150	 Time: 0.790	 Loss: 0.01590285
+2019-03-24 18:58:00,394 - root - INFO -   Epoch 99/150	 Time: 0.791	 Loss: 0.01601004
+2019-03-24 18:58:01,185 - root - INFO -   Epoch 100/150	 Time: 0.791	 Loss: 0.01602303
+2019-03-24 18:58:01,978 - root - INFO -   Epoch 101/150	 Time: 0.793	 Loss: 0.01542422
+2019-03-24 18:58:02,768 - root - INFO -   Epoch 102/150	 Time: 0.789	 Loss: 0.01564923
+2019-03-24 18:58:03,553 - root - INFO -   Epoch 103/150	 Time: 0.786	 Loss: 0.01561994
+2019-03-24 18:58:04,338 - root - INFO -   Epoch 104/150	 Time: 0.785	 Loss: 0.01550236
+2019-03-24 18:58:05,125 - root - INFO -   Epoch 105/150	 Time: 0.787	 Loss: 0.01576764
+2019-03-24 18:58:05,913 - root - INFO -   Epoch 106/150	 Time: 0.788	 Loss: 0.01539782
+2019-03-24 18:58:06,699 - root - INFO -   Epoch 107/150	 Time: 0.785	 Loss: 0.01544568
+2019-03-24 18:58:07,483 - root - INFO -   Epoch 108/150	 Time: 0.784	 Loss: 0.01495092
+2019-03-24 18:58:08,268 - root - INFO -   Epoch 109/150	 Time: 0.784	 Loss: 0.01636185
+2019-03-24 18:58:09,055 - root - INFO -   Epoch 110/150	 Time: 0.787	 Loss: 0.01510267
+2019-03-24 18:58:09,838 - root - INFO -   Epoch 111/150	 Time: 0.782	 Loss: 0.01555979
+2019-03-24 18:58:10,627 - root - INFO -   Epoch 112/150	 Time: 0.790	 Loss: 0.01536892
+2019-03-24 18:58:11,411 - root - INFO -   Epoch 113/150	 Time: 0.784	 Loss: 0.01575471
+2019-03-24 18:58:12,199 - root - INFO -   Epoch 114/150	 Time: 0.788	 Loss: 0.01476767
+2019-03-24 18:58:12,987 - root - INFO -   Epoch 115/150	 Time: 0.787	 Loss: 0.01516180
+2019-03-24 18:58:13,772 - root - INFO -   Epoch 116/150	 Time: 0.785	 Loss: 0.01528607
+2019-03-24 18:58:14,556 - root - INFO -   Epoch 117/150	 Time: 0.784	 Loss: 0.01548981
+2019-03-24 18:58:15,339 - root - INFO -   Epoch 118/150	 Time: 0.783	 Loss: 0.01599471
+2019-03-24 18:58:16,127 - root - INFO -   Epoch 119/150	 Time: 0.788	 Loss: 0.01502913
+2019-03-24 18:58:16,910 - root - INFO -   Epoch 120/150	 Time: 0.782	 Loss: 0.01558860
+2019-03-24 18:58:17,693 - root - INFO -   Epoch 121/150	 Time: 0.783	 Loss: 0.01640294
+2019-03-24 18:58:18,487 - root - INFO -   Epoch 122/150	 Time: 0.793	 Loss: 0.01547781
+2019-03-24 18:58:19,272 - root - INFO -   Epoch 123/150	 Time: 0.786	 Loss: 0.01527463
+2019-03-24 18:58:20,076 - root - INFO -   Epoch 124/150	 Time: 0.804	 Loss: 0.01479052
+2019-03-24 18:58:20,859 - root - INFO -   Epoch 125/150	 Time: 0.783	 Loss: 0.01509107
+2019-03-24 18:58:21,642 - root - INFO -   Epoch 126/150	 Time: 0.783	 Loss: 0.01517497
+2019-03-24 18:58:22,429 - root - INFO -   Epoch 127/150	 Time: 0.787	 Loss: 0.01483125
+2019-03-24 18:58:23,210 - root - INFO -   Epoch 128/150	 Time: 0.781	 Loss: 0.01561739
+2019-03-24 18:58:23,997 - root - INFO -   Epoch 129/150	 Time: 0.786	 Loss: 0.01466832
+2019-03-24 18:58:24,786 - root - INFO -   Epoch 130/150	 Time: 0.789	 Loss: 0.01423076
+2019-03-24 18:58:25,574 - root - INFO -   Epoch 131/150	 Time: 0.787	 Loss: 0.01460932
+2019-03-24 18:58:26,366 - root - INFO -   Epoch 132/150	 Time: 0.792	 Loss: 0.01468878
+2019-03-24 18:58:27,166 - root - INFO -   Epoch 133/150	 Time: 0.800	 Loss: 0.01451083
+2019-03-24 18:58:27,966 - root - INFO -   Epoch 134/150	 Time: 0.800	 Loss: 0.01486287
+2019-03-24 18:58:28,760 - root - INFO -   Epoch 135/150	 Time: 0.794	 Loss: 0.01493493
+2019-03-24 18:58:29,558 - root - INFO -   Epoch 136/150	 Time: 0.797	 Loss: 0.01397751
+2019-03-24 18:58:30,344 - root - INFO -   Epoch 137/150	 Time: 0.786	 Loss: 0.01443926
+2019-03-24 18:58:31,135 - root - INFO -   Epoch 138/150	 Time: 0.791	 Loss: 0.01545203
+2019-03-24 18:58:31,923 - root - INFO -   Epoch 139/150	 Time: 0.789	 Loss: 0.01365436
+2019-03-24 18:58:32,710 - root - INFO -   Epoch 140/150	 Time: 0.787	 Loss: 0.01342237
+2019-03-24 18:58:33,499 - root - INFO -   Epoch 141/150	 Time: 0.788	 Loss: 0.01523527
+2019-03-24 18:58:34,289 - root - INFO -   Epoch 142/150	 Time: 0.790	 Loss: 0.01396704
+2019-03-24 18:58:35,076 - root - INFO -   Epoch 143/150	 Time: 0.787	 Loss: 0.01400418
+2019-03-24 18:58:35,865 - root - INFO -   Epoch 144/150	 Time: 0.789	 Loss: 0.01382850
+2019-03-24 18:58:36,651 - root - INFO -   Epoch 145/150	 Time: 0.786	 Loss: 0.01374611
+2019-03-24 18:58:37,435 - root - INFO -   Epoch 146/150	 Time: 0.784	 Loss: 0.01442881
+2019-03-24 18:58:38,226 - root - INFO -   Epoch 147/150	 Time: 0.790	 Loss: 0.01394753
+2019-03-24 18:58:39,014 - root - INFO -   Epoch 148/150	 Time: 0.788	 Loss: 0.01425995
+2019-03-24 18:58:39,805 - root - INFO -   Epoch 149/150	 Time: 0.791	 Loss: 0.01327618
+2019-03-24 18:58:40,593 - root - INFO -   Epoch 150/150	 Time: 0.787	 Loss: 0.01336064
+2019-03-24 18:58:40,593 - root - INFO - Training time: 117.472
+2019-03-24 18:58:40,593 - root - INFO - Finished training.
+2019-03-24 18:58:40,593 - root - INFO - Starting testing...
+2019-03-24 18:58:41,689 - root - INFO - Testing time: 1.096
+2019-03-24 18:58:41,692 - root - INFO - Test set AUC: 88.67%
+2019-03-24 18:58:41,692 - root - INFO - Finished testing.
+2019-03-26 09:12:19,635 - root - INFO - Log file is ../log/mnist_test/log.txt.
+2019-03-26 09:12:19,635 - root - INFO - Data path is ../data.
+2019-03-26 09:12:19,636 - root - INFO - Export path is ../log/mnist_test.
+2019-03-26 09:12:19,636 - root - INFO - Dataset: mnist
+2019-03-26 09:12:19,636 - root - INFO - Normal class: 3
+2019-03-26 09:12:19,636 - root - INFO - Network: mnist_LeNet
+2019-03-26 09:12:19,636 - root - INFO - Deep SVDD objective: one-class
+2019-03-26 09:12:19,636 - root - INFO - Nu-paramerter: 0.10
+2019-03-26 09:12:19,657 - root - INFO - Computation device: cuda
+2019-03-26 09:12:19,657 - root - INFO - Number of dataloader workers: 0
+2019-03-26 09:12:19,755 - root - INFO - Pretraining: True
+2019-03-26 09:12:19,755 - root - INFO - Pretraining optimizer: adam
+2019-03-26 09:12:19,755 - root - INFO - Pretraining learning rate: 0.0001
+2019-03-26 09:12:19,755 - root - INFO - Pretraining epochs: 150
+2019-03-26 09:12:19,755 - root - INFO - Pretraining learning rate scheduler milestones: (50,)
+2019-03-26 09:12:19,755 - root - INFO - Pretraining batch size: 200
+2019-03-26 09:12:19,755 - root - INFO - Pretraining weight decay: 0.0005
+2019-03-26 09:12:21,931 - root - INFO - Starting pretraining...
+2019-03-26 09:12:22,947 - root - INFO -   Epoch 1/150	 Time: 1.016	 Loss: 110.67559839
+2019-03-26 09:12:23,916 - root - INFO -   Epoch 2/150	 Time: 0.969	 Loss: 80.90552348
+2019-03-26 09:12:24,889 - root - INFO -   Epoch 3/150	 Time: 0.973	 Loss: 59.06913991
+2019-03-26 09:12:25,854 - root - INFO -   Epoch 4/150	 Time: 0.964	 Loss: 43.89080380
+2019-03-26 09:12:26,821 - root - INFO -   Epoch 5/150	 Time: 0.967	 Loss: 33.74946397
+2019-03-26 09:12:27,784 - root - INFO -   Epoch 6/150	 Time: 0.963	 Loss: 26.85470556
+2019-03-26 09:12:28,776 - root - INFO -   Epoch 7/150	 Time: 0.992	 Loss: 22.02608268
+2019-03-26 09:12:29,749 - root - INFO -   Epoch 8/150	 Time: 0.973	 Loss: 18.55365415
+2019-03-26 09:12:30,739 - root - INFO -   Epoch 9/150	 Time: 0.990	 Loss: 16.00342166
+2019-03-26 09:12:31,710 - root - INFO -   Epoch 10/150	 Time: 0.971	 Loss: 14.09567704
+2019-03-26 09:12:32,703 - root - INFO -   Epoch 11/150	 Time: 0.993	 Loss: 12.61666673
+2019-03-26 09:12:33,696 - root - INFO -   Epoch 12/150	 Time: 0.993	 Loss: 11.44019293
+2019-03-26 09:12:34,645 - root - INFO -   Epoch 13/150	 Time: 0.949	 Loss: 10.49400194
+2019-03-26 09:12:35,619 - root - INFO -   Epoch 14/150	 Time: 0.974	 Loss: 9.73423499
+2019-03-26 09:12:36,575 - root - INFO -   Epoch 15/150	 Time: 0.955	 Loss: 9.11923061
+2019-03-26 09:12:37,519 - root - INFO -   Epoch 16/150	 Time: 0.944	 Loss: 8.60888743
+2019-03-26 09:12:38,469 - root - INFO -   Epoch 17/150	 Time: 0.950	 Loss: 8.18303705
+2019-03-26 09:12:39,429 - root - INFO -   Epoch 18/150	 Time: 0.960	 Loss: 7.81660554
+2019-03-26 09:12:40,381 - root - INFO -   Epoch 19/150	 Time: 0.952	 Loss: 7.50458268
+2019-03-26 09:12:41,333 - root - INFO -   Epoch 20/150	 Time: 0.952	 Loss: 7.23214732
+2019-03-26 09:12:42,285 - root - INFO -   Epoch 21/150	 Time: 0.951	 Loss: 6.99608432
+2019-03-26 09:12:43,234 - root - INFO -   Epoch 22/150	 Time: 0.949	 Loss: 6.78123466
+2019-03-26 09:12:44,186 - root - INFO -   Epoch 23/150	 Time: 0.952	 Loss: 6.59219108
+2019-03-26 09:12:45,142 - root - INFO -   Epoch 24/150	 Time: 0.956	 Loss: 6.42232849
+2019-03-26 09:12:46,096 - root - INFO -   Epoch 25/150	 Time: 0.954	 Loss: 6.26869692
+2019-03-26 09:12:47,056 - root - INFO -   Epoch 26/150	 Time: 0.959	 Loss: 6.12888805
+2019-03-26 09:12:48,011 - root - INFO -   Epoch 27/150	 Time: 0.955	 Loss: 5.99908092
+2019-03-26 09:12:48,964 - root - INFO -   Epoch 28/150	 Time: 0.953	 Loss: 5.87943752
+2019-03-26 09:12:49,917 - root - INFO -   Epoch 29/150	 Time: 0.953	 Loss: 5.77365569
+2019-03-26 09:12:50,868 - root - INFO -   Epoch 30/150	 Time: 0.950	 Loss: 5.67284942
+2019-03-26 09:12:51,819 - root - INFO -   Epoch 31/150	 Time: 0.951	 Loss: 5.57697341
+2019-03-26 09:12:52,768 - root - INFO -   Epoch 32/150	 Time: 0.949	 Loss: 5.49278115
+2019-03-26 09:12:53,718 - root - INFO -   Epoch 33/150	 Time: 0.949	 Loss: 5.40501641
+2019-03-26 09:12:54,665 - root - INFO -   Epoch 34/150	 Time: 0.947	 Loss: 5.32552848
+2019-03-26 09:12:55,614 - root - INFO -   Epoch 35/150	 Time: 0.948	 Loss: 5.24521966
+2019-03-26 09:12:56,565 - root - INFO -   Epoch 36/150	 Time: 0.951	 Loss: 5.17526997
+2019-03-26 09:12:57,513 - root - INFO -   Epoch 37/150	 Time: 0.947	 Loss: 5.10473531
+2019-03-26 09:12:58,461 - root - INFO -   Epoch 38/150	 Time: 0.948	 Loss: 5.03345586
+2019-03-26 09:12:59,411 - root - INFO -   Epoch 39/150	 Time: 0.950	 Loss: 4.96524534
+2019-03-26 09:13:00,361 - root - INFO -   Epoch 40/150	 Time: 0.949	 Loss: 4.90001482
+2019-03-26 09:13:01,310 - root - INFO -   Epoch 41/150	 Time: 0.949	 Loss: 4.83874078
+2019-03-26 09:13:02,266 - root - INFO -   Epoch 42/150	 Time: 0.955	 Loss: 4.77682681
+2019-03-26 09:13:03,216 - root - INFO -   Epoch 43/150	 Time: 0.950	 Loss: 4.71661894
+2019-03-26 09:13:04,164 - root - INFO -   Epoch 44/150	 Time: 0.948	 Loss: 4.65971882
+2019-03-26 09:13:05,129 - root - INFO -   Epoch 45/150	 Time: 0.965	 Loss: 4.60417578
+2019-03-26 09:13:06,090 - root - INFO -   Epoch 46/150	 Time: 0.961	 Loss: 4.54591214
+2019-03-26 09:13:07,044 - root - INFO -   Epoch 47/150	 Time: 0.955	 Loss: 4.49157483
+2019-03-26 09:13:08,001 - root - INFO -   Epoch 48/150	 Time: 0.957	 Loss: 4.43849173
+2019-03-26 09:13:08,959 - root - INFO -   Epoch 49/150	 Time: 0.958	 Loss: 4.38294609
+2019-03-26 09:13:09,915 - root - INFO -   Epoch 50/150	 Time: 0.956	 Loss: 4.33174941
+2019-03-26 09:13:09,915 - root - INFO -   LR scheduler: new learning rate is 1e-05
+2019-03-26 09:13:10,864 - root - INFO -   Epoch 51/150	 Time: 0.949	 Loss: 4.30151270
+2019-03-26 09:13:11,819 - root - INFO -   Epoch 52/150	 Time: 0.955	 Loss: 4.29656906
+2019-03-26 09:13:12,771 - root - INFO -   Epoch 53/150	 Time: 0.951	 Loss: 4.29062459
+2019-03-26 09:13:13,722 - root - INFO -   Epoch 54/150	 Time: 0.951	 Loss: 4.28665010
+2019-03-26 09:13:14,677 - root - INFO -   Epoch 55/150	 Time: 0.955	 Loss: 4.28243899
+2019-03-26 09:13:15,630 - root - INFO -   Epoch 56/150	 Time: 0.953	 Loss: 4.27473130
+2019-03-26 09:13:16,580 - root - INFO -   Epoch 57/150	 Time: 0.949	 Loss: 4.26991200
+2019-03-26 09:13:17,533 - root - INFO -   Epoch 58/150	 Time: 0.953	 Loss: 4.26106638
+2019-03-26 09:13:18,479 - root - INFO -   Epoch 59/150	 Time: 0.946	 Loss: 4.25816888
+2019-03-26 09:13:19,427 - root - INFO -   Epoch 60/150	 Time: 0.947	 Loss: 4.25319369
+2019-03-26 09:13:20,378 - root - INFO -   Epoch 61/150	 Time: 0.951	 Loss: 4.24895865
+2019-03-26 09:13:21,330 - root - INFO -   Epoch 62/150	 Time: 0.952	 Loss: 4.24391707
+2019-03-26 09:13:22,283 - root - INFO -   Epoch 63/150	 Time: 0.952	 Loss: 4.23531701
+2019-03-26 09:13:23,231 - root - INFO -   Epoch 64/150	 Time: 0.948	 Loss: 4.23158372
+2019-03-26 09:13:24,177 - root - INFO -   Epoch 65/150	 Time: 0.946	 Loss: 4.22702205
+2019-03-26 09:13:25,127 - root - INFO -   Epoch 66/150	 Time: 0.949	 Loss: 4.22268991
+2019-03-26 09:13:26,070 - root - INFO -   Epoch 67/150	 Time: 0.944	 Loss: 4.21272279
+2019-03-26 09:13:27,020 - root - INFO -   Epoch 68/150	 Time: 0.949	 Loss: 4.20793160
+2019-03-26 09:13:27,963 - root - INFO -   Epoch 69/150	 Time: 0.943	 Loss: 4.20603423
+2019-03-26 09:13:28,901 - root - INFO -   Epoch 70/150	 Time: 0.938	 Loss: 4.19952502
+2019-03-26 09:13:29,837 - root - INFO -   Epoch 71/150	 Time: 0.937	 Loss: 4.18875194
+2019-03-26 09:13:30,780 - root - INFO -   Epoch 72/150	 Time: 0.943	 Loss: 4.18472820
+2019-03-26 09:13:31,722 - root - INFO -   Epoch 73/150	 Time: 0.941	 Loss: 4.17666384
+2019-03-26 09:13:32,663 - root - INFO -   Epoch 74/150	 Time: 0.941	 Loss: 4.17235133
+2019-03-26 09:13:33,606 - root - INFO -   Epoch 75/150	 Time: 0.942	 Loss: 4.16759984
+2019-03-26 09:13:34,544 - root - INFO -   Epoch 76/150	 Time: 0.938	 Loss: 4.16121054
+2019-03-26 09:13:35,483 - root - INFO -   Epoch 77/150	 Time: 0.939	 Loss: 4.15544711
+2019-03-26 09:13:36,420 - root - INFO -   Epoch 78/150	 Time: 0.937	 Loss: 4.14585653
+2019-03-26 09:13:37,359 - root - INFO -   Epoch 79/150	 Time: 0.939	 Loss: 4.14452208
+2019-03-26 09:13:38,302 - root - INFO -   Epoch 80/150	 Time: 0.942	 Loss: 4.13400368
+2019-03-26 09:13:39,243 - root - INFO -   Epoch 81/150	 Time: 0.941	 Loss: 4.12840731
+2019-03-26 09:13:40,182 - root - INFO -   Epoch 82/150	 Time: 0.940	 Loss: 4.12379255
+2019-03-26 09:13:41,124 - root - INFO -   Epoch 83/150	 Time: 0.942	 Loss: 4.11857846
+2019-03-26 09:13:42,063 - root - INFO -   Epoch 84/150	 Time: 0.939	 Loss: 4.11162040
+2019-03-26 09:13:43,003 - root - INFO -   Epoch 85/150	 Time: 0.939	 Loss: 4.10485723
+2019-03-26 09:13:43,940 - root - INFO -   Epoch 86/150	 Time: 0.937	 Loss: 4.09487819
+2019-03-26 09:13:44,881 - root - INFO -   Epoch 87/150	 Time: 0.941	 Loss: 4.09033572
+2019-03-26 09:13:45,828 - root - INFO -   Epoch 88/150	 Time: 0.946	 Loss: 4.08530413
+2019-03-26 09:13:46,770 - root - INFO -   Epoch 89/150	 Time: 0.942	 Loss: 4.07859295
+2019-03-26 09:13:47,709 - root - INFO -   Epoch 90/150	 Time: 0.939	 Loss: 4.07085924
+2019-03-26 09:13:48,653 - root - INFO -   Epoch 91/150	 Time: 0.944	 Loss: 4.06446826
+2019-03-26 09:13:49,598 - root - INFO -   Epoch 92/150	 Time: 0.945	 Loss: 4.05575522
+2019-03-26 09:13:50,537 - root - INFO -   Epoch 93/150	 Time: 0.939	 Loss: 4.05372292
+2019-03-26 09:13:51,475 - root - INFO -   Epoch 94/150	 Time: 0.938	 Loss: 4.04541799
+2019-03-26 09:13:52,416 - root - INFO -   Epoch 95/150	 Time: 0.941	 Loss: 4.03820352
+2019-03-26 09:13:53,355 - root - INFO -   Epoch 96/150	 Time: 0.938	 Loss: 4.03283917
+2019-03-26 09:13:54,294 - root - INFO -   Epoch 97/150	 Time: 0.939	 Loss: 4.02229314
+2019-03-26 09:13:55,235 - root - INFO -   Epoch 98/150	 Time: 0.942	 Loss: 4.01735953
+2019-03-26 09:13:56,176 - root - INFO -   Epoch 99/150	 Time: 0.941	 Loss: 4.00842859
+2019-03-26 09:13:57,116 - root - INFO -   Epoch 100/150	 Time: 0.939	 Loss: 4.00362115
+2019-03-26 09:13:58,057 - root - INFO -   Epoch 101/150	 Time: 0.941	 Loss: 3.99799258
+2019-03-26 09:13:59,001 - root - INFO -   Epoch 102/150	 Time: 0.944	 Loss: 3.98871060
+2019-03-26 09:13:59,932 - root - INFO -   Epoch 103/150	 Time: 0.930	 Loss: 3.97989738
+2019-03-26 09:14:00,856 - root - INFO -   Epoch 104/150	 Time: 0.924	 Loss: 3.97419746
+2019-03-26 09:14:01,780 - root - INFO -   Epoch 105/150	 Time: 0.924	 Loss: 3.96794994
+2019-03-26 09:14:02,709 - root - INFO -   Epoch 106/150	 Time: 0.928	 Loss: 3.96277305
+2019-03-26 09:14:03,636 - root - INFO -   Epoch 107/150	 Time: 0.928	 Loss: 3.95366564
+2019-03-26 09:14:04,571 - root - INFO -   Epoch 108/150	 Time: 0.935	 Loss: 3.94651841
+2019-03-26 09:14:05,502 - root - INFO -   Epoch 109/150	 Time: 0.931	 Loss: 3.94041783
+2019-03-26 09:14:06,436 - root - INFO -   Epoch 110/150	 Time: 0.933	 Loss: 3.93281612
+2019-03-26 09:14:07,369 - root - INFO -   Epoch 111/150	 Time: 0.933	 Loss: 3.92482810
+2019-03-26 09:14:08,302 - root - INFO -   Epoch 112/150	 Time: 0.932	 Loss: 3.91859198
+2019-03-26 09:14:09,234 - root - INFO -   Epoch 113/150	 Time: 0.932	 Loss: 3.90931760
+2019-03-26 09:14:10,169 - root - INFO -   Epoch 114/150	 Time: 0.935	 Loss: 3.90530781
+2019-03-26 09:14:11,102 - root - INFO -   Epoch 115/150	 Time: 0.933	 Loss: 3.89983809
+2019-03-26 09:14:12,034 - root - INFO -   Epoch 116/150	 Time: 0.932	 Loss: 3.89306828
+2019-03-26 09:14:12,973 - root - INFO -   Epoch 117/150	 Time: 0.940	 Loss: 3.88139768
+2019-03-26 09:14:13,911 - root - INFO -   Epoch 118/150	 Time: 0.937	 Loss: 3.87757706
+2019-03-26 09:14:14,845 - root - INFO -   Epoch 119/150	 Time: 0.934	 Loss: 3.86765405
+2019-03-26 09:14:15,784 - root - INFO -   Epoch 120/150	 Time: 0.939	 Loss: 3.85881492
+2019-03-26 09:14:16,722 - root - INFO -   Epoch 121/150	 Time: 0.937	 Loss: 3.85244846
+2019-03-26 09:14:17,660 - root - INFO -   Epoch 122/150	 Time: 0.938	 Loss: 3.84616774
+2019-03-26 09:14:18,600 - root - INFO -   Epoch 123/150	 Time: 0.941	 Loss: 3.83863964
+2019-03-26 09:14:19,540 - root - INFO -   Epoch 124/150	 Time: 0.940	 Loss: 3.83226548
+2019-03-26 09:14:20,476 - root - INFO -   Epoch 125/150	 Time: 0.936	 Loss: 3.82451155
+2019-03-26 09:14:21,415 - root - INFO -   Epoch 126/150	 Time: 0.938	 Loss: 3.81583087
+2019-03-26 09:14:22,354 - root - INFO -   Epoch 127/150	 Time: 0.939	 Loss: 3.80850614
+2019-03-26 09:14:23,292 - root - INFO -   Epoch 128/150	 Time: 0.938	 Loss: 3.80286392
+2019-03-26 09:14:24,231 - root - INFO -   Epoch 129/150	 Time: 0.939	 Loss: 3.79462297
+2019-03-26 09:14:25,171 - root - INFO -   Epoch 130/150	 Time: 0.940	 Loss: 3.78963344
+2019-03-26 09:14:26,110 - root - INFO -   Epoch 131/150	 Time: 0.938	 Loss: 3.77996226
+2019-03-26 09:14:27,052 - root - INFO -   Epoch 132/150	 Time: 0.942	 Loss: 3.76922034
+2019-03-26 09:14:27,993 - root - INFO -   Epoch 133/150	 Time: 0.941	 Loss: 3.76602361
+2019-03-26 09:14:28,928 - root - INFO -   Epoch 134/150	 Time: 0.935	 Loss: 3.75834164
+2019-03-26 09:14:29,866 - root - INFO -   Epoch 135/150	 Time: 0.939	 Loss: 3.75120971
+2019-03-26 09:14:30,802 - root - INFO -   Epoch 136/150	 Time: 0.935	 Loss: 3.74190440
+2019-03-26 09:14:31,746 - root - INFO -   Epoch 137/150	 Time: 0.944	 Loss: 3.73493238
+2019-03-26 09:14:32,689 - root - INFO -   Epoch 138/150	 Time: 0.943	 Loss: 3.72667380
+2019-03-26 09:14:33,617 - root - INFO -   Epoch 139/150	 Time: 0.928	 Loss: 3.72053909
+2019-03-26 09:14:34,544 - root - INFO -   Epoch 140/150	 Time: 0.926	 Loss: 3.71151620
+2019-03-26 09:14:35,477 - root - INFO -   Epoch 141/150	 Time: 0.933	 Loss: 3.70792035
+2019-03-26 09:14:36,408 - root - INFO -   Epoch 142/150	 Time: 0.931	 Loss: 3.69838488
+2019-03-26 09:14:37,337 - root - INFO -   Epoch 143/150	 Time: 0.929	 Loss: 3.69261203
+2019-03-26 09:14:38,263 - root - INFO -   Epoch 144/150	 Time: 0.926	 Loss: 3.68309750
+2019-03-26 09:14:39,190 - root - INFO -   Epoch 145/150	 Time: 0.926	 Loss: 3.67552483
+2019-03-26 09:14:40,118 - root - INFO -   Epoch 146/150	 Time: 0.928	 Loss: 3.66561869
+2019-03-26 09:14:41,044 - root - INFO -   Epoch 147/150	 Time: 0.926	 Loss: 3.66226302
+2019-03-26 09:14:41,976 - root - INFO -   Epoch 148/150	 Time: 0.931	 Loss: 3.65432126
+2019-03-26 09:14:42,912 - root - INFO -   Epoch 149/150	 Time: 0.936	 Loss: 3.64359872
+2019-03-26 09:14:43,839 - root - INFO -   Epoch 150/150	 Time: 0.927	 Loss: 3.63643672
+2019-03-26 09:14:43,839 - root - INFO - Pretraining time: 141.908
+2019-03-26 09:14:43,839 - root - INFO - Finished pretraining.
+2019-03-26 09:14:43,839 - root - INFO - Testing autoencoder...
+2019-03-26 09:14:45,007 - root - INFO - Test set Loss: 5.68830436
+2019-03-26 09:14:45,011 - root - INFO - Test set AUC: 84.19%
+2019-03-26 09:14:45,011 - root - INFO - Autoencoder testing time: 1.171
+2019-03-26 09:14:45,011 - root - INFO - Finished testing autoencoder.
+2019-03-26 09:14:45,011 - root - INFO - Training optimizer: adam
+2019-03-26 09:14:45,011 - root - INFO - Training learning rate: 0.0001
+2019-03-26 09:14:45,011 - root - INFO - Training epochs: 150
+2019-03-26 09:14:45,011 - root - INFO - Training learning rate scheduler milestones: (50,)
+2019-03-26 09:14:45,011 - root - INFO - Training batch size: 200
+2019-03-26 09:14:45,011 - root - INFO - Training weight decay: 5e-07
+2019-03-26 09:14:45,012 - root - INFO - Initializing center c...
+2019-03-26 09:14:45,705 - root - INFO - Center c initialized.
+2019-03-26 09:14:45,705 - root - INFO - Starting training...
+2019-03-26 09:14:46,482 - root - INFO -   Epoch 1/150	 Time: 0.777	 Loss: 1.51123839
+2019-03-26 09:14:47,262 - root - INFO -   Epoch 2/150	 Time: 0.780	 Loss: 0.98299017
+2019-03-26 09:14:48,044 - root - INFO -   Epoch 3/150	 Time: 0.782	 Loss: 0.67663082
+2019-03-26 09:14:48,829 - root - INFO -   Epoch 4/150	 Time: 0.785	 Loss: 0.48466661
+2019-03-26 09:14:49,614 - root - INFO -   Epoch 5/150	 Time: 0.784	 Loss: 0.36238024
+2019-03-26 09:14:50,400 - root - INFO -   Epoch 6/150	 Time: 0.786	 Loss: 0.28384431
+2019-03-26 09:14:51,184 - root - INFO -   Epoch 7/150	 Time: 0.784	 Loss: 0.22944568
+2019-03-26 09:14:51,967 - root - INFO -   Epoch 8/150	 Time: 0.783	 Loss: 0.19328738
+2019-03-26 09:14:52,793 - root - INFO -   Epoch 9/150	 Time: 0.826	 Loss: 0.16638292
+2019-03-26 09:14:53,604 - root - INFO -   Epoch 10/150	 Time: 0.811	 Loss: 0.14362226
+2019-03-26 09:14:54,398 - root - INFO -   Epoch 11/150	 Time: 0.794	 Loss: 0.12940312
+2019-03-26 09:14:55,222 - root - INFO -   Epoch 12/150	 Time: 0.823	 Loss: 0.11559638
+2019-03-26 09:14:56,023 - root - INFO -   Epoch 13/150	 Time: 0.801	 Loss: 0.10532758
+2019-03-26 09:14:56,843 - root - INFO -   Epoch 14/150	 Time: 0.820	 Loss: 0.09665275
+2019-03-26 09:14:57,656 - root - INFO -   Epoch 15/150	 Time: 0.813	 Loss: 0.09013057
+2019-03-26 09:14:58,450 - root - INFO -   Epoch 16/150	 Time: 0.793	 Loss: 0.08285926
+2019-03-26 09:14:59,270 - root - INFO -   Epoch 17/150	 Time: 0.820	 Loss: 0.07759883
+2019-03-26 09:15:00,077 - root - INFO -   Epoch 18/150	 Time: 0.806	 Loss: 0.07326775
+2019-03-26 09:15:00,893 - root - INFO -   Epoch 19/150	 Time: 0.815	 Loss: 0.06769183
+2019-03-26 09:15:01,682 - root - INFO -   Epoch 20/150	 Time: 0.789	 Loss: 0.06558950
+2019-03-26 09:15:02,468 - root - INFO -   Epoch 21/150	 Time: 0.786	 Loss: 0.06123515
+2019-03-26 09:15:03,255 - root - INFO -   Epoch 22/150	 Time: 0.786	 Loss: 0.05670250
+2019-03-26 09:15:04,044 - root - INFO -   Epoch 23/150	 Time: 0.789	 Loss: 0.05527422
+2019-03-26 09:15:04,837 - root - INFO -   Epoch 24/150	 Time: 0.792	 Loss: 0.05287684
+2019-03-26 09:15:05,631 - root - INFO -   Epoch 25/150	 Time: 0.794	 Loss: 0.05030281
+2019-03-26 09:15:06,430 - root - INFO -   Epoch 26/150	 Time: 0.798	 Loss: 0.04801483
+2019-03-26 09:15:07,222 - root - INFO -   Epoch 27/150	 Time: 0.793	 Loss: 0.04640747
+2019-03-26 09:15:08,013 - root - INFO -   Epoch 28/150	 Time: 0.791	 Loss: 0.04361843
+2019-03-26 09:15:08,885 - root - INFO -   Epoch 29/150	 Time: 0.871	 Loss: 0.04316618
+2019-03-26 09:15:09,717 - root - INFO -   Epoch 30/150	 Time: 0.833	 Loss: 0.04082106
+2019-03-26 09:15:10,511 - root - INFO -   Epoch 31/150	 Time: 0.794	 Loss: 0.03906012
+2019-03-26 09:15:11,298 - root - INFO -   Epoch 32/150	 Time: 0.787	 Loss: 0.03841322
+2019-03-26 09:15:12,101 - root - INFO -   Epoch 33/150	 Time: 0.803	 Loss: 0.03704871
+2019-03-26 09:15:12,898 - root - INFO -   Epoch 34/150	 Time: 0.797	 Loss: 0.03488736
+2019-03-26 09:15:13,694 - root - INFO -   Epoch 35/150	 Time: 0.795	 Loss: 0.03401325
+2019-03-26 09:15:14,488 - root - INFO -   Epoch 36/150	 Time: 0.794	 Loss: 0.03273819
+2019-03-26 09:15:15,275 - root - INFO -   Epoch 37/150	 Time: 0.787	 Loss: 0.03266501
+2019-03-26 09:15:16,061 - root - INFO -   Epoch 38/150	 Time: 0.786	 Loss: 0.03266402
+2019-03-26 09:15:16,849 - root - INFO -   Epoch 39/150	 Time: 0.787	 Loss: 0.03074416
+2019-03-26 09:15:17,640 - root - INFO -   Epoch 40/150	 Time: 0.791	 Loss: 0.03025026
+2019-03-26 09:15:18,427 - root - INFO -   Epoch 41/150	 Time: 0.787	 Loss: 0.02830863
+2019-03-26 09:15:19,215 - root - INFO -   Epoch 42/150	 Time: 0.788	 Loss: 0.02787378
+2019-03-26 09:15:20,001 - root - INFO -   Epoch 43/150	 Time: 0.786	 Loss: 0.02746690
+2019-03-26 09:15:20,788 - root - INFO -   Epoch 44/150	 Time: 0.786	 Loss: 0.02640872
+2019-03-26 09:15:21,577 - root - INFO -   Epoch 45/150	 Time: 0.789	 Loss: 0.02636945
+2019-03-26 09:15:22,364 - root - INFO -   Epoch 46/150	 Time: 0.787	 Loss: 0.02594877
+2019-03-26 09:15:23,157 - root - INFO -   Epoch 47/150	 Time: 0.793	 Loss: 0.02492244
+2019-03-26 09:15:23,959 - root - INFO -   Epoch 48/150	 Time: 0.802	 Loss: 0.02366348
+2019-03-26 09:15:24,825 - root - INFO -   Epoch 49/150	 Time: 0.866	 Loss: 0.02398933
+2019-03-26 09:15:25,613 - root - INFO -   Epoch 50/150	 Time: 0.788	 Loss: 0.02301042
+2019-03-26 09:15:25,614 - root - INFO -   LR scheduler: new learning rate is 1e-05
+2019-03-26 09:15:26,401 - root - INFO -   Epoch 51/150	 Time: 0.788	 Loss: 0.02292643
+2019-03-26 09:15:27,189 - root - INFO -   Epoch 52/150	 Time: 0.787	 Loss: 0.02255267
+2019-03-26 09:15:27,977 - root - INFO -   Epoch 53/150	 Time: 0.788	 Loss: 0.02222845
+2019-03-26 09:15:28,764 - root - INFO -   Epoch 54/150	 Time: 0.787	 Loss: 0.02221522
+2019-03-26 09:15:29,562 - root - INFO -   Epoch 55/150	 Time: 0.798	 Loss: 0.02129021
+2019-03-26 09:15:30,392 - root - INFO -   Epoch 56/150	 Time: 0.830	 Loss: 0.02144666
+2019-03-26 09:15:31,180 - root - INFO -   Epoch 57/150	 Time: 0.788	 Loss: 0.02328412
+2019-03-26 09:15:31,970 - root - INFO -   Epoch 58/150	 Time: 0.790	 Loss: 0.02137888
+2019-03-26 09:15:32,759 - root - INFO -   Epoch 59/150	 Time: 0.789	 Loss: 0.02159703
+2019-03-26 09:15:33,551 - root - INFO -   Epoch 60/150	 Time: 0.791	 Loss: 0.02186235
+2019-03-26 09:15:34,366 - root - INFO -   Epoch 61/150	 Time: 0.815	 Loss: 0.02189813
+2019-03-26 09:15:35,171 - root - INFO -   Epoch 62/150	 Time: 0.805	 Loss: 0.02105095
+2019-03-26 09:15:35,979 - root - INFO -   Epoch 63/150	 Time: 0.808	 Loss: 0.02148241
+2019-03-26 09:15:36,784 - root - INFO -   Epoch 64/150	 Time: 0.805	 Loss: 0.02144605
+2019-03-26 09:15:37,576 - root - INFO -   Epoch 65/150	 Time: 0.792	 Loss: 0.02149683
+2019-03-26 09:15:38,367 - root - INFO -   Epoch 66/150	 Time: 0.790	 Loss: 0.02197726
+2019-03-26 09:15:39,156 - root - INFO -   Epoch 67/150	 Time: 0.789	 Loss: 0.02127977
+2019-03-26 09:15:39,947 - root - INFO -   Epoch 68/150	 Time: 0.791	 Loss: 0.02098098
+2019-03-26 09:15:40,733 - root - INFO -   Epoch 69/150	 Time: 0.786	 Loss: 0.02212447
+2019-03-26 09:15:41,519 - root - INFO -   Epoch 70/150	 Time: 0.786	 Loss: 0.02155450
+2019-03-26 09:15:42,304 - root - INFO -   Epoch 71/150	 Time: 0.785	 Loss: 0.02040213
+2019-03-26 09:15:43,084 - root - INFO -   Epoch 72/150	 Time: 0.780	 Loss: 0.02103665
+2019-03-26 09:15:43,863 - root - INFO -   Epoch 73/150	 Time: 0.779	 Loss: 0.02045381
+2019-03-26 09:15:44,642 - root - INFO -   Epoch 74/150	 Time: 0.779	 Loss: 0.02104857
+2019-03-26 09:15:45,422 - root - INFO -   Epoch 75/150	 Time: 0.779	 Loss: 0.02082436
+2019-03-26 09:15:46,201 - root - INFO -   Epoch 76/150	 Time: 0.779	 Loss: 0.02175718
+2019-03-26 09:15:46,980 - root - INFO -   Epoch 77/150	 Time: 0.779	 Loss: 0.02107498
+2019-03-26 09:15:47,760 - root - INFO -   Epoch 78/150	 Time: 0.780	 Loss: 0.02065184
+2019-03-26 09:15:48,548 - root - INFO -   Epoch 79/150	 Time: 0.788	 Loss: 0.02127664
+2019-03-26 09:15:49,342 - root - INFO -   Epoch 80/150	 Time: 0.793	 Loss: 0.02015834
+2019-03-26 09:15:50,130 - root - INFO -   Epoch 81/150	 Time: 0.789	 Loss: 0.02045861
+2019-03-26 09:15:50,919 - root - INFO -   Epoch 82/150	 Time: 0.788	 Loss: 0.02017369
+2019-03-26 09:15:51,708 - root - INFO -   Epoch 83/150	 Time: 0.789	 Loss: 0.02055677
+2019-03-26 09:15:52,497 - root - INFO -   Epoch 84/150	 Time: 0.788	 Loss: 0.02122538
+2019-03-26 09:15:53,293 - root - INFO -   Epoch 85/150	 Time: 0.796	 Loss: 0.02054915
+2019-03-26 09:15:54,085 - root - INFO -   Epoch 86/150	 Time: 0.791	 Loss: 0.02035375
+2019-03-26 09:15:54,874 - root - INFO -   Epoch 87/150	 Time: 0.788	 Loss: 0.01952229
+2019-03-26 09:15:55,663 - root - INFO -   Epoch 88/150	 Time: 0.789	 Loss: 0.02008768
+2019-03-26 09:15:56,455 - root - INFO -   Epoch 89/150	 Time: 0.792	 Loss: 0.02079828
+2019-03-26 09:15:57,257 - root - INFO -   Epoch 90/150	 Time: 0.802	 Loss: 0.02005323
+2019-03-26 09:15:58,078 - root - INFO -   Epoch 91/150	 Time: 0.820	 Loss: 0.01954785
+2019-03-26 09:15:58,870 - root - INFO -   Epoch 92/150	 Time: 0.792	 Loss: 0.02024296
+2019-03-26 09:15:59,655 - root - INFO -   Epoch 93/150	 Time: 0.784	 Loss: 0.02056342
+2019-03-26 09:16:00,444 - root - INFO -   Epoch 94/150	 Time: 0.789	 Loss: 0.01929683
+2019-03-26 09:16:01,234 - root - INFO -   Epoch 95/150	 Time: 0.790	 Loss: 0.01997430
+2019-03-26 09:16:02,022 - root - INFO -   Epoch 96/150	 Time: 0.788	 Loss: 0.01919787
+2019-03-26 09:16:02,820 - root - INFO -   Epoch 97/150	 Time: 0.798	 Loss: 0.02055378
+2019-03-26 09:16:03,610 - root - INFO -   Epoch 98/150	 Time: 0.790	 Loss: 0.01907605
+2019-03-26 09:16:04,401 - root - INFO -   Epoch 99/150	 Time: 0.791	 Loss: 0.02047211
+2019-03-26 09:16:05,182 - root - INFO -   Epoch 100/150	 Time: 0.780	 Loss: 0.01987748
+2019-03-26 09:16:05,962 - root - INFO -   Epoch 101/150	 Time: 0.780	 Loss: 0.01922190
+2019-03-26 09:16:06,745 - root - INFO -   Epoch 102/150	 Time: 0.782	 Loss: 0.01949030
+2019-03-26 09:16:07,524 - root - INFO -   Epoch 103/150	 Time: 0.779	 Loss: 0.01978499
+2019-03-26 09:16:08,302 - root - INFO -   Epoch 104/150	 Time: 0.778	 Loss: 0.01881566
+2019-03-26 09:16:09,088 - root - INFO -   Epoch 105/150	 Time: 0.785	 Loss: 0.01929793
+2019-03-26 09:16:09,872 - root - INFO -   Epoch 106/150	 Time: 0.784	 Loss: 0.01963532
+2019-03-26 09:16:10,758 - root - INFO -   Epoch 107/150	 Time: 0.885	 Loss: 0.01907936
+2019-03-26 09:16:11,640 - root - INFO -   Epoch 108/150	 Time: 0.882	 Loss: 0.01936099
+2019-03-26 09:16:12,441 - root - INFO -   Epoch 109/150	 Time: 0.801	 Loss: 0.02014648
+2019-03-26 09:16:13,236 - root - INFO -   Epoch 110/150	 Time: 0.795	 Loss: 0.01906732
+2019-03-26 09:16:14,038 - root - INFO -   Epoch 111/150	 Time: 0.802	 Loss: 0.01949629
+2019-03-26 09:16:14,834 - root - INFO -   Epoch 112/150	 Time: 0.796	 Loss: 0.02062077
+2019-03-26 09:16:15,650 - root - INFO -   Epoch 113/150	 Time: 0.816	 Loss: 0.01986039
+2019-03-26 09:16:16,448 - root - INFO -   Epoch 114/150	 Time: 0.798	 Loss: 0.01803437
+2019-03-26 09:16:17,248 - root - INFO -   Epoch 115/150	 Time: 0.800	 Loss: 0.01837482
+2019-03-26 09:16:18,057 - root - INFO -   Epoch 116/150	 Time: 0.809	 Loss: 0.01850813
+2019-03-26 09:16:18,893 - root - INFO -   Epoch 117/150	 Time: 0.835	 Loss: 0.01910571
+2019-03-26 09:16:19,707 - root - INFO -   Epoch 118/150	 Time: 0.814	 Loss: 0.02046184
+2019-03-26 09:16:20,508 - root - INFO -   Epoch 119/150	 Time: 0.801	 Loss: 0.01849015
+2019-03-26 09:16:21,311 - root - INFO -   Epoch 120/150	 Time: 0.802	 Loss: 0.01869090
+2019-03-26 09:16:22,115 - root - INFO -   Epoch 121/150	 Time: 0.804	 Loss: 0.01924362
+2019-03-26 09:16:22,922 - root - INFO -   Epoch 122/150	 Time: 0.806	 Loss: 0.01880978
+2019-03-26 09:16:23,713 - root - INFO -   Epoch 123/150	 Time: 0.791	 Loss: 0.01871642
+2019-03-26 09:16:24,507 - root - INFO -   Epoch 124/150	 Time: 0.794	 Loss: 0.01803947
+2019-03-26 09:16:25,293 - root - INFO -   Epoch 125/150	 Time: 0.786	 Loss: 0.01733755
+2019-03-26 09:16:26,089 - root - INFO -   Epoch 126/150	 Time: 0.795	 Loss: 0.01750760
+2019-03-26 09:16:26,881 - root - INFO -   Epoch 127/150	 Time: 0.793	 Loss: 0.01736825
+2019-03-26 09:16:27,674 - root - INFO -   Epoch 128/150	 Time: 0.792	 Loss: 0.01849398
+2019-03-26 09:16:28,465 - root - INFO -   Epoch 129/150	 Time: 0.791	 Loss: 0.01757813
+2019-03-26 09:16:29,263 - root - INFO -   Epoch 130/150	 Time: 0.799	 Loss: 0.01767955
+2019-03-26 09:16:30,051 - root - INFO -   Epoch 131/150	 Time: 0.788	 Loss: 0.01752720
+2019-03-26 09:16:30,840 - root - INFO -   Epoch 132/150	 Time: 0.788	 Loss: 0.01836307
+2019-03-26 09:16:31,626 - root - INFO -   Epoch 133/150	 Time: 0.786	 Loss: 0.01709934
+2019-03-26 09:16:32,444 - root - INFO -   Epoch 134/150	 Time: 0.817	 Loss: 0.01734341
+2019-03-26 09:16:33,230 - root - INFO -   Epoch 135/150	 Time: 0.786	 Loss: 0.01816407
+2019-03-26 09:16:34,016 - root - INFO -   Epoch 136/150	 Time: 0.786	 Loss: 0.01764355
+2019-03-26 09:16:34,802 - root - INFO -   Epoch 137/150	 Time: 0.786	 Loss: 0.01746029
+2019-03-26 09:16:35,593 - root - INFO -   Epoch 138/150	 Time: 0.791	 Loss: 0.01703884
+2019-03-26 09:16:36,393 - root - INFO -   Epoch 139/150	 Time: 0.799	 Loss: 0.01739829
+2019-03-26 09:16:37,187 - root - INFO -   Epoch 140/150	 Time: 0.795	 Loss: 0.01692040
+2019-03-26 09:16:37,975 - root - INFO -   Epoch 141/150	 Time: 0.787	 Loss: 0.01733754
+2019-03-26 09:16:38,768 - root - INFO -   Epoch 142/150	 Time: 0.793	 Loss: 0.01670367
+2019-03-26 09:16:39,558 - root - INFO -   Epoch 143/150	 Time: 0.789	 Loss: 0.01659751
+2019-03-26 09:16:40,347 - root - INFO -   Epoch 144/150	 Time: 0.789	 Loss: 0.01771366
+2019-03-26 09:16:41,134 - root - INFO -   Epoch 145/150	 Time: 0.787	 Loss: 0.01737187
+2019-03-26 09:16:41,978 - root - INFO -   Epoch 146/150	 Time: 0.844	 Loss: 0.01782305
+2019-03-26 09:16:42,766 - root - INFO -   Epoch 147/150	 Time: 0.788	 Loss: 0.01666119
+2019-03-26 09:16:43,553 - root - INFO -   Epoch 148/150	 Time: 0.786	 Loss: 0.01717057
+2019-03-26 09:16:44,342 - root - INFO -   Epoch 149/150	 Time: 0.789	 Loss: 0.01753606
+2019-03-26 09:16:45,128 - root - INFO -   Epoch 150/150	 Time: 0.786	 Loss: 0.01596165
+2019-03-26 09:16:45,129 - root - INFO - Training time: 119.424
+2019-03-26 09:16:45,129 - root - INFO - Finished training.
+2019-03-26 09:16:45,129 - root - INFO - Starting testing...
+2019-03-26 09:16:46,209 - root - INFO - Testing time: 1.080
+2019-03-26 09:16:46,212 - root - INFO - Test set AUC: 89.12%
+2019-03-26 09:16:46,212 - root - INFO - Finished testing.
+2019-03-26 09:18:38,694 - root - INFO - Log file is ../log/mnist_test/log.txt.
+2019-03-26 09:18:38,694 - root - INFO - Data path is ../data.
+2019-03-26 09:18:38,694 - root - INFO - Export path is ../log/mnist_test.
+2019-03-26 09:18:38,694 - root - INFO - Dataset: mnist
+2019-03-26 09:18:38,694 - root - INFO - Normal class: 3
+2019-03-26 09:18:38,694 - root - INFO - Network: mnist_LeNet
+2019-03-26 09:18:38,694 - root - INFO - Deep SVDD objective: one-class
+2019-03-26 09:18:38,694 - root - INFO - Nu-paramerter: 0.10
+2019-03-26 09:18:38,711 - root - INFO - Computation device: cuda
+2019-03-26 09:18:38,711 - root - INFO - Number of dataloader workers: 0
+2019-03-26 09:18:38,733 - root - INFO - Pretraining: True
+2019-03-26 09:18:38,733 - root - INFO - Pretraining optimizer: adam
+2019-03-26 09:18:38,733 - root - INFO - Pretraining learning rate: 0.0001
+2019-03-26 09:18:38,734 - root - INFO - Pretraining epochs: 150
+2019-03-26 09:18:38,734 - root - INFO - Pretraining learning rate scheduler milestones: (50,)
+2019-03-26 09:18:38,734 - root - INFO - Pretraining batch size: 200
+2019-03-26 09:18:38,734 - root - INFO - Pretraining weight decay: 0.0005
+2019-03-26 09:18:40,335 - root - INFO - Starting pretraining...
+2019-03-26 09:18:41,310 - root - INFO -   Epoch 1/150	 Time: 0.975	 Loss: 217.19544835
+2019-03-26 09:18:42,264 - root - INFO -   Epoch 2/150	 Time: 0.954	 Loss: 172.89029669
+2019-03-26 09:18:43,223 - root - INFO -   Epoch 3/150	 Time: 0.959	 Loss: 142.85412105
+2019-03-26 09:18:44,171 - root - INFO -   Epoch 4/150	 Time: 0.948	 Loss: 115.76306915
+2019-03-26 09:18:45,133 - root - INFO -   Epoch 5/150	 Time: 0.961	 Loss: 91.31244684
+2019-03-26 09:18:46,100 - root - INFO -   Epoch 6/150	 Time: 0.968	 Loss: 71.81358091
+2019-03-26 09:18:47,048 - root - INFO -   Epoch 7/150	 Time: 0.948	 Loss: 57.30023550
+2019-03-26 09:18:47,997 - root - INFO -   Epoch 8/150	 Time: 0.948	 Loss: 46.68307667
+2019-03-26 09:18:48,943 - root - INFO -   Epoch 9/150	 Time: 0.947	 Loss: 38.64488036
+2019-03-26 09:18:49,891 - root - INFO -   Epoch 10/150	 Time: 0.948	 Loss: 32.31206131
+2019-03-26 09:18:50,841 - root - INFO -   Epoch 11/150	 Time: 0.950	 Loss: 27.37662266
+2019-03-26 09:18:51,790 - root - INFO -   Epoch 12/150	 Time: 0.948	 Loss: 23.56220405
+2019-03-26 09:18:52,739 - root - INFO -   Epoch 13/150	 Time: 0.949	 Loss: 20.59074070
+2019-03-26 09:18:53,688 - root - INFO -   Epoch 14/150	 Time: 0.949	 Loss: 18.24070426
+2019-03-26 09:18:54,638 - root - INFO -   Epoch 15/150	 Time: 0.949	 Loss: 16.36125971
+2019-03-26 09:18:55,586 - root - INFO -   Epoch 16/150	 Time: 0.948	 Loss: 14.82774971
+2019-03-26 09:18:56,533 - root - INFO -   Epoch 17/150	 Time: 0.947	 Loss: 13.54745745
+2019-03-26 09:18:57,480 - root - INFO -   Epoch 18/150	 Time: 0.946	 Loss: 12.47042093
+2019-03-26 09:18:58,427 - root - INFO -   Epoch 19/150	 Time: 0.948	 Loss: 11.56788318
+2019-03-26 09:18:59,376 - root - INFO -   Epoch 20/150	 Time: 0.949	 Loss: 10.79246180
+2019-03-26 09:19:00,325 - root - INFO -   Epoch 21/150	 Time: 0.949	 Loss: 10.13990719
+2019-03-26 09:19:01,273 - root - INFO -   Epoch 22/150	 Time: 0.947	 Loss: 9.58806469
+2019-03-26 09:19:02,222 - root - INFO -   Epoch 23/150	 Time: 0.949	 Loss: 9.11417346
+2019-03-26 09:19:03,169 - root - INFO -   Epoch 24/150	 Time: 0.947	 Loss: 8.69850482
+2019-03-26 09:19:04,116 - root - INFO -   Epoch 25/150	 Time: 0.947	 Loss: 8.33434923
+2019-03-26 09:19:05,064 - root - INFO -   Epoch 26/150	 Time: 0.948	 Loss: 8.01753347
+2019-03-26 09:19:06,012 - root - INFO -   Epoch 27/150	 Time: 0.948	 Loss: 7.73471598
+2019-03-26 09:19:06,960 - root - INFO -   Epoch 28/150	 Time: 0.947	 Loss: 7.47924109
+2019-03-26 09:19:07,907 - root - INFO -   Epoch 29/150	 Time: 0.948	 Loss: 7.25315062
+2019-03-26 09:19:08,858 - root - INFO -   Epoch 30/150	 Time: 0.950	 Loss: 7.05122535
+2019-03-26 09:19:09,813 - root - INFO -   Epoch 31/150	 Time: 0.955	 Loss: 6.86541408
+2019-03-26 09:19:10,760 - root - INFO -   Epoch 32/150	 Time: 0.948	 Loss: 6.69289681
+2019-03-26 09:19:11,707 - root - INFO -   Epoch 33/150	 Time: 0.947	 Loss: 6.53432591
+2019-03-26 09:19:12,654 - root - INFO -   Epoch 34/150	 Time: 0.947	 Loss: 6.39010142
+2019-03-26 09:19:13,602 - root - INFO -   Epoch 35/150	 Time: 0.947	 Loss: 6.25956721
+2019-03-26 09:19:14,550 - root - INFO -   Epoch 36/150	 Time: 0.948	 Loss: 6.13028616
+2019-03-26 09:19:15,501 - root - INFO -   Epoch 37/150	 Time: 0.951	 Loss: 6.01837977
+2019-03-26 09:19:16,453 - root - INFO -   Epoch 38/150	 Time: 0.952	 Loss: 5.90700691
+2019-03-26 09:19:17,403 - root - INFO -   Epoch 39/150	 Time: 0.950	 Loss: 5.80595998
+2019-03-26 09:19:18,353 - root - INFO -   Epoch 40/150	 Time: 0.950	 Loss: 5.71293843
+2019-03-26 09:19:19,306 - root - INFO -   Epoch 41/150	 Time: 0.953	 Loss: 5.62427027
+2019-03-26 09:19:20,258 - root - INFO -   Epoch 42/150	 Time: 0.952	 Loss: 5.54039363
+2019-03-26 09:19:21,211 - root - INFO -   Epoch 43/150	 Time: 0.952	 Loss: 5.46313889
+2019-03-26 09:19:22,164 - root - INFO -   Epoch 44/150	 Time: 0.953	 Loss: 5.38895055
+2019-03-26 09:19:23,117 - root - INFO -   Epoch 45/150	 Time: 0.953	 Loss: 5.31478677
+2019-03-26 09:19:24,068 - root - INFO -   Epoch 46/150	 Time: 0.951	 Loss: 5.25026974
+2019-03-26 09:19:25,036 - root - INFO -   Epoch 47/150	 Time: 0.967	 Loss: 5.18513859
+2019-03-26 09:19:26,008 - root - INFO -   Epoch 48/150	 Time: 0.972	 Loss: 5.12119624
+2019-03-26 09:19:26,971 - root - INFO -   Epoch 49/150	 Time: 0.963	 Loss: 5.06382428
+2019-03-26 09:19:27,941 - root - INFO -   Epoch 50/150	 Time: 0.970	 Loss: 5.00338201
+2019-03-26 09:19:27,941 - root - INFO -   LR scheduler: new learning rate is 1e-05
+2019-03-26 09:19:28,895 - root - INFO -   Epoch 51/150	 Time: 0.954	 Loss: 4.97185579
+2019-03-26 09:19:29,857 - root - INFO -   Epoch 52/150	 Time: 0.962	 Loss: 4.96587655
+2019-03-26 09:19:30,833 - root - INFO -   Epoch 53/150	 Time: 0.975	 Loss: 4.95779497
+2019-03-26 09:19:31,827 - root - INFO -   Epoch 54/150	 Time: 0.994	 Loss: 4.95328643
+2019-03-26 09:19:32,835 - root - INFO -   Epoch 55/150	 Time: 1.008	 Loss: 4.95187635
+2019-03-26 09:19:33,769 - root - INFO -   Epoch 56/150	 Time: 0.935	 Loss: 4.94213173
+2019-03-26 09:19:34,697 - root - INFO -   Epoch 57/150	 Time: 0.928	 Loss: 4.93577393
+2019-03-26 09:19:35,644 - root - INFO -   Epoch 58/150	 Time: 0.946	 Loss: 4.93423726
+2019-03-26 09:19:36,620 - root - INFO -   Epoch 59/150	 Time: 0.976	 Loss: 4.92332211
+2019-03-26 09:19:37,571 - root - INFO -   Epoch 60/150	 Time: 0.951	 Loss: 4.91902244
+2019-03-26 09:19:38,528 - root - INFO -   Epoch 61/150	 Time: 0.956	 Loss: 4.91209384
+2019-03-26 09:19:39,486 - root - INFO -   Epoch 62/150	 Time: 0.958	 Loss: 4.90487988
+2019-03-26 09:19:40,454 - root - INFO -   Epoch 63/150	 Time: 0.968	 Loss: 4.90026460
+2019-03-26 09:19:41,418 - root - INFO -   Epoch 64/150	 Time: 0.964	 Loss: 4.89465864
+2019-03-26 09:19:42,388 - root - INFO -   Epoch 65/150	 Time: 0.969	 Loss: 4.88805314
+2019-03-26 09:19:43,342 - root - INFO -   Epoch 66/150	 Time: 0.955	 Loss: 4.88090647
+2019-03-26 09:19:44,290 - root - INFO -   Epoch 67/150	 Time: 0.947	 Loss: 4.87161630
+2019-03-26 09:19:45,233 - root - INFO -   Epoch 68/150	 Time: 0.942	 Loss: 4.86942590
+2019-03-26 09:19:46,175 - root - INFO -   Epoch 69/150	 Time: 0.942	 Loss: 4.86078122
+2019-03-26 09:19:47,115 - root - INFO -   Epoch 70/150	 Time: 0.940	 Loss: 4.85342992
+2019-03-26 09:19:48,053 - root - INFO -   Epoch 71/150	 Time: 0.938	 Loss: 4.84563778
+2019-03-26 09:19:48,997 - root - INFO -   Epoch 72/150	 Time: 0.943	 Loss: 4.84257757
+2019-03-26 09:19:49,940 - root - INFO -   Epoch 73/150	 Time: 0.943	 Loss: 4.83293298
+2019-03-26 09:19:50,882 - root - INFO -   Epoch 74/150	 Time: 0.942	 Loss: 4.82742530
+2019-03-26 09:19:51,824 - root - INFO -   Epoch 75/150	 Time: 0.941	 Loss: 4.81793725
+2019-03-26 09:19:52,771 - root - INFO -   Epoch 76/150	 Time: 0.948	 Loss: 4.81038578
+2019-03-26 09:19:53,722 - root - INFO -   Epoch 77/150	 Time: 0.950	 Loss: 4.80692419
+2019-03-26 09:19:54,663 - root - INFO -   Epoch 78/150	 Time: 0.941	 Loss: 4.79658281
+2019-03-26 09:19:55,605 - root - INFO -   Epoch 79/150	 Time: 0.941	 Loss: 4.79050975
+2019-03-26 09:19:56,548 - root - INFO -   Epoch 80/150	 Time: 0.943	 Loss: 4.78207802
+2019-03-26 09:19:57,488 - root - INFO -   Epoch 81/150	 Time: 0.939	 Loss: 4.77611739
+2019-03-26 09:19:58,428 - root - INFO -   Epoch 82/150	 Time: 0.940	 Loss: 4.76575845
+2019-03-26 09:19:59,370 - root - INFO -   Epoch 83/150	 Time: 0.942	 Loss: 4.76290154
+2019-03-26 09:20:00,314 - root - INFO -   Epoch 84/150	 Time: 0.944	 Loss: 4.75543156
+2019-03-26 09:20:01,254 - root - INFO -   Epoch 85/150	 Time: 0.940	 Loss: 4.74410397
+2019-03-26 09:20:02,194 - root - INFO -   Epoch 86/150	 Time: 0.940	 Loss: 4.73808425
+2019-03-26 09:20:03,138 - root - INFO -   Epoch 87/150	 Time: 0.944	 Loss: 4.72923871
+2019-03-26 09:20:04,090 - root - INFO -   Epoch 88/150	 Time: 0.951	 Loss: 4.72180522
+2019-03-26 09:20:05,040 - root - INFO -   Epoch 89/150	 Time: 0.950	 Loss: 4.71311455
+2019-03-26 09:20:05,989 - root - INFO -   Epoch 90/150	 Time: 0.949	 Loss: 4.70772497
+2019-03-26 09:20:06,939 - root - INFO -   Epoch 91/150	 Time: 0.950	 Loss: 4.70047475
+2019-03-26 09:20:07,889 - root - INFO -   Epoch 92/150	 Time: 0.950	 Loss: 4.69129184
+2019-03-26 09:20:08,841 - root - INFO -   Epoch 93/150	 Time: 0.952	 Loss: 4.68253614
+2019-03-26 09:20:09,791 - root - INFO -   Epoch 94/150	 Time: 0.950	 Loss: 4.67400514
+2019-03-26 09:20:10,742 - root - INFO -   Epoch 95/150	 Time: 0.950	 Loss: 4.67129269
+2019-03-26 09:20:11,692 - root - INFO -   Epoch 96/150	 Time: 0.950	 Loss: 4.66183532
+2019-03-26 09:20:12,650 - root - INFO -   Epoch 97/150	 Time: 0.958	 Loss: 4.65132435
+2019-03-26 09:20:13,602 - root - INFO -   Epoch 98/150	 Time: 0.951	 Loss: 4.64045269
+2019-03-26 09:20:14,554 - root - INFO -   Epoch 99/150	 Time: 0.952	 Loss: 4.63325181
+2019-03-26 09:20:15,507 - root - INFO -   Epoch 100/150	 Time: 0.953	 Loss: 4.62468807
+2019-03-26 09:20:16,457 - root - INFO -   Epoch 101/150	 Time: 0.950	 Loss: 4.61911108
+2019-03-26 09:20:17,410 - root - INFO -   Epoch 102/150	 Time: 0.953	 Loss: 4.60755382
+2019-03-26 09:20:18,360 - root - INFO -   Epoch 103/150	 Time: 0.950	 Loss: 4.60120993
+2019-03-26 09:20:19,308 - root - INFO -   Epoch 104/150	 Time: 0.949	 Loss: 4.59166511
+2019-03-26 09:20:20,262 - root - INFO -   Epoch 105/150	 Time: 0.953	 Loss: 4.58312807
+2019-03-26 09:20:21,210 - root - INFO -   Epoch 106/150	 Time: 0.948	 Loss: 4.57171800
+2019-03-26 09:20:22,161 - root - INFO -   Epoch 107/150	 Time: 0.951	 Loss: 4.56601386
+2019-03-26 09:20:23,111 - root - INFO -   Epoch 108/150	 Time: 0.950	 Loss: 4.55809721
+2019-03-26 09:20:24,061 - root - INFO -   Epoch 109/150	 Time: 0.950	 Loss: 4.54951932
+2019-03-26 09:20:25,015 - root - INFO -   Epoch 110/150	 Time: 0.953	 Loss: 4.54248885
+2019-03-26 09:20:25,965 - root - INFO -   Epoch 111/150	 Time: 0.950	 Loss: 4.53209926
+2019-03-26 09:20:26,915 - root - INFO -   Epoch 112/150	 Time: 0.950	 Loss: 4.52459329
+2019-03-26 09:20:27,864 - root - INFO -   Epoch 113/150	 Time: 0.949	 Loss: 4.51716814
+2019-03-26 09:20:28,814 - root - INFO -   Epoch 114/150	 Time: 0.949	 Loss: 4.50398673
+2019-03-26 09:20:29,765 - root - INFO -   Epoch 115/150	 Time: 0.951	 Loss: 4.49628027
+2019-03-26 09:20:30,717 - root - INFO -   Epoch 116/150	 Time: 0.951	 Loss: 4.48745963
+2019-03-26 09:20:31,667 - root - INFO -   Epoch 117/150	 Time: 0.950	 Loss: 4.47993432
+2019-03-26 09:20:32,618 - root - INFO -   Epoch 118/150	 Time: 0.950	 Loss: 4.47190008
+2019-03-26 09:20:33,567 - root - INFO -   Epoch 119/150	 Time: 0.949	 Loss: 4.46195976
+2019-03-26 09:20:34,518 - root - INFO -   Epoch 120/150	 Time: 0.950	 Loss: 4.45321072
+2019-03-26 09:20:35,470 - root - INFO -   Epoch 121/150	 Time: 0.952	 Loss: 4.44417978
+2019-03-26 09:20:36,420 - root - INFO -   Epoch 122/150	 Time: 0.950	 Loss: 4.43530989
+2019-03-26 09:20:37,369 - root - INFO -   Epoch 123/150	 Time: 0.948	 Loss: 4.42461752
+2019-03-26 09:20:38,318 - root - INFO -   Epoch 124/150	 Time: 0.949	 Loss: 4.41411238
+2019-03-26 09:20:39,268 - root - INFO -   Epoch 125/150	 Time: 0.950	 Loss: 4.40497688
+2019-03-26 09:20:40,218 - root - INFO -   Epoch 126/150	 Time: 0.950	 Loss: 4.39482364
+2019-03-26 09:20:41,171 - root - INFO -   Epoch 127/150	 Time: 0.953	 Loss: 4.38788372
+2019-03-26 09:20:42,122 - root - INFO -   Epoch 128/150	 Time: 0.951	 Loss: 4.37684879
+2019-03-26 09:20:43,073 - root - INFO -   Epoch 129/150	 Time: 0.951	 Loss: 4.37065824
+2019-03-26 09:20:44,023 - root - INFO -   Epoch 130/150	 Time: 0.950	 Loss: 4.35776709
+2019-03-26 09:20:44,973 - root - INFO -   Epoch 131/150	 Time: 0.950	 Loss: 4.35121756
+2019-03-26 09:20:45,924 - root - INFO -   Epoch 132/150	 Time: 0.951	 Loss: 4.34138324
+2019-03-26 09:20:46,874 - root - INFO -   Epoch 133/150	 Time: 0.949	 Loss: 4.33285610
+2019-03-26 09:20:47,821 - root - INFO -   Epoch 134/150	 Time: 0.947	 Loss: 4.32269219
+2019-03-26 09:20:48,768 - root - INFO -   Epoch 135/150	 Time: 0.947	 Loss: 4.31248228
+2019-03-26 09:20:49,715 - root - INFO -   Epoch 136/150	 Time: 0.947	 Loss: 4.30229164
+2019-03-26 09:20:50,663 - root - INFO -   Epoch 137/150	 Time: 0.948	 Loss: 4.29162282
+2019-03-26 09:20:51,611 - root - INFO -   Epoch 138/150	 Time: 0.947	 Loss: 4.28715112
+2019-03-26 09:20:52,558 - root - INFO -   Epoch 139/150	 Time: 0.947	 Loss: 4.27503983
+2019-03-26 09:20:53,505 - root - INFO -   Epoch 140/150	 Time: 0.947	 Loss: 4.26675447
+2019-03-26 09:20:54,453 - root - INFO -   Epoch 141/150	 Time: 0.948	 Loss: 4.25470677
+2019-03-26 09:20:55,399 - root - INFO -   Epoch 142/150	 Time: 0.946	 Loss: 4.24801861
+2019-03-26 09:20:56,347 - root - INFO -   Epoch 143/150	 Time: 0.947	 Loss: 4.23882857
+2019-03-26 09:20:57,295 - root - INFO -   Epoch 144/150	 Time: 0.948	 Loss: 4.22821059
+2019-03-26 09:20:58,243 - root - INFO -   Epoch 145/150	 Time: 0.948	 Loss: 4.21534800
+2019-03-26 09:20:59,190 - root - INFO -   Epoch 146/150	 Time: 0.947	 Loss: 4.20633382
+2019-03-26 09:21:00,138 - root - INFO -   Epoch 147/150	 Time: 0.948	 Loss: 4.19875105
+2019-03-26 09:21:01,085 - root - INFO -   Epoch 148/150	 Time: 0.947	 Loss: 4.18798645
+2019-03-26 09:21:02,035 - root - INFO -   Epoch 149/150	 Time: 0.950	 Loss: 4.17780634
+2019-03-26 09:21:02,981 - root - INFO -   Epoch 150/150	 Time: 0.946	 Loss: 4.16955816
+2019-03-26 09:21:02,981 - root - INFO - Pretraining time: 142.646
+2019-03-26 09:21:02,982 - root - INFO - Finished pretraining.
+2019-03-26 09:21:02,982 - root - INFO - Testing autoencoder...
+2019-03-26 09:21:04,167 - root - INFO - Test set Loss: 6.26318074
+2019-03-26 09:21:04,171 - root - INFO - Test set AUC: 84.62%
+2019-03-26 09:21:04,171 - root - INFO - Autoencoder testing time: 1.189
+2019-03-26 09:21:04,171 - root - INFO - Finished testing autoencoder.
+2019-03-26 09:21:04,171 - root - INFO - Training optimizer: adam
+2019-03-26 09:21:04,171 - root - INFO - Training learning rate: 0.0001
+2019-03-26 09:21:04,171 - root - INFO - Training epochs: 150
+2019-03-26 09:21:04,171 - root - INFO - Training learning rate scheduler milestones: (50,)
+2019-03-26 09:21:04,171 - root - INFO - Training batch size: 200
+2019-03-26 09:21:04,171 - root - INFO - Training weight decay: 5e-07
+2019-03-26 09:21:04,172 - root - INFO - Initializing center c...
+2019-03-26 09:21:04,870 - root - INFO - Center c initialized.
+2019-03-26 09:21:04,870 - root - INFO - Starting training...
+2019-03-26 09:21:05,668 - root - INFO -   Epoch 1/150	 Time: 0.797	 Loss: 1.82671264
+2019-03-26 09:21:06,468 - root - INFO -   Epoch 2/150	 Time: 0.800	 Loss: 1.15328786
+2019-03-26 09:21:07,266 - root - INFO -   Epoch 3/150	 Time: 0.798	 Loss: 0.77411657
+2019-03-26 09:21:08,065 - root - INFO -   Epoch 4/150	 Time: 0.799	 Loss: 0.53418990
+2019-03-26 09:21:08,870 - root - INFO -   Epoch 5/150	 Time: 0.805	 Loss: 0.39480160
+2019-03-26 09:21:09,676 - root - INFO -   Epoch 6/150	 Time: 0.805	 Loss: 0.31554882
+2019-03-26 09:21:10,483 - root - INFO -   Epoch 7/150	 Time: 0.807	 Loss: 0.26159846
+2019-03-26 09:21:11,283 - root - INFO -   Epoch 8/150	 Time: 0.800	 Loss: 0.22482735
+2019-03-26 09:21:12,088 - root - INFO -   Epoch 9/150	 Time: 0.805	 Loss: 0.19528205
+2019-03-26 09:21:12,899 - root - INFO -   Epoch 10/150	 Time: 0.811	 Loss: 0.17144482
+2019-03-26 09:21:13,727 - root - INFO -   Epoch 11/150	 Time: 0.827	 Loss: 0.15415751
+2019-03-26 09:21:14,553 - root - INFO -   Epoch 12/150	 Time: 0.826	 Loss: 0.13985937
+2019-03-26 09:21:15,371 - root - INFO -   Epoch 13/150	 Time: 0.818	 Loss: 0.12710005
+2019-03-26 09:21:16,186 - root - INFO -   Epoch 14/150	 Time: 0.814	 Loss: 0.11774509
+2019-03-26 09:21:16,994 - root - INFO -   Epoch 15/150	 Time: 0.808	 Loss: 0.10793441
+2019-03-26 09:21:17,798 - root - INFO -   Epoch 16/150	 Time: 0.803	 Loss: 0.10089324
+2019-03-26 09:21:18,614 - root - INFO -   Epoch 17/150	 Time: 0.817	 Loss: 0.09424309
+2019-03-26 09:21:19,421 - root - INFO -   Epoch 18/150	 Time: 0.806	 Loss: 0.08931244
+2019-03-26 09:21:20,224 - root - INFO -   Epoch 19/150	 Time: 0.803	 Loss: 0.08311332
+2019-03-26 09:21:21,033 - root - INFO -   Epoch 20/150	 Time: 0.809	 Loss: 0.07881557
+2019-03-26 09:21:21,835 - root - INFO -   Epoch 21/150	 Time: 0.802	 Loss: 0.07320408
+2019-03-26 09:21:22,635 - root - INFO -   Epoch 22/150	 Time: 0.800	 Loss: 0.07173941
+2019-03-26 09:21:23,436 - root - INFO -   Epoch 23/150	 Time: 0.801	 Loss: 0.06843741
+2019-03-26 09:21:24,235 - root - INFO -   Epoch 24/150	 Time: 0.799	 Loss: 0.06521605
+2019-03-26 09:21:25,037 - root - INFO -   Epoch 25/150	 Time: 0.801	 Loss: 0.06156514
+2019-03-26 09:21:25,837 - root - INFO -   Epoch 26/150	 Time: 0.800	 Loss: 0.05873520
+2019-03-26 09:21:26,637 - root - INFO -   Epoch 27/150	 Time: 0.799	 Loss: 0.05581809
+2019-03-26 09:21:27,436 - root - INFO -   Epoch 28/150	 Time: 0.799	 Loss: 0.05305290
+2019-03-26 09:21:28,236 - root - INFO -   Epoch 29/150	 Time: 0.799	 Loss: 0.05102772
+2019-03-26 09:21:29,035 - root - INFO -   Epoch 30/150	 Time: 0.799	 Loss: 0.05146407
+2019-03-26 09:21:29,842 - root - INFO -   Epoch 31/150	 Time: 0.806	 Loss: 0.04828307
+2019-03-26 09:21:30,641 - root - INFO -   Epoch 32/150	 Time: 0.799	 Loss: 0.04730209
+2019-03-26 09:21:31,444 - root - INFO -   Epoch 33/150	 Time: 0.803	 Loss: 0.04373541
+2019-03-26 09:21:32,245 - root - INFO -   Epoch 34/150	 Time: 0.800	 Loss: 0.04300571
+2019-03-26 09:21:33,045 - root - INFO -   Epoch 35/150	 Time: 0.800	 Loss: 0.04355291
+2019-03-26 09:21:33,849 - root - INFO -   Epoch 36/150	 Time: 0.804	 Loss: 0.04036980
+2019-03-26 09:21:34,648 - root - INFO -   Epoch 37/150	 Time: 0.799	 Loss: 0.04093897
+2019-03-26 09:21:35,449 - root - INFO -   Epoch 38/150	 Time: 0.800	 Loss: 0.04054225
+2019-03-26 09:21:36,249 - root - INFO -   Epoch 39/150	 Time: 0.800	 Loss: 0.03772185
+2019-03-26 09:21:37,048 - root - INFO -   Epoch 40/150	 Time: 0.799	 Loss: 0.03890438
+2019-03-26 09:21:37,854 - root - INFO -   Epoch 41/150	 Time: 0.806	 Loss: 0.03489990
+2019-03-26 09:21:38,656 - root - INFO -   Epoch 42/150	 Time: 0.801	 Loss: 0.03582219
+2019-03-26 09:21:39,457 - root - INFO -   Epoch 43/150	 Time: 0.800	 Loss: 0.03725860
+2019-03-26 09:21:40,255 - root - INFO -   Epoch 44/150	 Time: 0.799	 Loss: 0.03439538
+2019-03-26 09:21:41,055 - root - INFO -   Epoch 45/150	 Time: 0.799	 Loss: 0.03275159
+2019-03-26 09:21:41,855 - root - INFO -   Epoch 46/150	 Time: 0.800	 Loss: 0.03061243
+2019-03-26 09:21:42,654 - root - INFO -   Epoch 47/150	 Time: 0.799	 Loss: 0.03034241
+2019-03-26 09:21:43,456 - root - INFO -   Epoch 48/150	 Time: 0.801	 Loss: 0.02921477
+2019-03-26 09:21:44,268 - root - INFO -   Epoch 49/150	 Time: 0.812	 Loss: 0.02861245
+2019-03-26 09:21:45,147 - root - INFO -   Epoch 50/150	 Time: 0.879	 Loss: 0.02878090
+2019-03-26 09:21:45,147 - root - INFO -   LR scheduler: new learning rate is 1e-05
+2019-03-26 09:21:45,947 - root - INFO -   Epoch 51/150	 Time: 0.800	 Loss: 0.02813282
+2019-03-26 09:21:46,746 - root - INFO -   Epoch 52/150	 Time: 0.799	 Loss: 0.02662965
+2019-03-26 09:21:47,546 - root - INFO -   Epoch 53/150	 Time: 0.799	 Loss: 0.02881299
+2019-03-26 09:21:48,345 - root - INFO -   Epoch 54/150	 Time: 0.799	 Loss: 0.02896263
+2019-03-26 09:21:49,160 - root - INFO -   Epoch 55/150	 Time: 0.814	 Loss: 0.02787867
+2019-03-26 09:21:49,969 - root - INFO -   Epoch 56/150	 Time: 0.809	 Loss: 0.02726277
+2019-03-26 09:21:50,768 - root - INFO -   Epoch 57/150	 Time: 0.799	 Loss: 0.02773482
+2019-03-26 09:21:51,568 - root - INFO -   Epoch 58/150	 Time: 0.800	 Loss: 0.02702274
+2019-03-26 09:21:52,374 - root - INFO -   Epoch 59/150	 Time: 0.806	 Loss: 0.02675992
+2019-03-26 09:21:53,180 - root - INFO -   Epoch 60/150	 Time: 0.806	 Loss: 0.02784441
+2019-03-26 09:21:53,982 - root - INFO -   Epoch 61/150	 Time: 0.802	 Loss: 0.02640523
+2019-03-26 09:21:54,791 - root - INFO -   Epoch 62/150	 Time: 0.808	 Loss: 0.02779207
+2019-03-26 09:21:55,591 - root - INFO -   Epoch 63/150	 Time: 0.800	 Loss: 0.02709433
+2019-03-26 09:21:56,390 - root - INFO -   Epoch 64/150	 Time: 0.800	 Loss: 0.02691542
+2019-03-26 09:21:57,190 - root - INFO -   Epoch 65/150	 Time: 0.799	 Loss: 0.02663992
+2019-03-26 09:21:57,990 - root - INFO -   Epoch 66/150	 Time: 0.800	 Loss: 0.02697099
+2019-03-26 09:21:58,789 - root - INFO -   Epoch 67/150	 Time: 0.799	 Loss: 0.02688564
+2019-03-26 09:21:59,592 - root - INFO -   Epoch 68/150	 Time: 0.803	 Loss: 0.02740680
+2019-03-26 09:22:00,392 - root - INFO -   Epoch 69/150	 Time: 0.800	 Loss: 0.02679021
+2019-03-26 09:22:01,193 - root - INFO -   Epoch 70/150	 Time: 0.800	 Loss: 0.02657223
+2019-03-26 09:22:01,993 - root - INFO -   Epoch 71/150	 Time: 0.800	 Loss: 0.02682161
+2019-03-26 09:22:02,795 - root - INFO -   Epoch 72/150	 Time: 0.802	 Loss: 0.02577451
+2019-03-26 09:22:03,595 - root - INFO -   Epoch 73/150	 Time: 0.800	 Loss: 0.02678924
+2019-03-26 09:22:04,395 - root - INFO -   Epoch 74/150	 Time: 0.800	 Loss: 0.02670087
+2019-03-26 09:22:05,197 - root - INFO -   Epoch 75/150	 Time: 0.801	 Loss: 0.02583006
+2019-03-26 09:22:05,999 - root - INFO -   Epoch 76/150	 Time: 0.802	 Loss: 0.02576405
+2019-03-26 09:22:06,799 - root - INFO -   Epoch 77/150	 Time: 0.800	 Loss: 0.02634432
+2019-03-26 09:22:07,600 - root - INFO -   Epoch 78/150	 Time: 0.801	 Loss: 0.02547400
+2019-03-26 09:22:08,400 - root - INFO -   Epoch 79/150	 Time: 0.800	 Loss: 0.02551023
+2019-03-26 09:22:09,203 - root - INFO -   Epoch 80/150	 Time: 0.803	 Loss: 0.02609358
+2019-03-26 09:22:10,004 - root - INFO -   Epoch 81/150	 Time: 0.800	 Loss: 0.02574674
+2019-03-26 09:22:10,803 - root - INFO -   Epoch 82/150	 Time: 0.799	 Loss: 0.02531205
+2019-03-26 09:22:11,603 - root - INFO -   Epoch 83/150	 Time: 0.800	 Loss: 0.02608002
+2019-03-26 09:22:12,406 - root - INFO -   Epoch 84/150	 Time: 0.803	 Loss: 0.02600650
+2019-03-26 09:22:13,207 - root - INFO -   Epoch 85/150	 Time: 0.801	 Loss: 0.02544412
+2019-03-26 09:22:14,007 - root - INFO -   Epoch 86/150	 Time: 0.799	 Loss: 0.02443831
+2019-03-26 09:22:14,807 - root - INFO -   Epoch 87/150	 Time: 0.800	 Loss: 0.02483624
+2019-03-26 09:22:15,609 - root - INFO -   Epoch 88/150	 Time: 0.802	 Loss: 0.02570678
+2019-03-26 09:22:16,410 - root - INFO -   Epoch 89/150	 Time: 0.801	 Loss: 0.02484419
+2019-03-26 09:22:17,210 - root - INFO -   Epoch 90/150	 Time: 0.801	 Loss: 0.02445201
+2019-03-26 09:22:18,011 - root - INFO -   Epoch 91/150	 Time: 0.800	 Loss: 0.02526827
+2019-03-26 09:22:18,813 - root - INFO -   Epoch 92/150	 Time: 0.802	 Loss: 0.02416160
+2019-03-26 09:22:19,613 - root - INFO -   Epoch 93/150	 Time: 0.799	 Loss: 0.02462195
+2019-03-26 09:22:20,413 - root - INFO -   Epoch 94/150	 Time: 0.800	 Loss: 0.02403558
+2019-03-26 09:22:21,212 - root - INFO -   Epoch 95/150	 Time: 0.799	 Loss: 0.02532991
+2019-03-26 09:22:22,013 - root - INFO -   Epoch 96/150	 Time: 0.800	 Loss: 0.02499097
+2019-03-26 09:22:22,813 - root - INFO -   Epoch 97/150	 Time: 0.800	 Loss: 0.02472086
+2019-03-26 09:22:23,614 - root - INFO -   Epoch 98/150	 Time: 0.801	 Loss: 0.02494541
+2019-03-26 09:22:24,417 - root - INFO -   Epoch 99/150	 Time: 0.803	 Loss: 0.02467093
+2019-03-26 09:22:25,220 - root - INFO -   Epoch 100/150	 Time: 0.803	 Loss: 0.02418405
+2019-03-26 09:22:26,022 - root - INFO -   Epoch 101/150	 Time: 0.801	 Loss: 0.02458370
+2019-03-26 09:22:26,823 - root - INFO -   Epoch 102/150	 Time: 0.801	 Loss: 0.02358157
+2019-03-26 09:22:27,624 - root - INFO -   Epoch 103/150	 Time: 0.801	 Loss: 0.02372863
+2019-03-26 09:22:28,425 - root - INFO -   Epoch 104/150	 Time: 0.801	 Loss: 0.02524763
+2019-03-26 09:22:29,225 - root - INFO -   Epoch 105/150	 Time: 0.800	 Loss: 0.02368787
+2019-03-26 09:22:30,026 - root - INFO -   Epoch 106/150	 Time: 0.800	 Loss: 0.02395724
+2019-03-26 09:22:30,827 - root - INFO -   Epoch 107/150	 Time: 0.801	 Loss: 0.02301463
+2019-03-26 09:22:31,629 - root - INFO -   Epoch 108/150	 Time: 0.801	 Loss: 0.02330876
+2019-03-26 09:22:32,429 - root - INFO -   Epoch 109/150	 Time: 0.800	 Loss: 0.02383716
+2019-03-26 09:22:33,229 - root - INFO -   Epoch 110/150	 Time: 0.800	 Loss: 0.02280728
+2019-03-26 09:22:34,030 - root - INFO -   Epoch 111/150	 Time: 0.801	 Loss: 0.02482710
+2019-03-26 09:22:34,832 - root - INFO -   Epoch 112/150	 Time: 0.801	 Loss: 0.02367480
+2019-03-26 09:22:35,631 - root - INFO -   Epoch 113/150	 Time: 0.799	 Loss: 0.02449462
+2019-03-26 09:22:36,431 - root - INFO -   Epoch 114/150	 Time: 0.799	 Loss: 0.02403698
+2019-03-26 09:22:37,231 - root - INFO -   Epoch 115/150	 Time: 0.800	 Loss: 0.02399441
+2019-03-26 09:22:38,034 - root - INFO -   Epoch 116/150	 Time: 0.803	 Loss: 0.02229258
+2019-03-26 09:22:38,836 - root - INFO -   Epoch 117/150	 Time: 0.802	 Loss: 0.02341630
+2019-03-26 09:22:39,636 - root - INFO -   Epoch 118/150	 Time: 0.800	 Loss: 0.02437160
+2019-03-26 09:22:40,436 - root - INFO -   Epoch 119/150	 Time: 0.800	 Loss: 0.02399268
+2019-03-26 09:22:41,238 - root - INFO -   Epoch 120/150	 Time: 0.802	 Loss: 0.02299440
+2019-03-26 09:22:42,044 - root - INFO -   Epoch 121/150	 Time: 0.805	 Loss: 0.02246892
+2019-03-26 09:22:42,845 - root - INFO -   Epoch 122/150	 Time: 0.801	 Loss: 0.02255504
+2019-03-26 09:22:43,646 - root - INFO -   Epoch 123/150	 Time: 0.801	 Loss: 0.02193991
+2019-03-26 09:22:44,448 - root - INFO -   Epoch 124/150	 Time: 0.802	 Loss: 0.02314090
+2019-03-26 09:22:45,249 - root - INFO -   Epoch 125/150	 Time: 0.801	 Loss: 0.02227182
+2019-03-26 09:22:46,056 - root - INFO -   Epoch 126/150	 Time: 0.807	 Loss: 0.02312213
+2019-03-26 09:22:46,865 - root - INFO -   Epoch 127/150	 Time: 0.809	 Loss: 0.02193019
+2019-03-26 09:22:47,672 - root - INFO -   Epoch 128/150	 Time: 0.806	 Loss: 0.02302996
+2019-03-26 09:22:48,476 - root - INFO -   Epoch 129/150	 Time: 0.804	 Loss: 0.02224943
+2019-03-26 09:22:49,279 - root - INFO -   Epoch 130/150	 Time: 0.803	 Loss: 0.02165654
+2019-03-26 09:22:50,082 - root - INFO -   Epoch 131/150	 Time: 0.803	 Loss: 0.02185815
+2019-03-26 09:22:50,885 - root - INFO -   Epoch 132/150	 Time: 0.803	 Loss: 0.02233845
+2019-03-26 09:22:51,687 - root - INFO -   Epoch 133/150	 Time: 0.802	 Loss: 0.02181546
+2019-03-26 09:22:52,491 - root - INFO -   Epoch 134/150	 Time: 0.804	 Loss: 0.02198926
+2019-03-26 09:22:53,290 - root - INFO -   Epoch 135/150	 Time: 0.799	 Loss: 0.02177244
+2019-03-26 09:22:54,090 - root - INFO -   Epoch 136/150	 Time: 0.799	 Loss: 0.02175257
+2019-03-26 09:22:54,893 - root - INFO -   Epoch 137/150	 Time: 0.804	 Loss: 0.02230667
+2019-03-26 09:22:55,692 - root - INFO -   Epoch 138/150	 Time: 0.799	 Loss: 0.02042728
+2019-03-26 09:22:56,493 - root - INFO -   Epoch 139/150	 Time: 0.800	 Loss: 0.02096654
+2019-03-26 09:22:57,292 - root - INFO -   Epoch 140/150	 Time: 0.799	 Loss: 0.02104660
+2019-03-26 09:22:58,093 - root - INFO -   Epoch 141/150	 Time: 0.800	 Loss: 0.02172310
+2019-03-26 09:22:58,893 - root - INFO -   Epoch 142/150	 Time: 0.800	 Loss: 0.02172698
+2019-03-26 09:22:59,692 - root - INFO -   Epoch 143/150	 Time: 0.799	 Loss: 0.02268670
+2019-03-26 09:23:00,495 - root - INFO -   Epoch 144/150	 Time: 0.803	 Loss: 0.02119718
+2019-03-26 09:23:01,295 - root - INFO -   Epoch 145/150	 Time: 0.800	 Loss: 0.02196352
+2019-03-26 09:23:02,095 - root - INFO -   Epoch 146/150	 Time: 0.800	 Loss: 0.02041736
+2019-03-26 09:23:02,896 - root - INFO -   Epoch 147/150	 Time: 0.801	 Loss: 0.02086905
+2019-03-26 09:23:03,699 - root - INFO -   Epoch 148/150	 Time: 0.802	 Loss: 0.02203092
+2019-03-26 09:23:04,499 - root - INFO -   Epoch 149/150	 Time: 0.801	 Loss: 0.02205135
+2019-03-26 09:23:05,300 - root - INFO -   Epoch 150/150	 Time: 0.800	 Loss: 0.02301458
+2019-03-26 09:23:05,300 - root - INFO - Training time: 120.430
+2019-03-26 09:23:05,300 - root - INFO - Finished training.
+2019-03-26 09:23:05,300 - root - INFO - Starting testing...
+2019-03-26 09:23:06,401 - root - INFO - Testing time: 1.101
+2019-03-26 09:23:06,404 - root - INFO - Test set AUC: 91.23%
+2019-03-26 09:23:06,404 - root - INFO - Finished testing.
+2019-03-26 09:28:06,940 - root - INFO - Log file is ../log/mnist_test/log.txt.
+2019-03-26 09:28:06,940 - root - INFO - Data path is ../data.
+2019-03-26 09:28:06,940 - root - INFO - Export path is ../log/mnist_test.
+2019-03-26 09:28:06,940 - root - INFO - Dataset: mnist
+2019-03-26 09:28:06,940 - root - INFO - Normal class: 1
+2019-03-26 09:28:06,940 - root - INFO - Network: mnist_LeNet
+2019-03-26 09:28:06,940 - root - INFO - Deep SVDD objective: one-class
+2019-03-26 09:28:06,940 - root - INFO - Nu-paramerter: 0.10
+2019-03-26 09:28:06,957 - root - INFO - Computation device: cuda
+2019-03-26 09:28:06,957 - root - INFO - Number of dataloader workers: 0
+2019-03-26 09:28:06,979 - root - INFO - Pretraining: True
+2019-03-26 09:28:06,979 - root - INFO - Pretraining optimizer: adam
+2019-03-26 09:28:06,979 - root - INFO - Pretraining learning rate: 0.0001
+2019-03-26 09:28:06,979 - root - INFO - Pretraining epochs: 150
+2019-03-26 09:28:06,979 - root - INFO - Pretraining learning rate scheduler milestones: (50,)
+2019-03-26 09:28:06,979 - root - INFO - Pretraining batch size: 200
+2019-03-26 09:28:06,980 - root - INFO - Pretraining weight decay: 0.0005
+2019-03-26 09:28:08,614 - root - INFO - Starting pretraining...
+2019-03-26 09:28:09,675 - root - INFO -   Epoch 1/150	 Time: 1.061	 Loss: 165.47962548
+2019-03-26 09:28:10,709 - root - INFO -   Epoch 2/150	 Time: 1.034	 Loss: 121.41419198
+2019-03-26 09:28:11,740 - root - INFO -   Epoch 3/150	 Time: 1.031	 Loss: 89.11202711
+2019-03-26 09:28:12,769 - root - INFO -   Epoch 4/150	 Time: 1.029	 Loss: 66.80149942
+2019-03-26 09:28:13,802 - root - INFO -   Epoch 5/150	 Time: 1.032	 Loss: 51.30020052
+2019-03-26 09:28:14,831 - root - INFO -   Epoch 6/150	 Time: 1.029	 Loss: 40.40024286
+2019-03-26 09:28:15,861 - root - INFO -   Epoch 7/150	 Time: 1.030	 Loss: 32.63657906
+2019-03-26 09:28:16,892 - root - INFO -   Epoch 8/150	 Time: 1.031	 Loss: 26.99610200
+2019-03-26 09:28:17,923 - root - INFO -   Epoch 9/150	 Time: 1.030	 Loss: 22.76196239
+2019-03-26 09:28:18,953 - root - INFO -   Epoch 10/150	 Time: 1.030	 Loss: 19.51059981
+2019-03-26 09:58:34,824 - root - INFO - Log file is ../log/mnist_test/log.txt.
+2019-03-26 09:58:34,824 - root - INFO - Data path is ../data.
+2019-03-26 09:58:34,824 - root - INFO - Export path is ../log/mnist_test.
+2019-03-26 09:58:34,824 - root - INFO - Dataset: mnist
+2019-03-26 09:58:34,824 - root - INFO - Normal class: 1
+2019-03-26 09:58:34,824 - root - INFO - Network: mnist_LeNet
+2019-03-26 09:58:34,824 - root - INFO - Deep SVDD objective: one-class
+2019-03-26 09:58:34,824 - root - INFO - Nu-paramerter: 0.10
+2019-03-26 09:58:34,853 - root - INFO - Computation device: cuda
+2019-03-26 09:58:34,853 - root - INFO - Number of dataloader workers: 0
+2019-03-26 09:58:34,951 - root - INFO - Pretraining: True
+2019-03-26 09:58:34,951 - root - INFO - Pretraining optimizer: adam
+2019-03-26 09:58:34,951 - root - INFO - Pretraining learning rate: 0.0001
+2019-03-26 09:58:34,951 - root - INFO - Pretraining epochs: 150
+2019-03-26 09:58:34,951 - root - INFO - Pretraining learning rate scheduler milestones: (50,)
+2019-03-26 09:58:34,951 - root - INFO - Pretraining batch size: 200
+2019-03-26 09:58:34,951 - root - INFO - Pretraining weight decay: 0.0005
+2019-03-26 09:58:37,277 - root - INFO - Starting pretraining...
+2019-03-26 09:58:38,448 - root - INFO -   Epoch 1/150	 Time: 1.170	 Loss: 201.15335532
+2019-03-26 09:58:39,520 - root - INFO -   Epoch 2/150	 Time: 1.073	 Loss: 156.71959956
+2019-03-26 09:58:40,672 - root - INFO -   Epoch 3/150	 Time: 1.152	 Loss: 120.91770082
+2019-03-26 09:58:41,678 - root - INFO -   Epoch 4/150	 Time: 1.006	 Loss: 90.41622386
+2019-03-26 09:58:42,733 - root - INFO -   Epoch 5/150	 Time: 1.055	 Loss: 68.19994837
+2019-03-26 09:58:43,857 - root - INFO -   Epoch 6/150	 Time: 1.124	 Loss: 53.07889007
+2019-03-26 09:58:44,851 - root - INFO -   Epoch 7/150	 Time: 0.994	 Loss: 42.59423334
+2019-03-26 09:58:45,963 - root - INFO -   Epoch 8/150	 Time: 1.111	 Loss: 34.98758580
+2019-03-26 09:58:47,031 - root - INFO -   Epoch 9/150	 Time: 1.068	 Loss: 29.25336501
+2019-03-26 09:58:48,157 - root - INFO -   Epoch 10/150	 Time: 1.126	 Loss: 24.75155152
+2019-03-26 09:58:49,166 - root - INFO -   Epoch 11/150	 Time: 1.009	 Loss: 21.20317386
+2019-03-26 09:58:50,170 - root - INFO -   Epoch 12/150	 Time: 1.004	 Loss: 18.46629995
+2019-03-26 09:58:51,172 - root - INFO -   Epoch 13/150	 Time: 1.002	 Loss: 16.32855797
+2019-03-26 09:58:52,175 - root - INFO -   Epoch 14/150	 Time: 1.003	 Loss: 14.60992566
+2019-03-26 09:58:53,276 - root - INFO -   Epoch 15/150	 Time: 1.100	 Loss: 13.19506051
+2019-03-26 09:58:54,290 - root - INFO -   Epoch 16/150	 Time: 1.014	 Loss: 12.01679923
+2019-03-26 09:58:55,303 - root - INFO -   Epoch 17/150	 Time: 1.013	 Loss: 11.02277534
+2019-03-26 09:58:56,357 - root - INFO -   Epoch 18/150	 Time: 1.054	 Loss: 10.16631828
+2019-03-26 09:58:57,370 - root - INFO -   Epoch 19/150	 Time: 1.012	 Loss: 9.42489689
+2019-03-26 09:58:58,364 - root - INFO -   Epoch 20/150	 Time: 0.995	 Loss: 8.78969024
+2019-03-26 09:58:59,367 - root - INFO -   Epoch 21/150	 Time: 1.002	 Loss: 8.23160732
+2019-03-26 09:59:00,375 - root - INFO -   Epoch 22/150	 Time: 1.008	 Loss: 7.73633490
+2019-03-26 09:59:01,407 - root - INFO -   Epoch 23/150	 Time: 1.032	 Loss: 7.28840695
+2019-03-26 09:59:02,417 - root - INFO -   Epoch 24/150	 Time: 1.010	 Loss: 6.89316090
+2019-03-26 09:59:03,411 - root - INFO -   Epoch 25/150	 Time: 0.993	 Loss: 6.54270837
+2019-03-26 09:59:04,412 - root - INFO -   Epoch 26/150	 Time: 1.001	 Loss: 6.22346286
+2019-03-26 09:59:05,422 - root - INFO -   Epoch 27/150	 Time: 1.009	 Loss: 5.92792222
+2019-03-26 09:59:06,437 - root - INFO -   Epoch 28/150	 Time: 1.015	 Loss: 5.66138352
+2019-03-26 09:59:07,467 - root - INFO -   Epoch 29/150	 Time: 1.030	 Loss: 5.41546746
+2019-03-26 09:59:08,480 - root - INFO -   Epoch 30/150	 Time: 1.012	 Loss: 5.19036562
+2019-03-26 09:59:09,477 - root - INFO -   Epoch 31/150	 Time: 0.997	 Loss: 4.98148095
+2019-03-26 09:59:10,469 - root - INFO -   Epoch 32/150	 Time: 0.992	 Loss: 4.78517556
+2019-03-26 09:59:11,462 - root - INFO -   Epoch 33/150	 Time: 0.993	 Loss: 4.60291757
+2019-03-26 09:59:12,464 - root - INFO -   Epoch 34/150	 Time: 1.002	 Loss: 4.43407195
+2019-03-26 09:59:13,465 - root - INFO -   Epoch 35/150	 Time: 1.001	 Loss: 4.27743908
+2019-03-26 09:59:14,454 - root - INFO -   Epoch 36/150	 Time: 0.988	 Loss: 4.12880380
+2019-03-26 09:59:15,474 - root - INFO -   Epoch 37/150	 Time: 1.020	 Loss: 3.99000496
+2019-03-26 09:59:16,509 - root - INFO -   Epoch 38/150	 Time: 1.035	 Loss: 3.86089157
+2019-03-26 09:59:17,539 - root - INFO -   Epoch 39/150	 Time: 1.030	 Loss: 3.73967027
+2019-03-26 09:59:18,579 - root - INFO -   Epoch 40/150	 Time: 1.040	 Loss: 3.62804746
+2019-03-26 09:59:19,620 - root - INFO -   Epoch 41/150	 Time: 1.040	 Loss: 3.51798703
+2019-03-26 09:59:20,666 - root - INFO -   Epoch 42/150	 Time: 1.046	 Loss: 3.41898985
+2019-03-26 09:59:21,706 - root - INFO -   Epoch 43/150	 Time: 1.040	 Loss: 3.32193950
+2019-03-26 09:59:22,782 - root - INFO -   Epoch 44/150	 Time: 1.076	 Loss: 3.23207512
+2019-03-26 09:59:23,828 - root - INFO -   Epoch 45/150	 Time: 1.046	 Loss: 3.14572954
+2019-03-26 09:59:24,855 - root - INFO -   Epoch 46/150	 Time: 1.028	 Loss: 3.06367926
+2019-03-26 09:59:25,890 - root - INFO -   Epoch 47/150	 Time: 1.034	 Loss: 2.98638231
+2019-03-26 09:59:26,926 - root - INFO -   Epoch 48/150	 Time: 1.037	 Loss: 2.91247700
+2019-03-26 09:59:27,966 - root - INFO -   Epoch 49/150	 Time: 1.040	 Loss: 2.84204658
+2019-03-26 09:59:29,013 - root - INFO -   Epoch 50/150	 Time: 1.046	 Loss: 2.77225217
+2019-03-26 09:59:29,013 - root - INFO -   LR scheduler: new learning rate is 1e-05
+2019-03-26 09:59:30,059 - root - INFO -   Epoch 51/150	 Time: 1.045	 Loss: 2.73530599
+2019-03-26 09:59:31,110 - root - INFO -   Epoch 52/150	 Time: 1.052	 Loss: 2.72855125
+2019-03-26 09:59:32,139 - root - INFO -   Epoch 53/150	 Time: 1.028	 Loss: 2.72061024
+2019-03-26 09:59:33,203 - root - INFO -   Epoch 54/150	 Time: 1.064	 Loss: 2.71405570
+2019-03-26 09:59:34,224 - root - INFO -   Epoch 55/150	 Time: 1.020	 Loss: 2.70689782
+2019-03-26 09:59:35,275 - root - INFO -   Epoch 56/150	 Time: 1.051	 Loss: 2.69998501
+2019-03-26 09:59:36,296 - root - INFO -   Epoch 57/150	 Time: 1.020	 Loss: 2.69381669
+2019-03-26 09:59:37,312 - root - INFO -   Epoch 58/150	 Time: 1.016	 Loss: 2.68542371
+2019-03-26 09:59:38,328 - root - INFO -   Epoch 59/150	 Time: 1.016	 Loss: 2.67934063
+2019-03-26 09:59:39,349 - root - INFO -   Epoch 60/150	 Time: 1.021	 Loss: 2.67030539
+2019-03-26 09:59:40,372 - root - INFO -   Epoch 61/150	 Time: 1.023	 Loss: 2.66264861
+2019-03-26 09:59:41,392 - root - INFO -   Epoch 62/150	 Time: 1.020	 Loss: 2.65648850
+2019-03-26 09:59:42,427 - root - INFO -   Epoch 63/150	 Time: 1.035	 Loss: 2.64759441
+2019-03-26 09:59:43,457 - root - INFO -   Epoch 64/150	 Time: 1.031	 Loss: 2.63985714
+2019-03-26 09:59:44,469 - root - INFO -   Epoch 65/150	 Time: 1.011	 Loss: 2.63263432
+2019-03-26 09:59:45,484 - root - INFO -   Epoch 66/150	 Time: 1.015	 Loss: 2.62501893
+2019-03-26 09:59:46,494 - root - INFO -   Epoch 67/150	 Time: 1.010	 Loss: 2.61729268
+2019-03-26 09:59:47,507 - root - INFO -   Epoch 68/150	 Time: 1.013	 Loss: 2.60877369
+2019-03-26 09:59:48,517 - root - INFO -   Epoch 69/150	 Time: 1.010	 Loss: 2.59985025
+2019-03-26 09:59:49,529 - root - INFO -   Epoch 70/150	 Time: 1.011	 Loss: 2.59142638
+2019-03-26 09:59:50,543 - root - INFO -   Epoch 71/150	 Time: 1.014	 Loss: 2.58351463
+2019-03-26 09:59:51,571 - root - INFO -   Epoch 72/150	 Time: 1.028	 Loss: 2.57563366
+2019-03-26 09:59:52,592 - root - INFO -   Epoch 73/150	 Time: 1.021	 Loss: 2.56556500
+2019-03-26 09:59:53,622 - root - INFO -   Epoch 74/150	 Time: 1.030	 Loss: 2.55817706
+2019-03-26 09:59:54,646 - root - INFO -   Epoch 75/150	 Time: 1.024	 Loss: 2.55020066
+2019-03-26 09:59:55,676 - root - INFO -   Epoch 76/150	 Time: 1.030	 Loss: 2.54075365
+2019-03-26 09:59:56,690 - root - INFO -   Epoch 77/150	 Time: 1.014	 Loss: 2.53272128
+2019-03-26 09:59:57,705 - root - INFO -   Epoch 78/150	 Time: 1.014	 Loss: 2.52461232
+2019-03-26 09:59:58,721 - root - INFO -   Epoch 79/150	 Time: 1.016	 Loss: 2.51500914
+2019-03-26 09:59:59,744 - root - INFO -   Epoch 80/150	 Time: 1.024	 Loss: 2.50704666
+2019-03-26 10:00:00,780 - root - INFO -   Epoch 81/150	 Time: 1.036	 Loss: 2.49694401
+2019-03-26 10:00:01,789 - root - INFO -   Epoch 82/150	 Time: 1.008	 Loss: 2.48854994
+2019-03-26 10:00:02,828 - root - INFO -   Epoch 83/150	 Time: 1.039	 Loss: 2.47952682
+2019-03-26 10:00:03,843 - root - INFO -   Epoch 84/150	 Time: 1.015	 Loss: 2.47164894
+2019-03-26 10:00:04,851 - root - INFO -   Epoch 85/150	 Time: 1.008	 Loss: 2.46047460
+2019-03-26 10:00:05,863 - root - INFO -   Epoch 86/150	 Time: 1.011	 Loss: 2.45308871
+2019-03-26 10:00:06,890 - root - INFO -   Epoch 87/150	 Time: 1.027	 Loss: 2.44248392
+2019-03-26 10:00:07,918 - root - INFO -   Epoch 88/150	 Time: 1.028	 Loss: 2.43427340
+2019-03-26 10:00:08,947 - root - INFO -   Epoch 89/150	 Time: 1.028	 Loss: 2.42601296
+2019-03-26 10:00:09,974 - root - INFO -   Epoch 90/150	 Time: 1.027	 Loss: 2.41517472
+2019-03-26 10:00:11,001 - root - INFO -   Epoch 91/150	 Time: 1.027	 Loss: 2.40533618
+2019-03-26 10:00:12,025 - root - INFO -   Epoch 92/150	 Time: 1.024	 Loss: 2.39645305
+2019-03-26 10:00:13,052 - root - INFO -   Epoch 93/150	 Time: 1.027	 Loss: 2.38612075
+2019-03-26 10:00:14,077 - root - INFO -   Epoch 94/150	 Time: 1.025	 Loss: 2.37446923
+2019-03-26 10:00:15,135 - root - INFO -   Epoch 95/150	 Time: 1.058	 Loss: 2.36661373
+2019-03-26 10:00:16,195 - root - INFO -   Epoch 96/150	 Time: 1.060	 Loss: 2.35791083
+2019-03-26 10:00:17,213 - root - INFO -   Epoch 97/150	 Time: 1.018	 Loss: 2.34775125
+2019-03-26 10:00:18,245 - root - INFO -   Epoch 98/150	 Time: 1.032	 Loss: 2.33685400
+2019-03-26 10:00:19,283 - root - INFO -   Epoch 99/150	 Time: 1.038	 Loss: 2.32741847
+2019-03-26 10:00:20,316 - root - INFO -   Epoch 100/150	 Time: 1.033	 Loss: 2.31847248
+2019-03-26 10:00:21,354 - root - INFO -   Epoch 101/150	 Time: 1.037	 Loss: 2.30826907
+2019-03-26 10:00:22,392 - root - INFO -   Epoch 102/150	 Time: 1.038	 Loss: 2.29765111
+2019-03-26 10:00:23,428 - root - INFO -   Epoch 103/150	 Time: 1.036	 Loss: 2.28717198
+2019-03-26 10:00:24,453 - root - INFO -   Epoch 104/150	 Time: 1.025	 Loss: 2.27801532
+2019-03-26 10:00:25,487 - root - INFO -   Epoch 105/150	 Time: 1.033	 Loss: 2.26805914
+2019-03-26 10:00:26,508 - root - INFO -   Epoch 106/150	 Time: 1.022	 Loss: 2.25657433
+2019-03-26 10:00:27,538 - root - INFO -   Epoch 107/150	 Time: 1.029	 Loss: 2.24742908
+2019-03-26 10:00:28,578 - root - INFO -   Epoch 108/150	 Time: 1.040	 Loss: 2.23822968
+2019-03-26 10:00:29,619 - root - INFO -   Epoch 109/150	 Time: 1.041	 Loss: 2.22737953
+2019-03-26 10:00:30,653 - root - INFO -   Epoch 110/150	 Time: 1.034	 Loss: 2.21738277
+2019-03-26 10:00:31,687 - root - INFO -   Epoch 111/150	 Time: 1.033	 Loss: 2.20648909
+2019-03-26 10:00:32,712 - root - INFO -   Epoch 112/150	 Time: 1.025	 Loss: 2.19729954
+2019-03-26 10:00:33,753 - root - INFO -   Epoch 113/150	 Time: 1.041	 Loss: 2.18686151
+2019-03-26 10:00:34,784 - root - INFO -   Epoch 114/150	 Time: 1.031	 Loss: 2.17629469
+2019-03-26 10:00:35,831 - root - INFO -   Epoch 115/150	 Time: 1.047	 Loss: 2.16690122
+2019-03-26 10:00:36,857 - root - INFO -   Epoch 116/150	 Time: 1.026	 Loss: 2.15729955
+2019-03-26 10:00:37,898 - root - INFO -   Epoch 117/150	 Time: 1.041	 Loss: 2.14563828
+2019-03-26 10:00:38,942 - root - INFO -   Epoch 118/150	 Time: 1.044	 Loss: 2.13581089
+2019-03-26 10:00:39,960 - root - INFO -   Epoch 119/150	 Time: 1.018	 Loss: 2.12514555
+2019-03-26 10:00:41,007 - root - INFO -   Epoch 120/150	 Time: 1.047	 Loss: 2.11558455
+2019-03-26 10:00:42,037 - root - INFO -   Epoch 121/150	 Time: 1.029	 Loss: 2.10637123
+2019-03-26 10:00:43,066 - root - INFO -   Epoch 122/150	 Time: 1.029	 Loss: 2.09368534
+2019-03-26 10:00:44,109 - root - INFO -   Epoch 123/150	 Time: 1.042	 Loss: 2.08479802
+2019-03-26 10:00:45,121 - root - INFO -   Epoch 124/150	 Time: 1.012	 Loss: 2.07344553
+2019-03-26 10:00:46,151 - root - INFO -   Epoch 125/150	 Time: 1.030	 Loss: 2.06422816
+2019-03-26 10:00:47,163 - root - INFO -   Epoch 126/150	 Time: 1.013	 Loss: 2.05357545
+2019-03-26 10:00:48,203 - root - INFO -   Epoch 127/150	 Time: 1.040	 Loss: 2.04329452
+2019-03-26 10:00:49,219 - root - INFO -   Epoch 128/150	 Time: 1.015	 Loss: 2.03215799
+2019-03-26 10:00:50,231 - root - INFO -   Epoch 129/150	 Time: 1.012	 Loss: 2.02200522
+2019-03-26 10:00:51,248 - root - INFO -   Epoch 130/150	 Time: 1.017	 Loss: 2.01202501
+2019-03-26 10:00:52,273 - root - INFO -   Epoch 131/150	 Time: 1.025	 Loss: 2.00234566
+2019-03-26 10:00:53,302 - root - INFO -   Epoch 132/150	 Time: 1.029	 Loss: 1.99103880
+2019-03-26 10:00:54,330 - root - INFO -   Epoch 133/150	 Time: 1.028	 Loss: 1.97987657
+2019-03-26 10:00:55,358 - root - INFO -   Epoch 134/150	 Time: 1.029	 Loss: 1.97010229
+2019-03-26 10:00:56,384 - root - INFO -   Epoch 135/150	 Time: 1.026	 Loss: 1.96005967
+2019-03-26 10:00:57,412 - root - INFO -   Epoch 136/150	 Time: 1.028	 Loss: 1.95107029
+2019-03-26 10:00:58,440 - root - INFO -   Epoch 137/150	 Time: 1.028	 Loss: 1.94047689
+2019-03-26 10:00:59,467 - root - INFO -   Epoch 138/150	 Time: 1.027	 Loss: 1.93007660
+2019-03-26 10:01:00,496 - root - INFO -   Epoch 139/150	 Time: 1.029	 Loss: 1.92044889
+2019-03-26 10:01:01,522 - root - INFO -   Epoch 140/150	 Time: 1.026	 Loss: 1.91119917
+2019-03-26 10:01:02,550 - root - INFO -   Epoch 141/150	 Time: 1.027	 Loss: 1.90111905
+2019-03-26 10:01:03,577 - root - INFO -   Epoch 142/150	 Time: 1.027	 Loss: 1.89019557
+2019-03-26 10:01:04,605 - root - INFO -   Epoch 143/150	 Time: 1.027	 Loss: 1.88113513
+2019-03-26 10:01:05,631 - root - INFO -   Epoch 144/150	 Time: 1.027	 Loss: 1.87118021
+2019-03-26 10:01:06,659 - root - INFO -   Epoch 145/150	 Time: 1.027	 Loss: 1.86106828
+2019-03-26 10:01:07,688 - root - INFO -   Epoch 146/150	 Time: 1.029	 Loss: 1.85112201
+2019-03-26 10:01:08,714 - root - INFO -   Epoch 147/150	 Time: 1.026	 Loss: 1.84116256
+2019-03-26 10:01:09,743 - root - INFO -   Epoch 148/150	 Time: 1.029	 Loss: 1.83051136
+2019-03-26 10:01:10,770 - root - INFO -   Epoch 149/150	 Time: 1.027	 Loss: 1.82203854
+2019-03-26 10:01:11,806 - root - INFO -   Epoch 150/150	 Time: 1.036	 Loss: 1.81191005
+2019-03-26 10:01:11,807 - root - INFO - Pretraining time: 154.529
+2019-03-26 10:01:11,807 - root - INFO - Finished pretraining.
+2019-03-26 10:01:11,807 - root - INFO - Testing autoencoder...
+2019-03-26 10:01:12,973 - root - INFO - Test set Loss: 3.86459577
+2019-03-26 10:01:12,976 - root - INFO - Test set AUC: 97.16%
+2019-03-26 10:01:12,976 - root - INFO - Autoencoder testing time: 1.169
+2019-03-26 10:01:12,976 - root - INFO - Finished testing autoencoder.
+2019-03-26 10:01:12,977 - root - INFO - Training optimizer: adam
+2019-03-26 10:01:12,977 - root - INFO - Training learning rate: 0.0001
+2019-03-26 10:01:12,977 - root - INFO - Training epochs: 150
+2019-03-26 10:01:12,977 - root - INFO - Training learning rate scheduler milestones: (50,)
+2019-03-26 10:01:12,977 - root - INFO - Training batch size: 200
+2019-03-26 10:01:12,977 - root - INFO - Training weight decay: 5e-07
+2019-03-26 10:01:12,977 - root - INFO - Initializing center c...
+2019-03-26 10:01:13,738 - root - INFO - Center c initialized.
+2019-03-26 10:01:13,738 - root - INFO - Starting training...
+2019-03-26 10:01:14,610 - root - INFO -   Epoch 1/150	 Time: 0.872	 Loss: 2.04693297
+2019-03-26 10:01:15,481 - root - INFO -   Epoch 2/150	 Time: 0.870	 Loss: 1.08272877
+2019-03-26 10:01:16,354 - root - INFO -   Epoch 3/150	 Time: 0.873	 Loss: 0.67144933
+2019-03-26 10:01:17,224 - root - INFO -   Epoch 4/150	 Time: 0.870	 Loss: 0.45521042
+2019-03-26 10:01:18,093 - root - INFO -   Epoch 5/150	 Time: 0.869	 Loss: 0.33078195
+2019-03-26 10:01:18,961 - root - INFO -   Epoch 6/150	 Time: 0.867	 Loss: 0.25233010
+2019-03-26 10:01:19,828 - root - INFO -   Epoch 7/150	 Time: 0.867	 Loss: 0.20036873
+2019-03-26 10:01:20,696 - root - INFO -   Epoch 8/150	 Time: 0.868	 Loss: 0.16466391
+2019-03-26 10:01:21,565 - root - INFO -   Epoch 9/150	 Time: 0.869	 Loss: 0.13883251
+2019-03-26 10:01:22,436 - root - INFO -   Epoch 10/150	 Time: 0.870	 Loss: 0.12049262
+2019-03-26 10:01:23,303 - root - INFO -   Epoch 11/150	 Time: 0.867	 Loss: 0.10649344
+2019-03-26 10:01:24,173 - root - INFO -   Epoch 12/150	 Time: 0.870	 Loss: 0.09554691
+2019-03-26 10:01:25,041 - root - INFO -   Epoch 13/150	 Time: 0.868	 Loss: 0.08683925
+2019-03-26 10:01:25,911 - root - INFO -   Epoch 14/150	 Time: 0.870	 Loss: 0.07920505
+2019-03-26 10:01:26,781 - root - INFO -   Epoch 15/150	 Time: 0.870	 Loss: 0.07364193
+2019-03-26 10:01:27,649 - root - INFO -   Epoch 16/150	 Time: 0.868	 Loss: 0.06807418
+2019-03-26 10:01:28,517 - root - INFO -   Epoch 17/150	 Time: 0.868	 Loss: 0.06346317
+2019-03-26 10:01:29,386 - root - INFO -   Epoch 18/150	 Time: 0.869	 Loss: 0.05953844
+2019-03-26 10:01:30,256 - root - INFO -   Epoch 19/150	 Time: 0.870	 Loss: 0.05597432
+2019-03-26 10:01:31,125 - root - INFO -   Epoch 20/150	 Time: 0.868	 Loss: 0.05273643
+2019-03-26 10:01:31,994 - root - INFO -   Epoch 21/150	 Time: 0.869	 Loss: 0.05000338
+2019-03-26 10:01:32,869 - root - INFO -   Epoch 22/150	 Time: 0.875	 Loss: 0.04762877
+2019-03-26 10:01:33,740 - root - INFO -   Epoch 23/150	 Time: 0.871	 Loss: 0.04498480
+2019-03-26 10:01:34,609 - root - INFO -   Epoch 24/150	 Time: 0.869	 Loss: 0.04284648
+2019-03-26 10:01:35,478 - root - INFO -   Epoch 25/150	 Time: 0.869	 Loss: 0.04094033
+2019-03-26 10:01:36,349 - root - INFO -   Epoch 26/150	 Time: 0.870	 Loss: 0.03905605
+2019-03-26 10:01:37,217 - root - INFO -   Epoch 27/150	 Time: 0.869	 Loss: 0.03739205
+2019-03-26 10:01:38,086 - root - INFO -   Epoch 28/150	 Time: 0.869	 Loss: 0.03557425
+2019-03-26 10:01:38,959 - root - INFO -   Epoch 29/150	 Time: 0.873	 Loss: 0.03433718
+2019-03-26 10:01:39,828 - root - INFO -   Epoch 30/150	 Time: 0.869	 Loss: 0.03290872
+2019-03-26 10:01:40,697 - root - INFO -   Epoch 31/150	 Time: 0.869	 Loss: 0.03168242
+2019-03-26 10:01:41,566 - root - INFO -   Epoch 32/150	 Time: 0.869	 Loss: 0.03025630
+2019-03-26 10:01:42,436 - root - INFO -   Epoch 33/150	 Time: 0.869	 Loss: 0.02956778
+2019-03-26 10:01:43,307 - root - INFO -   Epoch 34/150	 Time: 0.871	 Loss: 0.02853197
+2019-03-26 10:01:44,176 - root - INFO -   Epoch 35/150	 Time: 0.869	 Loss: 0.02746151
+2019-03-26 10:01:45,046 - root - INFO -   Epoch 36/150	 Time: 0.870	 Loss: 0.02625028
+2019-03-26 10:01:45,914 - root - INFO -   Epoch 37/150	 Time: 0.868	 Loss: 0.02568048
+2019-03-26 10:01:46,782 - root - INFO -   Epoch 38/150	 Time: 0.868	 Loss: 0.02491867
+2019-03-26 10:01:47,652 - root - INFO -   Epoch 39/150	 Time: 0.869	 Loss: 0.02400384
+2019-03-26 10:01:48,521 - root - INFO -   Epoch 40/150	 Time: 0.869	 Loss: 0.02307827
+2019-03-26 10:01:49,391 - root - INFO -   Epoch 41/150	 Time: 0.870	 Loss: 0.02259753
+2019-03-26 10:01:50,260 - root - INFO -   Epoch 42/150	 Time: 0.869	 Loss: 0.02215513
+2019-03-26 10:01:51,130 - root - INFO -   Epoch 43/150	 Time: 0.870	 Loss: 0.02130938
+2019-03-26 10:01:51,999 - root - INFO -   Epoch 44/150	 Time: 0.869	 Loss: 0.02067091
+2019-03-26 10:01:52,876 - root - INFO -   Epoch 45/150	 Time: 0.877	 Loss: 0.02011538
+2019-03-26 10:01:53,748 - root - INFO -   Epoch 46/150	 Time: 0.872	 Loss: 0.01935211
+2019-03-26 10:01:54,618 - root - INFO -   Epoch 47/150	 Time: 0.869	 Loss: 0.01906428
+2019-03-26 10:01:55,487 - root - INFO -   Epoch 48/150	 Time: 0.869	 Loss: 0.01875627
+2019-03-26 10:01:56,356 - root - INFO -   Epoch 49/150	 Time: 0.869	 Loss: 0.01783276
+2019-03-26 10:01:57,228 - root - INFO -   Epoch 50/150	 Time: 0.872	 Loss: 0.01748822
+2019-03-26 10:01:57,228 - root - INFO -   LR scheduler: new learning rate is 1e-05
+2019-03-26 10:01:58,098 - root - INFO -   Epoch 51/150	 Time: 0.870	 Loss: 0.01704101
+2019-03-26 10:01:58,966 - root - INFO -   Epoch 52/150	 Time: 0.869	 Loss: 0.01696611
+2019-03-26 10:01:59,836 - root - INFO -   Epoch 53/150	 Time: 0.869	 Loss: 0.01692246
+2019-03-26 10:02:00,705 - root - INFO -   Epoch 54/150	 Time: 0.870	 Loss: 0.01700198
+2019-03-26 10:02:01,574 - root - INFO -   Epoch 55/150	 Time: 0.869	 Loss: 0.01691731
+2019-03-26 10:02:02,443 - root - INFO -   Epoch 56/150	 Time: 0.869	 Loss: 0.01677630
+2019-03-26 10:02:03,314 - root - INFO -   Epoch 57/150	 Time: 0.871	 Loss: 0.01674191
+2019-03-26 10:02:04,184 - root - INFO -   Epoch 58/150	 Time: 0.869	 Loss: 0.01671469
+2019-03-26 10:02:05,053 - root - INFO -   Epoch 59/150	 Time: 0.869	 Loss: 0.01664310
+2019-03-26 10:02:05,921 - root - INFO -   Epoch 60/150	 Time: 0.868	 Loss: 0.01656389
+2019-03-26 10:02:06,794 - root - INFO -   Epoch 61/150	 Time: 0.872	 Loss: 0.01653584
+2019-03-26 10:02:07,667 - root - INFO -   Epoch 62/150	 Time: 0.873	 Loss: 0.01653039
+2019-03-26 10:02:08,542 - root - INFO -   Epoch 63/150	 Time: 0.875	 Loss: 0.01648384
+2019-03-26 10:02:09,427 - root - INFO -   Epoch 64/150	 Time: 0.885	 Loss: 0.01643923
+2019-03-26 10:02:10,297 - root - INFO -   Epoch 65/150	 Time: 0.870	 Loss: 0.01638655
+2019-03-26 10:02:11,166 - root - INFO -   Epoch 66/150	 Time: 0.869	 Loss: 0.01648937
+2019-03-26 10:02:12,035 - root - INFO -   Epoch 67/150	 Time: 0.869	 Loss: 0.01636949
+2019-03-26 10:02:12,905 - root - INFO -   Epoch 68/150	 Time: 0.871	 Loss: 0.01629982
+2019-03-26 10:02:13,776 - root - INFO -   Epoch 69/150	 Time: 0.870	 Loss: 0.01615913
+2019-03-26 10:02:14,646 - root - INFO -   Epoch 70/150	 Time: 0.870	 Loss: 0.01619421
+2019-03-26 10:02:15,515 - root - INFO -   Epoch 71/150	 Time: 0.869	 Loss: 0.01597912
+2019-03-26 10:02:16,383 - root - INFO -   Epoch 72/150	 Time: 0.868	 Loss: 0.01606305
+2019-03-26 10:02:17,254 - root - INFO -   Epoch 73/150	 Time: 0.870	 Loss: 0.01610452
+2019-03-26 10:02:18,123 - root - INFO -   Epoch 74/150	 Time: 0.869	 Loss: 0.01594285
+2019-03-26 10:02:18,994 - root - INFO -   Epoch 75/150	 Time: 0.871	 Loss: 0.01585066
+2019-03-26 10:02:19,863 - root - INFO -   Epoch 76/150	 Time: 0.869	 Loss: 0.01578691
+2019-03-26 10:02:20,731 - root - INFO -   Epoch 77/150	 Time: 0.869	 Loss: 0.01568278
+2019-03-26 10:02:21,601 - root - INFO -   Epoch 78/150	 Time: 0.870	 Loss: 0.01579551
+2019-03-26 10:02:22,468 - root - INFO -   Epoch 79/150	 Time: 0.867	 Loss: 0.01565681
+2019-03-26 10:02:23,335 - root - INFO -   Epoch 80/150	 Time: 0.866	 Loss: 0.01570459
+2019-03-26 10:02:24,202 - root - INFO -   Epoch 81/150	 Time: 0.867	 Loss: 0.01551815
+2019-03-26 10:02:25,070 - root - INFO -   Epoch 82/150	 Time: 0.868	 Loss: 0.01561347
+2019-03-26 10:02:25,930 - root - INFO -   Epoch 83/150	 Time: 0.860	 Loss: 0.01558431
+2019-03-26 10:02:26,789 - root - INFO -   Epoch 84/150	 Time: 0.859	 Loss: 0.01531796
+2019-03-26 10:02:27,647 - root - INFO -   Epoch 85/150	 Time: 0.859	 Loss: 0.01528073
+2019-03-26 10:02:28,508 - root - INFO -   Epoch 86/150	 Time: 0.860	 Loss: 0.01528798
+2019-03-26 10:02:29,366 - root - INFO -   Epoch 87/150	 Time: 0.858	 Loss: 0.01519434
+2019-03-26 10:02:30,225 - root - INFO -   Epoch 88/150	 Time: 0.859	 Loss: 0.01526948
+2019-03-26 10:02:31,084 - root - INFO -   Epoch 89/150	 Time: 0.858	 Loss: 0.01513212
+2019-03-26 10:02:31,942 - root - INFO -   Epoch 90/150	 Time: 0.858	 Loss: 0.01502782
+2019-03-26 10:02:32,802 - root - INFO -   Epoch 91/150	 Time: 0.860	 Loss: 0.01485685
+2019-03-26 10:02:33,673 - root - INFO -   Epoch 92/150	 Time: 0.871	 Loss: 0.01499602
+2019-03-26 10:02:34,555 - root - INFO -   Epoch 93/150	 Time: 0.881	 Loss: 0.01493061
+2019-03-26 10:02:35,427 - root - INFO -   Epoch 94/150	 Time: 0.872	 Loss: 0.01472546
+2019-03-26 10:02:36,308 - root - INFO -   Epoch 95/150	 Time: 0.881	 Loss: 0.01483609
+2019-03-26 10:02:37,191 - root - INFO -   Epoch 96/150	 Time: 0.882	 Loss: 0.01482409
+2019-03-26 10:02:38,071 - root - INFO -   Epoch 97/150	 Time: 0.880	 Loss: 0.01474999
+2019-03-26 10:02:38,950 - root - INFO -   Epoch 98/150	 Time: 0.878	 Loss: 0.01450251
+2019-03-26 10:02:39,817 - root - INFO -   Epoch 99/150	 Time: 0.867	 Loss: 0.01460468
+2019-03-26 10:02:40,680 - root - INFO -   Epoch 100/150	 Time: 0.863	 Loss: 0.01450088
+2019-03-26 10:02:41,543 - root - INFO -   Epoch 101/150	 Time: 0.863	 Loss: 0.01443880
+2019-03-26 10:02:42,417 - root - INFO -   Epoch 102/150	 Time: 0.874	 Loss: 0.01427817
+2019-03-26 10:02:43,298 - root - INFO -   Epoch 103/150	 Time: 0.880	 Loss: 0.01432586
+2019-03-26 10:02:44,156 - root - INFO -   Epoch 104/150	 Time: 0.859	 Loss: 0.01427227
+2019-03-26 10:02:45,017 - root - INFO -   Epoch 105/150	 Time: 0.861	 Loss: 0.01415108
+2019-03-26 10:02:45,876 - root - INFO -   Epoch 106/150	 Time: 0.859	 Loss: 0.01405138
+2019-03-26 10:02:46,734 - root - INFO -   Epoch 107/150	 Time: 0.858	 Loss: 0.01405576
+2019-03-26 10:02:47,594 - root - INFO -   Epoch 108/150	 Time: 0.860	 Loss: 0.01396579
+2019-03-26 10:02:48,451 - root - INFO -   Epoch 109/150	 Time: 0.857	 Loss: 0.01409278
+2019-03-26 10:02:49,309 - root - INFO -   Epoch 110/150	 Time: 0.857	 Loss: 0.01383409
+2019-03-26 10:02:50,169 - root - INFO -   Epoch 111/150	 Time: 0.860	 Loss: 0.01380766
+2019-03-26 10:02:51,030 - root - INFO -   Epoch 112/150	 Time: 0.861	 Loss: 0.01370809
+2019-03-26 10:02:51,888 - root - INFO -   Epoch 113/150	 Time: 0.858	 Loss: 0.01383809
+2019-03-26 10:02:52,748 - root - INFO -   Epoch 114/150	 Time: 0.859	 Loss: 0.01369372
+2019-03-26 10:02:53,614 - root - INFO -   Epoch 115/150	 Time: 0.866	 Loss: 0.01358360
+2019-03-26 10:02:54,481 - root - INFO -   Epoch 116/150	 Time: 0.867	 Loss: 0.01356674
+2019-03-26 10:02:55,349 - root - INFO -   Epoch 117/150	 Time: 0.868	 Loss: 0.01365527
+2019-03-26 10:02:56,208 - root - INFO -   Epoch 118/150	 Time: 0.859	 Loss: 0.01338740
+2019-03-26 10:02:57,071 - root - INFO -   Epoch 119/150	 Time: 0.862	 Loss: 0.01343140
+2019-03-26 10:02:57,934 - root - INFO -   Epoch 120/150	 Time: 0.863	 Loss: 0.01329921
+2019-03-26 10:02:58,797 - root - INFO -   Epoch 121/150	 Time: 0.863	 Loss: 0.01330551
+2019-03-26 10:02:59,658 - root - INFO -   Epoch 122/150	 Time: 0.861	 Loss: 0.01318682
+2019-03-26 10:03:00,517 - root - INFO -   Epoch 123/150	 Time: 0.859	 Loss: 0.01313419
+2019-03-26 10:03:01,379 - root - INFO -   Epoch 124/150	 Time: 0.862	 Loss: 0.01321421
+2019-03-26 10:03:02,240 - root - INFO -   Epoch 125/150	 Time: 0.860	 Loss: 0.01323712
+2019-03-26 10:03:03,100 - root - INFO -   Epoch 126/150	 Time: 0.860	 Loss: 0.01302525
+2019-03-26 10:03:03,975 - root - INFO -   Epoch 127/150	 Time: 0.875	 Loss: 0.01295293
+2019-03-26 10:03:04,851 - root - INFO -   Epoch 128/150	 Time: 0.876	 Loss: 0.01291366
+2019-03-26 10:03:05,751 - root - INFO -   Epoch 129/150	 Time: 0.900	 Loss: 0.01273698
+2019-03-26 10:03:06,634 - root - INFO -   Epoch 130/150	 Time: 0.884	 Loss: 0.01308581
+2019-03-26 10:03:07,525 - root - INFO -   Epoch 131/150	 Time: 0.891	 Loss: 0.01274618
+2019-03-26 10:03:08,426 - root - INFO -   Epoch 132/150	 Time: 0.900	 Loss: 0.01267357
+2019-03-26 10:03:09,309 - root - INFO -   Epoch 133/150	 Time: 0.884	 Loss: 0.01274557
+2019-03-26 10:03:10,198 - root - INFO -   Epoch 134/150	 Time: 0.888	 Loss: 0.01254153
+2019-03-26 10:03:11,088 - root - INFO -   Epoch 135/150	 Time: 0.890	 Loss: 0.01253298
+2019-03-26 10:03:11,962 - root - INFO -   Epoch 136/150	 Time: 0.874	 Loss: 0.01253579
+2019-03-26 10:03:12,845 - root - INFO -   Epoch 137/150	 Time: 0.883	 Loss: 0.01249509
+2019-03-26 10:03:13,727 - root - INFO -   Epoch 138/150	 Time: 0.882	 Loss: 0.01255892
+2019-03-26 10:03:14,628 - root - INFO -   Epoch 139/150	 Time: 0.901	 Loss: 0.01230897
+2019-03-26 10:03:15,514 - root - INFO -   Epoch 140/150	 Time: 0.886	 Loss: 0.01216337
+2019-03-26 10:03:16,397 - root - INFO -   Epoch 141/150	 Time: 0.882	 Loss: 0.01214597
+2019-03-26 10:03:17,278 - root - INFO -   Epoch 142/150	 Time: 0.882	 Loss: 0.01211219
+2019-03-26 10:03:18,170 - root - INFO -   Epoch 143/150	 Time: 0.891	 Loss: 0.01209394
+2019-03-26 10:03:19,063 - root - INFO -   Epoch 144/150	 Time: 0.893	 Loss: 0.01199404
+2019-03-26 10:03:19,949 - root - INFO -   Epoch 145/150	 Time: 0.886	 Loss: 0.01194894
+2019-03-26 10:03:20,828 - root - INFO -   Epoch 146/150	 Time: 0.878	 Loss: 0.01209676
+2019-03-26 10:03:21,705 - root - INFO -   Epoch 147/150	 Time: 0.877	 Loss: 0.01191725
+2019-03-26 10:03:22,596 - root - INFO -   Epoch 148/150	 Time: 0.891	 Loss: 0.01167755
+2019-03-26 10:03:23,491 - root - INFO -   Epoch 149/150	 Time: 0.895	 Loss: 0.01189447
+2019-03-26 10:03:24,370 - root - INFO -   Epoch 150/150	 Time: 0.879	 Loss: 0.01174852
+2019-03-26 10:03:24,370 - root - INFO - Training time: 130.633
+2019-03-26 10:03:24,371 - root - INFO - Finished training.
+2019-03-26 10:03:24,371 - root - INFO - Starting testing...
+2019-03-26 10:03:25,466 - root - INFO - Testing time: 1.095
+2019-03-26 10:03:25,469 - root - INFO - Test set AUC: 99.42%
+2019-03-26 10:03:25,469 - root - INFO - Finished testing.
+2019-03-26 10:15:16,093 - root - INFO - Log file is ../log/mnist_test/log.txt.
+2019-03-26 10:15:16,094 - root - INFO - Data path is ../data.
+2019-03-26 10:15:16,094 - root - INFO - Export path is ../log/mnist_test.
+2019-03-26 10:15:16,094 - root - INFO - Dataset: mnist
+2019-03-26 10:15:16,094 - root - INFO - Normal class: 1
+2019-03-26 10:15:16,094 - root - INFO - Network: mnist_LeNet
+2019-03-26 10:15:16,094 - root - INFO - Deep SVDD objective: one-class
+2019-03-26 10:15:16,094 - root - INFO - Nu-paramerter: 0.10
+2019-03-26 10:15:16,116 - root - INFO - Computation device: cuda
+2019-03-26 10:15:16,116 - root - INFO - Number of dataloader workers: 0
+2019-03-26 10:15:16,139 - root - INFO - Pretraining: True
+2019-03-26 10:15:16,139 - root - INFO - Pretraining optimizer: adam
+2019-03-26 10:15:16,139 - root - INFO - Pretraining learning rate: 0.0001
+2019-03-26 10:15:16,139 - root - INFO - Pretraining epochs: 150
+2019-03-26 10:15:16,139 - root - INFO - Pretraining learning rate scheduler milestones: (50,)
+2019-03-26 10:15:16,139 - root - INFO - Pretraining batch size: 200
+2019-03-26 10:15:16,139 - root - INFO - Pretraining weight decay: 0.0005
+2019-03-26 10:15:17,826 - root - INFO - Starting pretraining...
+2019-03-26 10:15:18,915 - root - INFO -   Epoch 1/150	 Time: 1.089	 Loss: 196.75359838
+2019-03-26 10:15:19,972 - root - INFO -   Epoch 2/150	 Time: 1.057	 Loss: 154.01704766
+2019-03-26 10:15:21,029 - root - INFO -   Epoch 3/150	 Time: 1.057	 Loss: 115.42087734
+2019-03-26 10:15:22,091 - root - INFO -   Epoch 4/150	 Time: 1.061	 Loss: 84.56876508
+2019-03-26 10:15:23,147 - root - INFO -   Epoch 5/150	 Time: 1.056	 Loss: 63.48001951
+2019-03-26 10:15:24,200 - root - INFO -   Epoch 6/150	 Time: 1.053	 Loss: 49.02959610
+2019-03-26 10:15:25,264 - root - INFO -   Epoch 7/150	 Time: 1.064	 Loss: 38.93759290
+2019-03-26 10:15:26,320 - root - INFO -   Epoch 8/150	 Time: 1.055	 Loss: 31.42886437
+2019-03-26 10:15:27,366 - root - INFO -   Epoch 9/150	 Time: 1.047	 Loss: 25.75441018
+2019-03-26 10:15:28,412 - root - INFO -   Epoch 10/150	 Time: 1.046	 Loss: 21.66801767
+2019-03-26 10:15:29,460 - root - INFO -   Epoch 11/150	 Time: 1.048	 Loss: 18.61066538
+2019-03-26 10:15:30,508 - root - INFO -   Epoch 12/150	 Time: 1.047	 Loss: 16.25438842
+2019-03-26 10:15:31,560 - root - INFO -   Epoch 13/150	 Time: 1.052	 Loss: 14.39434826
+2019-03-26 10:15:32,613 - root - INFO -   Epoch 14/150	 Time: 1.053	 Loss: 12.90033144
+2019-03-26 10:15:33,659 - root - INFO -   Epoch 15/150	 Time: 1.046	 Loss: 11.67591412
+2019-03-26 10:15:34,715 - root - INFO -   Epoch 16/150	 Time: 1.056	 Loss: 10.65617763
+2019-03-26 10:15:35,772 - root - INFO -   Epoch 17/150	 Time: 1.056	 Loss: 9.79455292
+2019-03-26 10:15:36,836 - root - INFO -   Epoch 18/150	 Time: 1.064	 Loss: 9.05443581
+2019-03-26 10:15:37,886 - root - INFO -   Epoch 19/150	 Time: 1.050	 Loss: 8.41597072
+2019-03-26 10:15:38,954 - root - INFO -   Epoch 20/150	 Time: 1.068	 Loss: 7.86043431
+2019-03-26 10:15:40,007 - root - INFO -   Epoch 21/150	 Time: 1.052	 Loss: 7.37089790
+2019-03-26 10:15:41,059 - root - INFO -   Epoch 22/150	 Time: 1.052	 Loss: 6.93556769
+2019-03-26 10:15:42,112 - root - INFO -   Epoch 23/150	 Time: 1.054	 Loss: 6.54607812
+2019-03-26 10:15:43,187 - root - INFO -   Epoch 24/150	 Time: 1.074	 Loss: 6.19514806
+2019-03-26 10:15:44,269 - root - INFO -   Epoch 25/150	 Time: 1.082	 Loss: 5.87830730
+2019-03-26 10:15:45,328 - root - INFO -   Epoch 26/150	 Time: 1.059	 Loss: 5.58964063
+2019-03-26 10:15:46,382 - root - INFO -   Epoch 27/150	 Time: 1.054	 Loss: 5.32271345
+2019-03-26 10:15:47,441 - root - INFO -   Epoch 28/150	 Time: 1.058	 Loss: 5.07788055
+2019-03-26 10:15:48,493 - root - INFO -   Epoch 29/150	 Time: 1.052	 Loss: 4.84943829
+2019-03-26 10:15:49,542 - root - INFO -   Epoch 30/150	 Time: 1.049	 Loss: 4.63331290
+2019-03-26 10:15:50,589 - root - INFO -   Epoch 31/150	 Time: 1.046	 Loss: 4.42969237
+2019-03-26 10:15:51,642 - root - INFO -   Epoch 32/150	 Time: 1.053	 Loss: 4.24467963
+2019-03-26 10:15:52,691 - root - INFO -   Epoch 33/150	 Time: 1.049	 Loss: 4.07207859
+2019-03-26 10:15:53,743 - root - INFO -   Epoch 34/150	 Time: 1.052	 Loss: 3.91109463
+2019-03-26 10:15:54,792 - root - INFO -   Epoch 35/150	 Time: 1.049	 Loss: 3.76663499
+2019-03-26 10:15:55,842 - root - INFO -   Epoch 36/150	 Time: 1.050	 Loss: 3.62926433
+2019-03-26 10:15:56,890 - root - INFO -   Epoch 37/150	 Time: 1.048	 Loss: 3.50209975
+2019-03-26 10:15:57,938 - root - INFO -   Epoch 38/150	 Time: 1.048	 Loss: 3.38446604
+2019-03-26 10:15:58,986 - root - INFO -   Epoch 39/150	 Time: 1.048	 Loss: 3.27203963
+2019-03-26 10:16:00,059 - root - INFO -   Epoch 40/150	 Time: 1.073	 Loss: 3.16852936
+2019-03-26 10:16:01,136 - root - INFO -   Epoch 41/150	 Time: 1.077	 Loss: 3.06941871
+2019-03-26 10:16:02,214 - root - INFO -   Epoch 42/150	 Time: 1.078	 Loss: 2.97821076
+2019-03-26 10:16:03,285 - root - INFO -   Epoch 43/150	 Time: 1.070	 Loss: 2.89092950
+2019-03-26 10:16:04,350 - root - INFO -   Epoch 44/150	 Time: 1.065	 Loss: 2.80948798
+2019-03-26 10:16:05,424 - root - INFO -   Epoch 45/150	 Time: 1.074	 Loss: 2.73281510
+2019-03-26 10:16:06,505 - root - INFO -   Epoch 46/150	 Time: 1.081	 Loss: 2.65932805
+2019-03-26 10:16:07,572 - root - INFO -   Epoch 47/150	 Time: 1.067	 Loss: 2.58838483
+2019-03-26 10:16:08,638 - root - INFO -   Epoch 48/150	 Time: 1.066	 Loss: 2.52238237
+2019-03-26 10:16:09,699 - root - INFO -   Epoch 49/150	 Time: 1.061	 Loss: 2.45843257
+2019-03-26 10:16:10,765 - root - INFO -   Epoch 50/150	 Time: 1.066	 Loss: 2.39840189
+2019-03-26 10:16:10,765 - root - INFO -   LR scheduler: new learning rate is 1e-05
+2019-03-26 10:16:11,834 - root - INFO -   Epoch 51/150	 Time: 1.069	 Loss: 2.36538503
+2019-03-26 10:16:12,901 - root - INFO -   Epoch 52/150	 Time: 1.066	 Loss: 2.35802529
+2019-03-26 10:16:13,965 - root - INFO -   Epoch 53/150	 Time: 1.065	 Loss: 2.35387559
+2019-03-26 10:16:15,031 - root - INFO -   Epoch 54/150	 Time: 1.065	 Loss: 2.34729133
+2019-03-26 10:16:16,098 - root - INFO -   Epoch 55/150	 Time: 1.067	 Loss: 2.34234494
+2019-03-26 10:16:17,162 - root - INFO -   Epoch 56/150	 Time: 1.064	 Loss: 2.33484326
+2019-03-26 10:16:18,222 - root - INFO -   Epoch 57/150	 Time: 1.060	 Loss: 2.33021382
+2019-03-26 10:16:19,292 - root - INFO -   Epoch 58/150	 Time: 1.070	 Loss: 2.32383905
+2019-03-26 10:16:20,396 - root - INFO -   Epoch 59/150	 Time: 1.103	 Loss: 2.31729118
+2019-03-26 10:16:21,460 - root - INFO -   Epoch 60/150	 Time: 1.064	 Loss: 2.31207414
+2019-03-26 10:16:22,523 - root - INFO -   Epoch 61/150	 Time: 1.063	 Loss: 2.30579096
+2019-03-26 10:16:23,587 - root - INFO -   Epoch 62/150	 Time: 1.064	 Loss: 2.29807831
+2019-03-26 10:16:24,653 - root - INFO -   Epoch 63/150	 Time: 1.066	 Loss: 2.29200641
+2019-03-26 10:16:25,741 - root - INFO -   Epoch 64/150	 Time: 1.088	 Loss: 2.28553437
+2019-03-26 10:16:26,821 - root - INFO -   Epoch 65/150	 Time: 1.079	 Loss: 2.27834450
+2019-03-26 10:16:27,879 - root - INFO -   Epoch 66/150	 Time: 1.058	 Loss: 2.27200370
+2019-03-26 10:16:28,940 - root - INFO -   Epoch 67/150	 Time: 1.060	 Loss: 2.26561198
+2019-03-26 10:16:29,998 - root - INFO -   Epoch 68/150	 Time: 1.058	 Loss: 2.25856937
+2019-03-26 10:16:31,057 - root - INFO -   Epoch 69/150	 Time: 1.059	 Loss: 2.25159243
+2019-03-26 10:16:32,116 - root - INFO -   Epoch 70/150	 Time: 1.059	 Loss: 2.24487101
+2019-03-26 10:16:33,175 - root - INFO -   Epoch 71/150	 Time: 1.059	 Loss: 2.23713844
+2019-03-26 10:16:34,232 - root - INFO -   Epoch 72/150	 Time: 1.058	 Loss: 2.23163511
+2019-03-26 10:16:35,292 - root - INFO -   Epoch 73/150	 Time: 1.059	 Loss: 2.22497181
+2019-03-26 10:16:36,355 - root - INFO -   Epoch 74/150	 Time: 1.063	 Loss: 2.21681861
+2019-03-26 10:16:37,417 - root - INFO -   Epoch 75/150	 Time: 1.062	 Loss: 2.20983760
+2019-03-26 10:16:38,481 - root - INFO -   Epoch 76/150	 Time: 1.064	 Loss: 2.20282403
+2019-03-26 10:16:39,576 - root - INFO -   Epoch 77/150	 Time: 1.095	 Loss: 2.19622664
+2019-03-26 10:16:40,652 - root - INFO -   Epoch 78/150	 Time: 1.075	 Loss: 2.18941614
+2019-03-26 10:16:41,728 - root - INFO -   Epoch 79/150	 Time: 1.076	 Loss: 2.18074440
+2019-03-26 10:16:42,790 - root - INFO -   Epoch 80/150	 Time: 1.062	 Loss: 2.17452308
+2019-03-26 10:16:43,861 - root - INFO -   Epoch 81/150	 Time: 1.071	 Loss: 2.16702029
+2019-03-26 10:16:44,927 - root - INFO -   Epoch 82/150	 Time: 1.065	 Loss: 2.15964764
+2019-03-26 10:16:45,982 - root - INFO -   Epoch 83/150	 Time: 1.055	 Loss: 2.15146502
+2019-03-26 10:16:47,041 - root - INFO -   Epoch 84/150	 Time: 1.059	 Loss: 2.14486403
+2019-03-26 10:16:48,106 - root - INFO -   Epoch 85/150	 Time: 1.065	 Loss: 2.13693407
+2019-03-26 10:16:49,178 - root - INFO -   Epoch 86/150	 Time: 1.072	 Loss: 2.12910336
+2019-03-26 10:16:50,259 - root - INFO -   Epoch 87/150	 Time: 1.081	 Loss: 2.12189930
+2019-03-26 10:16:51,339 - root - INFO -   Epoch 88/150	 Time: 1.080	 Loss: 2.11470205
+2019-03-26 10:16:52,413 - root - INFO -   Epoch 89/150	 Time: 1.074	 Loss: 2.10689478
+2019-03-26 10:16:53,481 - root - INFO -   Epoch 90/150	 Time: 1.069	 Loss: 2.09845750
+2019-03-26 10:16:54,566 - root - INFO -   Epoch 91/150	 Time: 1.084	 Loss: 2.09108385
+2019-03-26 10:16:55,637 - root - INFO -   Epoch 92/150	 Time: 1.071	 Loss: 2.08329401
+2019-03-26 10:16:56,714 - root - INFO -   Epoch 93/150	 Time: 1.077	 Loss: 2.07587956
+2019-03-26 10:16:57,791 - root - INFO -   Epoch 94/150	 Time: 1.076	 Loss: 2.06839192
+2019-03-26 10:16:58,864 - root - INFO -   Epoch 95/150	 Time: 1.073	 Loss: 2.05946784
+2019-03-26 10:16:59,931 - root - INFO -   Epoch 96/150	 Time: 1.067	 Loss: 2.05180158
+2019-03-26 10:17:01,000 - root - INFO -   Epoch 97/150	 Time: 1.069	 Loss: 2.04361237
+2019-03-26 10:17:02,065 - root - INFO -   Epoch 98/150	 Time: 1.065	 Loss: 2.03638070
+2019-03-26 10:17:03,143 - root - INFO -   Epoch 99/150	 Time: 1.078	 Loss: 2.02694642
+2019-03-26 10:17:04,193 - root - INFO -   Epoch 100/150	 Time: 1.050	 Loss: 2.02019139
+2019-03-26 10:17:05,265 - root - INFO -   Epoch 101/150	 Time: 1.072	 Loss: 2.01093481
+2019-03-26 10:17:06,354 - root - INFO -   Epoch 102/150	 Time: 1.088	 Loss: 2.00301787
+2019-03-26 10:17:07,436 - root - INFO -   Epoch 103/150	 Time: 1.082	 Loss: 1.99576522
+2019-03-26 10:17:08,525 - root - INFO -   Epoch 104/150	 Time: 1.089	 Loss: 1.98596220
+2019-03-26 10:17:09,608 - root - INFO -   Epoch 105/150	 Time: 1.083	 Loss: 1.97758394
+2019-03-26 10:17:10,691 - root - INFO -   Epoch 106/150	 Time: 1.082	 Loss: 1.97034108
+2019-03-26 10:17:11,769 - root - INFO -   Epoch 107/150	 Time: 1.078	 Loss: 1.96219913
+2019-03-26 10:17:12,844 - root - INFO -   Epoch 108/150	 Time: 1.075	 Loss: 1.95237852
+2019-03-26 10:17:13,927 - root - INFO -   Epoch 109/150	 Time: 1.083	 Loss: 1.94510642
+2019-03-26 10:17:15,002 - root - INFO -   Epoch 110/150	 Time: 1.075	 Loss: 1.93664841
+2019-03-26 10:17:16,084 - root - INFO -   Epoch 111/150	 Time: 1.082	 Loss: 1.92927943
+2019-03-26 10:17:17,171 - root - INFO -   Epoch 112/150	 Time: 1.087	 Loss: 1.91945137
+2019-03-26 10:17:18,249 - root - INFO -   Epoch 113/150	 Time: 1.077	 Loss: 1.91105287
+2019-03-26 10:17:19,324 - root - INFO -   Epoch 114/150	 Time: 1.075	 Loss: 1.90366472
+2019-03-26 10:17:20,389 - root - INFO -   Epoch 115/150	 Time: 1.064	 Loss: 1.89450871
+2019-03-26 10:17:21,449 - root - INFO -   Epoch 116/150	 Time: 1.060	 Loss: 1.88550053
+2019-03-26 10:17:22,511 - root - INFO -   Epoch 117/150	 Time: 1.062	 Loss: 1.87751837
+2019-03-26 10:17:23,572 - root - INFO -   Epoch 118/150	 Time: 1.061	 Loss: 1.86953251
+2019-03-26 10:17:24,634 - root - INFO -   Epoch 119/150	 Time: 1.062	 Loss: 1.86022148
+2019-03-26 10:17:25,694 - root - INFO -   Epoch 120/150	 Time: 1.059	 Loss: 1.85185349
+2019-03-26 10:17:26,754 - root - INFO -   Epoch 121/150	 Time: 1.060	 Loss: 1.84416986
+2019-03-26 10:17:27,816 - root - INFO -   Epoch 122/150	 Time: 1.062	 Loss: 1.83633300
+2019-03-26 10:17:28,876 - root - INFO -   Epoch 123/150	 Time: 1.060	 Loss: 1.82694560
+2019-03-26 10:17:29,939 - root - INFO -   Epoch 124/150	 Time: 1.063	 Loss: 1.81815423
+2019-03-26 10:17:31,001 - root - INFO -   Epoch 125/150	 Time: 1.062	 Loss: 1.80864987
+2019-03-26 10:17:32,065 - root - INFO -   Epoch 126/150	 Time: 1.064	 Loss: 1.80210948
+2019-03-26 10:17:33,131 - root - INFO -   Epoch 127/150	 Time: 1.065	 Loss: 1.79310735
+2019-03-26 10:17:34,193 - root - INFO -   Epoch 128/150	 Time: 1.062	 Loss: 1.78383102
+2019-03-26 10:17:35,255 - root - INFO -   Epoch 129/150	 Time: 1.062	 Loss: 1.77467886
+2019-03-26 10:17:36,317 - root - INFO -   Epoch 130/150	 Time: 1.062	 Loss: 1.76937997
+2019-03-26 10:17:37,379 - root - INFO -   Epoch 131/150	 Time: 1.063	 Loss: 1.75817411
+2019-03-26 10:17:38,442 - root - INFO -   Epoch 132/150	 Time: 1.062	 Loss: 1.74990119
+2019-03-26 10:17:39,501 - root - INFO -   Epoch 133/150	 Time: 1.059	 Loss: 1.74166621
+2019-03-26 10:17:40,557 - root - INFO -   Epoch 134/150	 Time: 1.056	 Loss: 1.73384052
+2019-03-26 10:17:41,611 - root - INFO -   Epoch 135/150	 Time: 1.053	 Loss: 1.72592347
+2019-03-26 10:17:42,663 - root - INFO -   Epoch 136/150	 Time: 1.052	 Loss: 1.71727672
+2019-03-26 10:17:43,718 - root - INFO -   Epoch 137/150	 Time: 1.055	 Loss: 1.70832388
+2019-03-26 10:17:44,772 - root - INFO -   Epoch 138/150	 Time: 1.054	 Loss: 1.70021804
+2019-03-26 10:17:45,828 - root - INFO -   Epoch 139/150	 Time: 1.056	 Loss: 1.69045958
+2019-03-26 10:17:46,884 - root - INFO -   Epoch 140/150	 Time: 1.056	 Loss: 1.68278539
+2019-03-26 10:17:47,942 - root - INFO -   Epoch 141/150	 Time: 1.057	 Loss: 1.67643100
+2019-03-26 10:17:48,995 - root - INFO -   Epoch 142/150	 Time: 1.053	 Loss: 1.66651513
+2019-03-26 10:17:50,050 - root - INFO -   Epoch 143/150	 Time: 1.055	 Loss: 1.65783908
+2019-03-26 10:17:51,104 - root - INFO -   Epoch 144/150	 Time: 1.053	 Loss: 1.64851168
+2019-03-26 10:17:52,160 - root - INFO -   Epoch 145/150	 Time: 1.056	 Loss: 1.64122995
+2019-03-26 10:17:53,216 - root - INFO -   Epoch 146/150	 Time: 1.055	 Loss: 1.63303135
+2019-03-26 10:17:54,271 - root - INFO -   Epoch 147/150	 Time: 1.055	 Loss: 1.62581258
+2019-03-26 10:17:55,323 - root - INFO -   Epoch 148/150	 Time: 1.052	 Loss: 1.61683686
+2019-03-26 10:17:56,376 - root - INFO -   Epoch 149/150	 Time: 1.053	 Loss: 1.60831463
+2019-03-26 10:17:57,429 - root - INFO -   Epoch 150/150	 Time: 1.053	 Loss: 1.60025524
+2019-03-26 10:17:57,429 - root - INFO - Pretraining time: 159.603
+2019-03-26 10:17:57,429 - root - INFO - Finished pretraining.
+2019-03-26 10:17:57,429 - root - INFO - Testing autoencoder...
+2019-03-26 10:17:58,621 - root - INFO - Test set Loss: 2.91170992
+2019-03-26 10:17:58,624 - root - INFO - Test set AUC: 92.88%
+2019-03-26 10:17:58,624 - root - INFO - Autoencoder testing time: 1.194
+2019-03-26 10:17:58,624 - root - INFO - Finished testing autoencoder.
+2019-03-26 10:17:58,624 - root - INFO - Training optimizer: adam
+2019-03-26 10:17:58,625 - root - INFO - Training learning rate: 0.0001
+2019-03-26 10:17:58,625 - root - INFO - Training epochs: 150
+2019-03-26 10:17:58,625 - root - INFO - Training learning rate scheduler milestones: (50,)
+2019-03-26 10:17:58,625 - root - INFO - Training batch size: 200
+2019-03-26 10:17:58,625 - root - INFO - Training weight decay: 5e-07
+2019-03-26 10:17:58,625 - root - INFO - Initializing center c...
+2019-03-26 10:17:59,400 - root - INFO - Center c initialized.
+2019-03-26 10:17:59,400 - root - INFO - Starting training...
+2019-03-26 10:18:00,298 - root - INFO -   Epoch 1/150	 Time: 0.897	 Loss: 0.68499900
+2019-03-26 10:18:01,191 - root - INFO -   Epoch 2/150	 Time: 0.893	 Loss: 0.34528013
+2019-03-26 10:18:02,085 - root - INFO -   Epoch 3/150	 Time: 0.894	 Loss: 0.19336062
+2019-03-26 10:18:02,977 - root - INFO -   Epoch 4/150	 Time: 0.892	 Loss: 0.11987230
+2019-03-26 10:18:03,868 - root - INFO -   Epoch 5/150	 Time: 0.891	 Loss: 0.08432554
+2019-03-26 10:18:04,760 - root - INFO -   Epoch 6/150	 Time: 0.892	 Loss: 0.06533686
+2019-03-26 10:18:05,652 - root - INFO -   Epoch 7/150	 Time: 0.891	 Loss: 0.05379892
+2019-03-26 10:18:06,544 - root - INFO -   Epoch 8/150	 Time: 0.892	 Loss: 0.04611594
+2019-03-26 10:18:07,434 - root - INFO -   Epoch 9/150	 Time: 0.890	 Loss: 0.04052433
+2019-03-26 10:18:08,324 - root - INFO -   Epoch 10/150	 Time: 0.890	 Loss: 0.03619960
+2019-03-26 10:18:09,216 - root - INFO -   Epoch 11/150	 Time: 0.891	 Loss: 0.03291467
+2019-03-26 10:18:10,111 - root - INFO -   Epoch 12/150	 Time: 0.895	 Loss: 0.03005664
+2019-03-26 10:18:11,011 - root - INFO -   Epoch 13/150	 Time: 0.900	 Loss: 0.02798241
+2019-03-26 10:18:11,910 - root - INFO -   Epoch 14/150	 Time: 0.899	 Loss: 0.02579564
+2019-03-26 10:18:12,803 - root - INFO -   Epoch 15/150	 Time: 0.892	 Loss: 0.02425401
+2019-03-26 10:18:13,697 - root - INFO -   Epoch 16/150	 Time: 0.894	 Loss: 0.02253035
+2019-03-26 10:18:14,593 - root - INFO -   Epoch 17/150	 Time: 0.895	 Loss: 0.02157461
+2019-03-26 10:18:15,486 - root - INFO -   Epoch 18/150	 Time: 0.893	 Loss: 0.02034138
+2019-03-26 10:18:16,377 - root - INFO -   Epoch 19/150	 Time: 0.891	 Loss: 0.01887699
+2019-03-26 10:18:17,274 - root - INFO -   Epoch 20/150	 Time: 0.897	 Loss: 0.01804063
+2019-03-26 10:18:18,170 - root - INFO -   Epoch 21/150	 Time: 0.895	 Loss: 0.01731526
+2019-03-26 10:18:19,065 - root - INFO -   Epoch 22/150	 Time: 0.896	 Loss: 0.01661504
+2019-03-26 10:18:19,963 - root - INFO -   Epoch 23/150	 Time: 0.898	 Loss: 0.01584885
+2019-03-26 10:18:20,867 - root - INFO -   Epoch 24/150	 Time: 0.903	 Loss: 0.01504702
+2019-03-26 10:18:21,771 - root - INFO -   Epoch 25/150	 Time: 0.904	 Loss: 0.01430110
+2019-03-26 10:18:22,677 - root - INFO -   Epoch 26/150	 Time: 0.906	 Loss: 0.01399885
+2019-03-26 10:18:23,575 - root - INFO -   Epoch 27/150	 Time: 0.897	 Loss: 0.01347256
+2019-03-26 10:18:24,474 - root - INFO -   Epoch 28/150	 Time: 0.899	 Loss: 0.01286758
+2019-03-26 10:18:25,372 - root - INFO -   Epoch 29/150	 Time: 0.898	 Loss: 0.01233992
+2019-03-26 10:18:26,271 - root - INFO -   Epoch 30/150	 Time: 0.898	 Loss: 0.01196045
+2019-03-26 10:18:27,189 - root - INFO -   Epoch 31/150	 Time: 0.918	 Loss: 0.01142903
+2019-03-26 10:18:28,088 - root - INFO -   Epoch 32/150	 Time: 0.900	 Loss: 0.01103569
+2019-03-26 10:18:28,989 - root - INFO -   Epoch 33/150	 Time: 0.900	 Loss: 0.01059934
+2019-03-26 10:18:29,891 - root - INFO -   Epoch 34/150	 Time: 0.902	 Loss: 0.01020217
+2019-03-26 10:18:30,798 - root - INFO -   Epoch 35/150	 Time: 0.907	 Loss: 0.00993181
+2019-03-26 10:18:31,699 - root - INFO -   Epoch 36/150	 Time: 0.901	 Loss: 0.00972785
+2019-03-26 10:18:32,599 - root - INFO -   Epoch 37/150	 Time: 0.900	 Loss: 0.00973514
+2019-03-26 10:18:33,499 - root - INFO -   Epoch 38/150	 Time: 0.900	 Loss: 0.00910207
+2019-03-26 10:18:34,398 - root - INFO -   Epoch 39/150	 Time: 0.899	 Loss: 0.00891323
+2019-03-26 10:18:35,298 - root - INFO -   Epoch 40/150	 Time: 0.900	 Loss: 0.00863415
+2019-03-26 10:18:36,199 - root - INFO -   Epoch 41/150	 Time: 0.901	 Loss: 0.00827452
+2019-03-26 10:18:37,099 - root - INFO -   Epoch 42/150	 Time: 0.900	 Loss: 0.00796851
+2019-03-26 10:18:37,997 - root - INFO -   Epoch 43/150	 Time: 0.898	 Loss: 0.00793142
+2019-03-26 10:18:38,895 - root - INFO -   Epoch 44/150	 Time: 0.899	 Loss: 0.00775404
+2019-03-26 10:18:39,784 - root - INFO -   Epoch 45/150	 Time: 0.888	 Loss: 0.00752366
+2019-03-26 10:18:40,673 - root - INFO -   Epoch 46/150	 Time: 0.888	 Loss: 0.00738555
+2019-03-26 10:18:41,565 - root - INFO -   Epoch 47/150	 Time: 0.892	 Loss: 0.00706079
+2019-03-26 10:18:42,467 - root - INFO -   Epoch 48/150	 Time: 0.902	 Loss: 0.00701552
+2019-03-26 10:18:43,370 - root - INFO -   Epoch 49/150	 Time: 0.902	 Loss: 0.00730560
+2019-03-26 10:18:44,273 - root - INFO -   Epoch 50/150	 Time: 0.903	 Loss: 0.00677997
+2019-03-26 10:18:44,273 - root - INFO -   LR scheduler: new learning rate is 1e-05
+2019-03-26 10:18:45,176 - root - INFO -   Epoch 51/150	 Time: 0.902	 Loss: 0.00640723
+2019-03-26 10:18:46,080 - root - INFO -   Epoch 52/150	 Time: 0.904	 Loss: 0.00631336
+2019-03-26 10:18:46,976 - root - INFO -   Epoch 53/150	 Time: 0.896	 Loss: 0.00634842
+2019-03-26 10:18:47,875 - root - INFO -   Epoch 54/150	 Time: 0.899	 Loss: 0.00635468
+2019-03-26 10:18:48,770 - root - INFO -   Epoch 55/150	 Time: 0.895	 Loss: 0.00637847
+2019-03-26 10:18:49,668 - root - INFO -   Epoch 56/150	 Time: 0.898	 Loss: 0.00631688
+2019-03-26 10:18:50,568 - root - INFO -   Epoch 57/150	 Time: 0.900	 Loss: 0.00627759
+2019-03-26 10:18:51,468 - root - INFO -   Epoch 58/150	 Time: 0.900	 Loss: 0.00633611
+2019-03-26 10:18:52,372 - root - INFO -   Epoch 59/150	 Time: 0.903	 Loss: 0.00625497
+2019-03-26 10:18:53,271 - root - INFO -   Epoch 60/150	 Time: 0.899	 Loss: 0.00640119
+2019-03-26 10:18:54,164 - root - INFO -   Epoch 61/150	 Time: 0.892	 Loss: 0.00621766
+2019-03-26 10:18:55,051 - root - INFO -   Epoch 62/150	 Time: 0.888	 Loss: 0.00628569
+2019-03-26 10:18:55,959 - root - INFO -   Epoch 63/150	 Time: 0.907	 Loss: 0.00629320
+2019-03-26 10:18:56,858 - root - INFO -   Epoch 64/150	 Time: 0.899	 Loss: 0.00624437
+2019-03-26 10:18:57,751 - root - INFO -   Epoch 65/150	 Time: 0.892	 Loss: 0.00616177
+2019-03-26 10:18:58,644 - root - INFO -   Epoch 66/150	 Time: 0.894	 Loss: 0.00616654
+2019-03-26 10:18:59,537 - root - INFO -   Epoch 67/150	 Time: 0.892	 Loss: 0.00610961
+2019-03-26 10:19:00,431 - root - INFO -   Epoch 68/150	 Time: 0.894	 Loss: 0.00605968
+2019-03-26 10:19:01,323 - root - INFO -   Epoch 69/150	 Time: 0.892	 Loss: 0.00614769
+2019-03-26 10:19:02,215 - root - INFO -   Epoch 70/150	 Time: 0.893	 Loss: 0.00615597
+2019-03-26 10:19:03,107 - root - INFO -   Epoch 71/150	 Time: 0.891	 Loss: 0.00607177
+2019-03-26 10:19:04,000 - root - INFO -   Epoch 72/150	 Time: 0.894	 Loss: 0.00601541
+2019-03-26 10:19:04,891 - root - INFO -   Epoch 73/150	 Time: 0.890	 Loss: 0.00594405
+2019-03-26 10:19:05,783 - root - INFO -   Epoch 74/150	 Time: 0.892	 Loss: 0.00608715
+2019-03-26 10:19:06,675 - root - INFO -   Epoch 75/150	 Time: 0.892	 Loss: 0.00610761
+2019-03-26 10:19:07,567 - root - INFO -   Epoch 76/150	 Time: 0.892	 Loss: 0.00607940
+2019-03-26 10:19:08,459 - root - INFO -   Epoch 77/150	 Time: 0.892	 Loss: 0.00590616
+2019-03-26 10:19:09,350 - root - INFO -   Epoch 78/150	 Time: 0.891	 Loss: 0.00583797
+2019-03-26 10:19:10,244 - root - INFO -   Epoch 79/150	 Time: 0.893	 Loss: 0.00598752
+2019-03-26 10:19:11,135 - root - INFO -   Epoch 80/150	 Time: 0.891	 Loss: 0.00593218
+2019-03-26 10:19:12,028 - root - INFO -   Epoch 81/150	 Time: 0.893	 Loss: 0.00580421
+2019-03-26 10:19:12,919 - root - INFO -   Epoch 82/150	 Time: 0.891	 Loss: 0.00586327
+2019-03-26 10:19:13,812 - root - INFO -   Epoch 83/150	 Time: 0.892	 Loss: 0.00592278
+2019-03-26 10:19:14,702 - root - INFO -   Epoch 84/150	 Time: 0.890	 Loss: 0.00577854
+2019-03-26 10:19:15,591 - root - INFO -   Epoch 85/150	 Time: 0.889	 Loss: 0.00576385
+2019-03-26 10:19:16,482 - root - INFO -   Epoch 86/150	 Time: 0.891	 Loss: 0.00577490
+2019-03-26 10:19:17,373 - root - INFO -   Epoch 87/150	 Time: 0.891	 Loss: 0.00582492
+2019-03-26 10:19:18,263 - root - INFO -   Epoch 88/150	 Time: 0.890	 Loss: 0.00580256
+2019-03-26 10:19:19,153 - root - INFO -   Epoch 89/150	 Time: 0.890	 Loss: 0.00591224
+2019-03-26 10:19:20,047 - root - INFO -   Epoch 90/150	 Time: 0.893	 Loss: 0.00578241
+2019-03-26 10:19:20,940 - root - INFO -   Epoch 91/150	 Time: 0.893	 Loss: 0.00585514
+2019-03-26 10:19:21,833 - root - INFO -   Epoch 92/150	 Time: 0.893	 Loss: 0.00568489
+2019-03-26 10:19:22,724 - root - INFO -   Epoch 93/150	 Time: 0.891	 Loss: 0.00569474
+2019-03-26 10:19:23,618 - root - INFO -   Epoch 94/150	 Time: 0.894	 Loss: 0.00563343
+2019-03-26 10:19:24,510 - root - INFO -   Epoch 95/150	 Time: 0.891	 Loss: 0.00567439
+2019-03-26 10:19:25,401 - root - INFO -   Epoch 96/150	 Time: 0.891	 Loss: 0.00553348
+2019-03-26 10:19:26,294 - root - INFO -   Epoch 97/150	 Time: 0.893	 Loss: 0.00561945
+2019-03-26 10:19:27,186 - root - INFO -   Epoch 98/150	 Time: 0.892	 Loss: 0.00553661
+2019-03-26 10:19:28,079 - root - INFO -   Epoch 99/150	 Time: 0.893	 Loss: 0.00558926
+2019-03-26 10:19:28,972 - root - INFO -   Epoch 100/150	 Time: 0.893	 Loss: 0.00551537
+2019-03-26 10:19:29,865 - root - INFO -   Epoch 101/150	 Time: 0.892	 Loss: 0.00553582
+2019-03-26 10:19:30,758 - root - INFO -   Epoch 102/150	 Time: 0.892	 Loss: 0.00554500
+2019-03-26 10:19:31,651 - root - INFO -   Epoch 103/150	 Time: 0.894	 Loss: 0.00550069
+2019-03-26 10:19:32,544 - root - INFO -   Epoch 104/150	 Time: 0.892	 Loss: 0.00553691
+2019-03-26 10:19:33,435 - root - INFO -   Epoch 105/150	 Time: 0.891	 Loss: 0.00550668
+2019-03-26 10:19:34,329 - root - INFO -   Epoch 106/150	 Time: 0.893	 Loss: 0.00553828
+2019-03-26 10:19:35,218 - root - INFO -   Epoch 107/150	 Time: 0.889	 Loss: 0.00553742
+2019-03-26 10:19:36,110 - root - INFO -   Epoch 108/150	 Time: 0.892	 Loss: 0.00555503
+2019-03-26 10:19:37,001 - root - INFO -   Epoch 109/150	 Time: 0.891	 Loss: 0.00540213
+2019-03-26 10:19:37,894 - root - INFO -   Epoch 110/150	 Time: 0.892	 Loss: 0.00547901
+2019-03-26 10:19:38,787 - root - INFO -   Epoch 111/150	 Time: 0.893	 Loss: 0.00549408
+2019-03-26 10:19:39,679 - root - INFO -   Epoch 112/150	 Time: 0.892	 Loss: 0.00543565
+2019-03-26 10:19:40,572 - root - INFO -   Epoch 113/150	 Time: 0.893	 Loss: 0.00530595
+2019-03-26 10:19:41,467 - root - INFO -   Epoch 114/150	 Time: 0.894	 Loss: 0.00531204
+2019-03-26 10:19:42,364 - root - INFO -   Epoch 115/150	 Time: 0.897	 Loss: 0.00525152
+2019-03-26 10:19:43,260 - root - INFO -   Epoch 116/150	 Time: 0.896	 Loss: 0.00519579
+2019-03-26 10:19:44,156 - root - INFO -   Epoch 117/150	 Time: 0.896	 Loss: 0.00528340
+2019-03-26 10:19:45,050 - root - INFO -   Epoch 118/150	 Time: 0.894	 Loss: 0.00527914
+2019-03-26 10:19:45,947 - root - INFO -   Epoch 119/150	 Time: 0.897	 Loss: 0.00527918
+2019-03-26 10:19:46,838 - root - INFO -   Epoch 120/150	 Time: 0.891	 Loss: 0.00515917
+2019-03-26 10:19:47,721 - root - INFO -   Epoch 121/150	 Time: 0.883	 Loss: 0.00534404
+2019-03-26 10:19:48,601 - root - INFO -   Epoch 122/150	 Time: 0.880	 Loss: 0.00504070
+2019-03-26 10:19:49,483 - root - INFO -   Epoch 123/150	 Time: 0.881	 Loss: 0.00529499
+2019-03-26 10:19:50,365 - root - INFO -   Epoch 124/150	 Time: 0.881	 Loss: 0.00507260
+2019-03-26 10:19:51,246 - root - INFO -   Epoch 125/150	 Time: 0.881	 Loss: 0.00506950
+2019-03-26 10:19:52,128 - root - INFO -   Epoch 126/150	 Time: 0.882	 Loss: 0.00508229
+2019-03-26 10:19:53,009 - root - INFO -   Epoch 127/150	 Time: 0.880	 Loss: 0.00498829
+2019-03-26 10:19:53,889 - root - INFO -   Epoch 128/150	 Time: 0.880	 Loss: 0.00513111
+2019-03-26 10:19:54,769 - root - INFO -   Epoch 129/150	 Time: 0.879	 Loss: 0.00509515
+2019-03-26 10:19:55,648 - root - INFO -   Epoch 130/150	 Time: 0.879	 Loss: 0.00500654
+2019-03-26 10:19:56,527 - root - INFO -   Epoch 131/150	 Time: 0.879	 Loss: 0.00495237
+2019-03-26 10:19:57,404 - root - INFO -   Epoch 132/150	 Time: 0.877	 Loss: 0.00504261
+2019-03-26 10:19:58,285 - root - INFO -   Epoch 133/150	 Time: 0.880	 Loss: 0.00498007
+2019-03-26 10:19:59,163 - root - INFO -   Epoch 134/150	 Time: 0.879	 Loss: 0.00502217
+2019-03-26 10:20:00,044 - root - INFO -   Epoch 135/150	 Time: 0.881	 Loss: 0.00494067
+2019-03-26 10:20:00,924 - root - INFO -   Epoch 136/150	 Time: 0.880	 Loss: 0.00492358
+2019-03-26 10:20:01,804 - root - INFO -   Epoch 137/150	 Time: 0.880	 Loss: 0.00508089
+2019-03-26 10:20:02,684 - root - INFO -   Epoch 138/150	 Time: 0.880	 Loss: 0.00498727
+2019-03-26 10:20:03,565 - root - INFO -   Epoch 139/150	 Time: 0.880	 Loss: 0.00475505
+2019-03-26 10:20:04,446 - root - INFO -   Epoch 140/150	 Time: 0.881	 Loss: 0.00490186
+2019-03-26 10:20:05,327 - root - INFO -   Epoch 141/150	 Time: 0.881	 Loss: 0.00496376
+2019-03-26 10:20:06,208 - root - INFO -   Epoch 142/150	 Time: 0.881	 Loss: 0.00495135
+2019-03-26 10:20:07,088 - root - INFO -   Epoch 143/150	 Time: 0.880	 Loss: 0.00473919
+2019-03-26 10:20:07,970 - root - INFO -   Epoch 144/150	 Time: 0.882	 Loss: 0.00488698
+2019-03-26 10:20:08,845 - root - INFO -   Epoch 145/150	 Time: 0.875	 Loss: 0.00477960
+2019-03-26 10:20:09,714 - root - INFO -   Epoch 146/150	 Time: 0.869	 Loss: 0.00474411
+2019-03-26 10:20:10,579 - root - INFO -   Epoch 147/150	 Time: 0.865	 Loss: 0.00484822
+2019-03-26 10:20:11,447 - root - INFO -   Epoch 148/150	 Time: 0.868	 Loss: 0.00471523
+2019-03-26 10:20:12,317 - root - INFO -   Epoch 149/150	 Time: 0.870	 Loss: 0.00478284
+2019-03-26 10:20:13,183 - root - INFO -   Epoch 150/150	 Time: 0.866	 Loss: 0.00469473
+2019-03-26 10:20:13,183 - root - INFO - Training time: 133.783
+2019-03-26 10:20:13,183 - root - INFO - Finished training.
+2019-03-26 10:20:13,183 - root - INFO - Starting testing...
+2019-03-26 10:20:14,281 - root - INFO - Testing time: 1.098
+2019-03-26 10:20:14,284 - root - INFO - Test set AUC: 99.53%
+2019-03-26 10:20:14,284 - root - INFO - Finished testing.
